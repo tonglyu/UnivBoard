@@ -6,10 +6,7 @@ http://flask.pocoo.org/docs/1.0/installation/#virtual-environments
 - Before you work on your project, activate the corresponding environment:
 ```
 . venv/bin/activate
-```
-On Windows:
-```
-venv\Scripts\activate
+(Windows: venv\Scripts\activate)
 ```
 
 - Libraries
