@@ -13,3 +13,4 @@ http://flask.pocoo.org/docs/1.0/installation/#virtual-environments
 ```
 pip install Flask
 ```
+- `requirements.txt`, `runtime.txt`, `Procfile` files are for deployment to heroku
