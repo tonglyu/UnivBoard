@@ -12,7 +12,6 @@ http://flask.pocoo.org/docs/1.0/installation/#virtual-environments
 - Libraries
 ```
 pip install Flask
-pip install flask_bootstrap
 ```
 - `requirements.txt`, `runtime.txt`, `Procfile` files are for deployment to heroku
 - Run
