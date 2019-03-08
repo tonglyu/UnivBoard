@@ -1,4 +1,4 @@
-{% extends 'bootstrap/base.html' %}
+{% extends 'base.html' %}
 
 {% block title %}Welcome to UnivBoard{% endblock %}
 
@@ -10,16 +10,10 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-          <a class="nav-item nav-link active" href="{{ url_for('search') }}">Home <span class="sr-only">(current)</span></a>
+          <a class="nav-item nav-link" href="{{ url_for('search') }}">Home</a>
           <a class="nav-item nav-link" href="{{ url_for('feature') }}">Feature</a>
         </div>
       </div>
     </nav>
-{% endblock %}
-
-{% block content %}
-{% endblock %}
-
-{% block scripts %}
 {% endblock %}
 
