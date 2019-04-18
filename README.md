@@ -11,7 +11,7 @@ http://flask.pocoo.org/docs/1.0/installation/#virtual-environments
 - In order to leave your virtual environment, just run deactivate
 - Libraries
 ```
-pip install Flask
+pip install -r requirements.txt
 ```
 - `requirements.txt`, `runtime.txt`, `Procfile` files are for deployment to heroku
 - Run
