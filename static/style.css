@@ -1,0 +1,17 @@
+.results-wrapper {
+    background-color: beige;
+    opacity: 0.9;
+}
+
+.bg-img {
+    background: url("images/bg-img-01.jpg") center center/cover no-repeat;
+    min-height: 100vh;
+}
+
+.search-card {
+    margin-top: 100px;
+    width: 40%;
+    max-height: 400px;
+    opacity: 0.9;
+    background-color:ghostwhite;
+}
