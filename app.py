@@ -10,7 +10,7 @@ es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
 
 @app.route('/')
 def index():
-    return render_template('search.html')
+    return render_template('index.html')
 
 @app.route('/search', methods=['POST'])
 def search_programs():
@@ -19,6 +19,10 @@ def search_programs():
     departments = request.values.getlist('depart')
     results = es.search(index="scu-program", body={"query": {"match": {'title':keywords}}})
     return render_template('search.html', results=results["hits"]["hits"])
+
+@app.route('/details')
+def show_details():
+    return render_template('details.html')
 
 @app.route('/feature')
 def feature():
