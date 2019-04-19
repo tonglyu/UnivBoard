@@ -15,10 +15,41 @@
                 </ul>
             </div>
             <div class="card-body tab-content">
-                <form class="tab-pane fade show active" id="program">
-                    1
+                <form action="{{ url_for('search_programs', _anchor='results') }}" method="post" class="tab-pane fade show active" id="program" role="form" onsubmit="submit">
+                    <div class="form-row">
+                        <div class="form-group col-md-12">
+                            <label for="search-input">Keyword</label>
+                            <input type="search" class="form-control" id="keywords" name="keywords" placeholder="Computer">
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-check form-check-inline">
+                            <label class="form-check-label" for="smc" style="margin-right: 5px;">Santa Monica Coll.</label>
+                            <input class="form-check-input" type="checkbox" id="smc" value="smc" name="univ">
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <label class="form-check-label" for="msmu" style="margin-right: 5px;">Mount Saint Mary’s Univ.</label>
+                            <input class="form-check-input" type="checkbox" id="msmu" value="msmu" name="univ">
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <label class="form-check-label" for="scu" style="margin-right: 5px;">Santa Clara Univ.</label>
+                            <input class="form-check-input" type="checkbox" id="scu" value="scu" name="univ">
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-12">
+                            <select class="selectpicker form-control" multiple data-live-search="true" id="department" title="Choose departments" data-actions-box="true" name="depart">
+                                <option>Computer Engineering</option>
+                                <option>Music</option>
+                                <option>Modern Language</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-row justify-content-center">
+                        <button type="submit" class="btn btn-outline-info">Search</button>
+                    </div>
                 </form>
-                <form class="tab-pane fade show" id="course">
+                <form action="{{ url_for('search_programs') }}" method="post" class="tab-pane fade show" id="course" role="form" onsubmit="submit">
                     2
                 </form>
             </div>
@@ -28,15 +59,34 @@
         <div class="col-md-3">
             filter
         </div>
-        <div class="col-md-9 results-wrapper">
+        <div class="col-md-9 results-wrapper" id="results">
             result list
-            <ul>
-                <li>1</li>
-                <li>2</li>
-                <li>3</li>
-                <li>4</li>
-                <li>5</li>
-            </ul>
+            <div class="table-responsive pre-scrollable" style="max-height: 435px;">
+                <table class="table table-hover">
+                  <thead>
+                    <tr>
+                        <th>Title</th>
+                        <th>Type</th>
+                        <th>University</th>
+                        <th>School</th>
+                        <th>Department</th>
+                        <th>Degree</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                        {% for item in results %}
+                            <tr>
+                                <td>{{ item['_source']['title'] }}</td>
+                                <td>{{ item['_source']['type'] }}</td>
+                                <td>{{ item['_source']['university'] }}</td>
+                                <td>{{ item['_source']['school'] }}</td>
+                                <td>{{ item['_source']['department'] }}</td>
+                                <td>{{ item['_source']['degree'] }}</td>
+                            </tr>
+                      {% endfor %}
+                  </tbody>
+                </table>
+                </div>
             <nav aria-label="Page navigation">
               <ul class="pagination">
                 <li class="page-item"><a class="page-link" href="#">Previous</a></li>
