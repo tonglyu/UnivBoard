@@ -27,6 +27,8 @@ def create_programs(input_dir):
                     program["department"] = department
                     if department == "":
                         program["department"] = "Graduate"
+                    if program["type"].startswith("Undergraduate"):
+                        program["degree"] = "Bachelor"
                     es.index(index='scu-program', doc_type='program', id=count, body=program)
                     count += 1
 

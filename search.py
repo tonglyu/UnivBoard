@@ -16,6 +16,8 @@ def paginate(results):
     return results_for_render, pagination
 
 def getPrograms(es):
+    suffix = "-program"
+    index=""
     keywords = request.form['keywords']
     universities = request.values.getlist('univ')
     departments = request.values.getlist('depart')
@@ -26,7 +28,8 @@ def getPrograms(es):
         "query": {
             "bool": {
                 "must": [],
-                "should": []
+                "should": [],
+                "minimum_should_match" : 0
             }
         }
     }
@@ -34,5 +37,12 @@ def getPrograms(es):
         body["query"]["bool"]["must"].append({"match": {'title':keywords}})
     for department in departments:
         body["query"]["bool"]["should"].append({"term": {'department.keyword':department}})
-    results = es.search(index="scu-program", body=body)
+    if len(body["query"]["bool"]["should"]) > 0:
+        body["query"]["bool"]["minimum_should_match"] = 1
+
+    for university in universities:
+        index += university + suffix + ","
+    if len(universities) == 0:
+        index = "smc-program,msmu-program,scu-program"
+    results = es.search(index=index.rstrip(","), body=body)
     return results

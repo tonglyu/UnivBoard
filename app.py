@@ -22,7 +22,7 @@ def search_programs():
 
     # Pagination
     results_for_render, pagination = search.paginate(results)
-    return render_template('search.html', results=results_for_render, pagination=pagination)
+    return render_template('search.html', results=results_for_render, pagination=pagination, type="program")
 
 @app.route('/details')
 def show_details():
