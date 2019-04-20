@@ -21,6 +21,10 @@ pip install -r requirements.txt
 ```
 bin/elasticsearch
 ```
+- Import data (SCU)
+```
+python data/create.py
+```
 - Run the project
 ```
 python app.py
