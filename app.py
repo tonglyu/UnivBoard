@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request
 import config
 from elasticsearch import Elasticsearch
-from flask_paginate import Pagination, get_page_parameter
+import search
 
 app = Flask(__name__)
 app.config.from_object(config)
@@ -18,21 +18,10 @@ def index():
 def search_programs():
     global results
     if request.method == "POST":
-        keywords = request.form['keywords']
-        universities = request.values.getlist('univ')
-        departments = request.values.getlist('depart')
-        results = es.search(index="scu-program", body={"from" : 0, "size" : 50, "query": {"match": {'title':keywords}}})
+        results = search.getPrograms(es)
 
     # Pagination
-    page = int(request.args.get('page', 1))
-    per_page = 5
-    offset = (page - 1) * per_page
-    search = False
-    q = request.args.get('q')
-    if q:
-        search = True
-    results_for_render = results["hits"]["hits"][offset: offset + per_page]
-    pagination = Pagination(page=page, per_page=per_page, offset=offset, total=len(results["hits"]["hits"]), search=search, css_framework='bootstrap4')
+    results_for_render, pagination = search.paginate(results)
     return render_template('search.html', results=results_for_render, pagination=pagination)
 
 @app.route('/details')
