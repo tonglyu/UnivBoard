@@ -20,5 +20,17 @@ def getPrograms(es):
     universities = request.values.getlist('univ')
     departments = request.values.getlist('depart')
     # return 50 results
-    results = es.search(index="scu-program", body={"from" : 0, "size" : 50, "query": {"match": {'title':keywords}}})
+    body = {
+        "from" : 0,
+        "size" : 50,
+        "query": {
+            "bool": {
+                "must": [
+                    {"match": {'title':keywords}},
+                    {"term": { "department.keyword": departments[0] }}
+                ]
+            }
+        }
+    }
+    results = es.search(index="scu-program", body=body)
     return results
