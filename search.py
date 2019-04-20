@@ -22,15 +22,17 @@ def getPrograms(es):
     # return 50 results
     body = {
         "from" : 0,
-        "size" : 50,
+        "size" : 30,
         "query": {
             "bool": {
-                "must": [
-                    {"match": {'title':keywords}},
-                    {"term": { "department.keyword": departments[0] }}
-                ]
+                "must": [],
+                "should": []
             }
         }
     }
+    if keywords != "":
+        body["query"]["bool"]["must"].append({"match": {'title':keywords}})
+    for department in departments:
+        body["query"]["bool"]["should"].append({"term": {'department.keyword':department}})
     results = es.search(index="scu-program", body=body)
     return results
