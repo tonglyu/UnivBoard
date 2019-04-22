@@ -9,7 +9,10 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 590",
-        "related courses": []
+        "related courses": [
+            "LAW 114",
+            "LAW 706"
+        ]
     },
     {
         "abbr": "LAW",
@@ -45,11 +48,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 342",
-        "related courses": [
-            "BOE. S",
-            "BOE",
-            "BOE)"
-        ]
+        "related courses": []
     },
     {
         "id": "452",
@@ -109,10 +108,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 533",
-        "related courses": [
-            "CPUC)",
-            "FCC)"
-        ]
+        "related courses": []
     },
     {
         "id": "359",
@@ -172,9 +168,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 525",
-        "related courses": [
-            "LLM"
-        ]
+        "related courses": []
     },
     {
         "id": "562",
@@ -222,7 +216,9 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 229",
-        "related courses": []
+        "related courses": [
+            "LAW 248"
+        ]
     },
     {
         "id": "289",
@@ -295,7 +291,7 @@
         "department": "Graduate",
         "initial": "LAW 227",
         "related courses": [
-            "LAW 535 T"
+            "LAW 388"
         ]
     },
     {
@@ -333,7 +329,7 @@
         "department": "Graduate",
         "initial": "LAW 478",
         "related courses": [
-            "UTSA)"
+            "LAW 388"
         ]
     },
     {
@@ -849,9 +845,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 661",
-        "related courses": [
-            "MAY"
-        ]
+        "related courses": []
     },
     {
         "id": "424",
@@ -863,9 +857,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 424",
-        "related courses": [
-            "USOC/IOC"
-        ]
+        "related courses": []
     },
     {
         "id": "423",
@@ -985,9 +977,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 346",
-        "related courses": [
-            "DNA"
-        ]
+        "related courses": []
     },
     {
         "id": "324",
@@ -1035,7 +1025,11 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 317",
-        "related courses": []
+        "related courses": [
+            "LAW 1",
+            "LAW 2",
+            "LAW 3"
+        ]
     },
     {
         "id": "408A",
@@ -1132,7 +1126,7 @@
         "department": "Graduate",
         "initial": "LAW 636",
         "related courses": [
-            "LLM C"
+            "LAW 388"
         ]
     },
     {
@@ -1145,11 +1139,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 505B",
-        "related courses": [
-            "DNA",
-            "NCIP B",
-            "NCIP"
-        ]
+        "related courses": []
     },
     {
         "id": "233",
@@ -1161,7 +1151,9 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 233",
-        "related courses": []
+        "related courses": [
+            "LAW 388"
+        ]
     },
     {
         "id": "515B",
@@ -1233,11 +1225,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 505A",
-        "related courses": [
-            "DNA",
-            "NCIP B",
-            "NCIP"
-        ]
+        "related courses": []
     },
     {
         "id": "327",
@@ -1285,9 +1273,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 520",
-        "related courses": [
-            "DSL"
-        ]
+        "related courses": []
     },
     {
         "id": "671",
@@ -1323,7 +1309,9 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 724",
-        "related courses": []
+        "related courses": [
+            "LAW 270"
+        ]
     },
     {
         "id": "724A",
@@ -1335,7 +1323,9 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 724A",
-        "related courses": []
+        "related courses": [
+            "LAW 270"
+        ]
     },
     {
         "id": "714",
@@ -1371,9 +1361,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 376",
-        "related courses": [
-            "IRAC"
-        ]
+        "related courses": []
     },
     {
         "id": "352",
@@ -1409,9 +1397,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 101B",
-        "related courses": [
-            "LAW 101A"
-        ]
+        "related courses": []
     },
     {
         "id": "101A",
@@ -1448,7 +1434,7 @@
         "department": "Graduate",
         "initial": "LAW 649",
         "related courses": [
-            "LLM"
+            "LAW 388"
         ]
     },
     {
@@ -1473,10 +1459,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 387",
-        "related courses": [
-            "IPO. T",
-            "LLM"
-        ]
+        "related courses": []
     },
     {
         "id": "387",
@@ -1488,9 +1471,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 387",
-        "related courses": [
-            "IPO. T"
-        ]
+        "related courses": []
     },
     {
         "id": "204",
@@ -1502,7 +1483,9 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 204",
-        "related courses": []
+        "related courses": [
+            "LAW 1991"
+        ]
     },
     {
         "id": "720",
@@ -1670,9 +1653,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 463",
-        "related courses": [
-            "ERISA"
-        ]
+        "related courses": []
     },
     {
         "id": "715",
@@ -1708,10 +1689,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 469",
-        "related courses": [
-            "MUST",
-            "VAWA"
-        ]
+        "related courses": []
     },
     {
         "id": "468",
@@ -1735,9 +1713,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 511",
-        "related courses": [
-            "KGACLC"
-        ]
+        "related courses": []
     },
     {
         "id": "481",
@@ -1749,9 +1725,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 481",
-        "related courses": [
-            "KGACLC"
-        ]
+        "related courses": []
     },
     {
         "id": "532",
@@ -1775,9 +1749,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 531",
-        "related courses": [
-            "FLY"
-        ]
+        "related courses": []
     },
     {
         "id": "402",
@@ -1802,7 +1774,7 @@
         "department": "Graduate",
         "initial": "LAW 449",
         "related courses": [
-            "ABA'"
+            "LAW 2005"
         ]
     },
     {
@@ -1827,7 +1799,10 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 594A",
-        "related courses": []
+        "related courses": [
+            "LAW 1",
+            "LAW 2"
+        ]
     },
     {
         "id": "594B",
@@ -1839,7 +1814,11 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 594B",
-        "related courses": []
+        "related courses": [
+            "LAW 1",
+            "LAW 2",
+            "LAW 706"
+        ]
     },
     {
         "id": "790",
@@ -1851,9 +1830,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 790",
-        "related courses": [
-            "GPA)"
-        ]
+        "related courses": []
     },
     {
         "id": "594C",
@@ -1901,9 +1878,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 383",
-        "related courses": [
-            "LLM C"
-        ]
+        "related courses": []
     },
     {
         "id": "725",
@@ -1975,7 +1950,10 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 276",
-        "related courses": []
+        "related courses": [
+            "LAW 248",
+            "LAW 270"
+        ]
     },
     {
         "id": "218",
@@ -2012,7 +1990,7 @@
         "department": "Graduate",
         "initial": "LAW 439",
         "related courses": [
-            "LLM"
+            "LAW 388"
         ]
     },
     {
@@ -2025,10 +2003,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 727B",
-        "related courses": [
-            "IHRC)",
-            "IHRC"
-        ]
+        "related courses": []
     },
     {
         "id": "727A",
@@ -2040,10 +2015,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 727A",
-        "related courses": [
-            "IHRC)",
-            "IHRC"
-        ]
+        "related courses": []
     },
     {
         "id": "440",
@@ -2068,7 +2040,7 @@
         "department": "Graduate",
         "initial": "LAW 355",
         "related courses": [
-            "LARAW"
+            "LAW 114"
         ]
     },
     {
@@ -2261,9 +2233,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 399B",
-        "related courses": [
-            "HMCE)"
-        ]
+        "related courses": []
     },
     {
         "id": "399",
@@ -2287,9 +2257,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 398",
-        "related courses": [
-            "HMCI)"
-        ]
+        "related courses": []
     },
     {
         "id": "396",
@@ -2397,11 +2365,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 210",
-        "related courses": [
-            "OTC",
-            "FDA",
-            "FDA-"
-        ]
+        "related courses": []
     },
     {
         "id": "301",
@@ -2497,9 +2461,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 707",
-        "related courses": [
-            "TWEN.  C"
-        ]
+        "related courses": []
     },
     {
         "id": "570",
@@ -2583,11 +2545,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 482",
-        "related courses": [
-            "ELC",
-            "ELC\u201d",
-            "ELC D"
-        ]
+        "related courses": []
     },
     {
         "id": "243",
@@ -2599,10 +2557,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 243",
-        "related courses": [
-            "NEPA",
-            "CEQA"
-        ]
+        "related courses": []
     },
     {
         "id": "482B",
@@ -2650,7 +2605,15 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 239",
-        "related courses": []
+        "related courses": [
+            "LAW 1",
+            "LAW 2",
+            "LAW 3",
+            "LAW 4",
+            "LAW 5",
+            "LAW 6",
+            "LAW 7"
+        ]
     },
     {
         "id": "223",
@@ -2686,9 +2649,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 294",
-        "related courses": [
-            "SSI)"
-        ]
+        "related courses": []
     },
     {
         "id": "241",
@@ -2760,7 +2721,10 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 545B",
-        "related courses": []
+        "related courses": [
+            "LAW 114",
+            "LAW 706"
+        ]
     },
     {
         "id": "350",
@@ -2772,11 +2736,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 350",
-        "related courses": [
-            "HIPAA)",
-            "IDEIA)",
-            "COBRA)"
-        ]
+        "related courses": []
     },
     {
         "id": "545A",
@@ -2788,7 +2748,10 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 545A",
-        "related courses": []
+        "related courses": [
+            "LAW 114",
+            "LAW 706"
+        ]
     },
     {
         "id": "260",
@@ -2896,7 +2859,9 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 591C",
-        "related courses": []
+        "related courses": [
+            "LAW 320"
+        ]
     },
     {
         "id": "561",
@@ -2908,7 +2873,11 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 561",
-        "related courses": []
+        "related courses": [
+            "LAW 114",
+            "LAW 591",
+            "LAW 706"
+        ]
     },
     {
         "id": "591B",
@@ -2932,7 +2901,10 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 591A",
-        "related courses": []
+        "related courses": [
+            "LAW 106",
+            "LAW 706"
+        ]
     },
     {
         "id": "272",
@@ -2980,7 +2952,9 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 516",
-        "related courses": []
+        "related courses": [
+            "LAW 248"
+        ]
     },
     {
         "id": "548",
@@ -2993,7 +2967,7 @@
         "department": "Graduate",
         "initial": "LAW 548",
         "related courses": [
-            "MBA"
+            "LAW 248"
         ]
     },
     {
@@ -3006,7 +2980,9 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 385",
-        "related courses": []
+        "related courses": [
+            "LAW 388"
+        ]
     },
     {
         "id": "102D",
@@ -3018,9 +2994,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 102D",
-        "related courses": [
-            "LAW 102C"
-        ]
+        "related courses": []
     },
     {
         "id": "102B",
@@ -3032,9 +3006,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 102B",
-        "related courses": [
-            "LAW 102A"
-        ]
+        "related courses": []
     },
     {
         "id": "102C",
@@ -3321,9 +3293,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 114B",
-        "related courses": [
-            "LAW 114A"
-        ]
+        "related courses": []
     },
     {
         "id": "114",
@@ -3347,7 +3317,11 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 597",
-        "related courses": []
+        "related courses": [
+            "LAW 114",
+            "LAW 590",
+            "LAW 706"
+        ]
     },
     {
         "id": "400",
@@ -3383,9 +3357,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 300",
-        "related courses": [
-            "ADR"
-        ]
+        "related courses": []
     },
     {
         "id": "712",
@@ -3445,9 +3417,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 674",
-        "related courses": [
-            "SCU"
-        ]
+        "related courses": []
     },
     {
         "id": "724C",
@@ -3519,9 +3489,7 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 374",
-        "related courses": [
-            "SEC"
-        ]
+        "related courses": []
     },
     {
         "id": "728B",
@@ -3593,7 +3561,9 @@
         "school": "School of LAW",
         "department": "Graduate",
         "initial": "LAW 395",
-        "related courses": []
+        "related courses": [
+            "LAW 105"
+        ]
     },
     {
         "abbr": "MUSC",
@@ -3650,8 +3620,8 @@
         "department": "Music",
         "initial": "MUSC 2A",
         "related courses": [
-            "MUSC 2",
-            "MUSC 1A"
+            "MUSC 1A",
+            "MUSC 2"
         ]
     },
     {
@@ -3749,8 +3719,8 @@
         "department": "Music",
         "initial": "MUSC 11A and 12A",
         "related courses": [
-            "MUSC 12A",
-            "MUSC 11A"
+            "MUSC 11A",
+            "MUSC 12A"
         ]
     },
     {
@@ -4351,8 +4321,8 @@
         "department": "Anthropology",
         "initial": "ANTH 50",
         "related courses": [
-            "POLI 50",
-            "ENVS 50"
+            "ENVS 50",
+            "POLI 50"
         ]
     },
     {
@@ -4419,8 +4389,8 @@
         "department": "Anthropology",
         "initial": "ANTH 112",
         "related courses": [
-            "ANTH 2",
             "ANTH 1",
+            "ANTH 2",
             "ANTH 3"
         ]
     },
@@ -4816,8 +4786,8 @@
         "department": "Anthropology",
         "initial": "ANTH 173",
         "related courses": [
-            "HIST 107",
-            "CLAS 172"
+            "CLAS 172",
+            "HIST 107"
         ]
     },
     {
@@ -4833,9 +4803,9 @@
         "initial": "ANTH 174",
         "related courses": [
             "RSOC 116",
-            "TESP 20",
+            "RSOC 20",
             "SCTR 20",
-            "RSOC 20"
+            "TESP 20"
         ]
     },
     {
@@ -5161,8 +5131,8 @@
         "department": "Ethnic Studies",
         "initial": "ETHN 35",
         "related courses": [
-            "WGST 14",
-            "ENGL 35G"
+            "ENGL 35G",
+            "WGST 14"
         ]
     },
     {
@@ -5291,8 +5261,8 @@
         "department": "Ethnic Studies",
         "initial": "ETHN 70",
         "related courses": [
-            "WGST 16",
-            "ENGL 39"
+            "ENGL 39",
+            "WGST 16"
         ]
     },
     {
@@ -5681,8 +5651,8 @@
         "department": "Ethnic Studies",
         "initial": "ETHN 151",
         "related courses": [
-            "WGST 115",
-            "SOCI 153"
+            "SOCI 153",
+            "WGST 115"
         ]
     },
     {
@@ -5784,8 +5754,8 @@
         "department": "Ethnic Studies",
         "initial": "ETHN 159",
         "related courses": [
-            "WGST 116",
-            "COMM 164A"
+            "COMM 164A",
+            "WGST 116"
         ]
     },
     {
@@ -6095,9 +6065,9 @@
         "department": "Neuroscience",
         "initial": "NEUR 190",
         "related courses": [
+            "BIOL 160",
             "ENVS 110",
-            "NEUR 150",
-            "BIOL 160"
+            "NEUR 150"
         ]
     },
     {
@@ -6112,8 +6082,8 @@
         "department": "Art and Art History",
         "initial": "ARTH 11A and 12A",
         "related courses": [
-            "ARTH 12A",
-            "ARTH 11A"
+            "ARTH 11A",
+            "ARTH 12A"
         ]
     },
     {
@@ -6128,8 +6098,8 @@
         "department": "Art and Art History",
         "initial": "ARTH 21",
         "related courses": [
-            "HNRS 11A",
-            "ARTH 11A"
+            "ARTH 11A",
+            "HNRS 11A"
         ]
     },
     {
@@ -6480,8 +6450,8 @@
         "department": "Art and Art History",
         "initial": "ARTH 143",
         "related courses": [
-            "WGST 156",
-            "ARTH 188"
+            "ARTH 188",
+            "WGST 156"
         ]
     },
     {
@@ -6548,8 +6518,8 @@
         "department": "Art and Art History",
         "initial": "ARTH 152",
         "related courses": [
-            "BCE",
-            "ARTH 151"
+            "ARTH 151",
+            "BCE"
         ]
     },
     {
@@ -7055,8 +7025,8 @@
         "department": "Art and Art History",
         "initial": "ARTS 146",
         "related courses": [
-            "ARTS 46",
-            "ARTS 43"
+            "ARTS 43",
+            "ARTS 46"
         ]
     },
     {
@@ -7086,10 +7056,10 @@
         "department": "Art and Art History",
         "initial": "ARTS 151",
         "related courses": [
-            "CBL)",
-            "ARTS 57",
             "ARTS 150",
-            "ARTS 50"
+            "ARTS 50",
+            "ARTS 57",
+            "CBL)"
         ]
     },
     {
@@ -7119,10 +7089,10 @@
         "department": "Art and Art History",
         "initial": "ARTS 155",
         "related courses": [
-            "ARTS 50",
-            "ARTS 151",
             "ARTS 150",
+            "ARTS 151",
             "ARTS 157",
+            "ARTS 50",
             "ARTS 57"
         ]
     },
@@ -7138,9 +7108,9 @@
         "department": "Art and Art History",
         "initial": "ARTS 156",
         "related courses": [
-            "ARTS 57",
             "ARTS 150",
-            "ARTS 50"
+            "ARTS 50",
+            "ARTS 57"
         ]
     },
     {
@@ -7155,8 +7125,8 @@
         "department": "Art and Art History",
         "initial": "ARTS 158",
         "related courses": [
-            "RAW",
             "ARTS 57",
+            "RAW",
             "SLR"
         ]
     },
@@ -7172,10 +7142,10 @@
         "department": "Art and Art History",
         "initial": "ARTS 159",
         "related courses": [
-            "ARTS 57",
             "ARTS 150",
+            "ARTS 157",
             "ARTS 50",
-            "ARTS 157"
+            "ARTS 57"
         ]
     },
     {
@@ -7235,8 +7205,8 @@
         "department": "Art and Art History",
         "initial": "ARTS 171",
         "related courses": [
-            "ARTS 35",
             "ARTS 135",
+            "ARTS 35",
             "ARTS 37",
             "ARTS 74"
         ]
@@ -7283,8 +7253,8 @@
         "department": "Art and Art History",
         "initial": "ARTS 175",
         "related courses": [
-            "ARTS 75",
-            "ARTS 74"
+            "ARTS 74",
+            "ARTS 75"
         ]
     },
     {
@@ -7314,9 +7284,9 @@
         "department": "Art and Art History",
         "initial": "ARTS 177",
         "related courses": [
-            "ARTS 75",
+            "ARTS 174",
             "ARTS 74",
-            "ARTS 174"
+            "ARTS 75"
         ]
     },
     {
@@ -7346,9 +7316,9 @@
         "department": "Art and Art History",
         "initial": "ARTS 179",
         "related courses": [
-            "ARTS 75",
+            "ARTS 174",
             "ARTS 74",
-            "ARTS 174"
+            "ARTS 75"
         ]
     },
     {
@@ -7419,8 +7389,8 @@
         "department": "Art and Art History",
         "initial": "ARTS 196",
         "related courses": [
-            "ARTS 196A",
-            "ARTS 100"
+            "ARTS 100",
+            "ARTS 196A"
         ]
     },
     {
@@ -7996,8 +7966,8 @@
         "department": "Classics",
         "initial": "CLAS 11A and 12A",
         "related courses": [
-            "CLAS 12A",
-            "CLAS 11A"
+            "CLAS 11A",
+            "CLAS 12A"
         ]
     },
     {
@@ -8163,8 +8133,8 @@
         "department": "Classics",
         "initial": "CLAS 109",
         "related courses": [
-            "VII. A",
-            "HIST 109"
+            "HIST 109",
+            "VII. A"
         ]
     },
     {
@@ -8237,11 +8207,11 @@
         "department": "Classics",
         "initial": "CLAS 118",
         "related courses": [
-            "BCE)",
-            "III",
             " P",
+            "BCE",
+            "BCE)",
             "HIST 106",
-            "BCE"
+            "III"
         ]
     },
     {
@@ -8256,8 +8226,8 @@
         "department": "Classics",
         "initial": "CLAS 141",
         "related courses": [
-            "WGST 133",
-            "PHIL 141D"
+            "PHIL 141D",
+            "WGST 133"
         ]
     },
     {
@@ -8313,8 +8283,8 @@
         "department": "Classics",
         "initial": "CLAS 172",
         "related courses": [
-            "HIST 107",
-            "ANTH 173"
+            "ANTH 173",
+            "HIST 107"
         ]
     },
     {
@@ -8517,8 +8487,8 @@
         "department": "Sociology",
         "initial": "SOCI 11A and 12A",
         "related courses": [
-            "SOCI 12A",
-            "SOCI 11A"
+            "SOCI 11A",
+            "SOCI 12A"
         ]
     },
     {
@@ -8656,9 +8626,9 @@
         "department": "Sociology",
         "initial": "SOCI 119",
         "related courses": [
+            "SOCI 1",
             "SOCI 117",
-            "SOCI 120",
-            "SOCI 1"
+            "SOCI 120"
         ]
     },
     {
@@ -8673,9 +8643,9 @@
         "department": "Sociology",
         "initial": "SOCI 120",
         "related courses": [
+            "SOCI 1",
             "SOCI 119",
-            "SPSS. P",
-            "SOCI 1"
+            "SPSS. P"
         ]
     },
     {
@@ -8690,8 +8660,8 @@
         "department": "Sociology",
         "initial": "SOCI 121",
         "related courses": [
-            "SOCI 119",
-            "SOCI 118"
+            "SOCI 118",
+            "SOCI 119"
         ]
     },
     {
@@ -8706,8 +8676,8 @@
         "department": "Sociology",
         "initial": "SOCI 122",
         "related courses": [
-            "SOCI 119",
-            "SOCI 118"
+            "SOCI 118",
+            "SOCI 119"
         ]
     },
     {
@@ -8944,8 +8914,8 @@
         "department": "Sociology",
         "initial": "SOCI 153",
         "related courses": [
-            "WGST 115",
-            "ETHN 151"
+            "ETHN 151",
+            "WGST 115"
         ]
     },
     {
@@ -9258,10 +9228,10 @@
         "department": "Mathematics and Computer Science",
         "initial": "MATH 11",
         "related courses": [
-            "MATH 31",
-            "MATH 9",
+            "MATH 11",
             "MATH 30",
-            "MATH 11"
+            "MATH 31",
+            "MATH 9"
         ]
     },
     {
@@ -9291,10 +9261,10 @@
         "department": "Mathematics and Computer Science",
         "initial": "MATH 12",
         "related courses": [
-            "MATH 31",
-            "MATH 30",
+            "MATH 11",
             "MATH 12",
-            "MATH 11"
+            "MATH 30",
+            "MATH 31"
         ]
     },
     {
@@ -9309,8 +9279,8 @@
         "department": "Mathematics and Computer Science",
         "initial": "MATH 13",
         "related courses": [
-            "MATH 13",
-            "MATH 12"
+            "MATH 12",
+            "MATH 13"
         ]
     },
     {
@@ -9325,8 +9295,8 @@
         "department": "Mathematics and Computer Science",
         "initial": "MATH 14",
         "related courses": [
-            "MATH 14",
-            "MATH 13"
+            "MATH 13",
+            "MATH 14"
         ]
     },
     {
@@ -9341,9 +9311,9 @@
         "department": "Mathematics and Computer Science",
         "initial": "MATH 22",
         "related courses": [
-            "MATH 22",
-            "MATH 13",
             "AMTH 106",
+            "MATH 13",
+            "MATH 22",
             "MATH 23"
         ]
     },
@@ -9359,9 +9329,9 @@
         "department": "Mathematics and Computer Science",
         "initial": "MATH 23",
         "related courses": [
-            "MATH 22",
-            "MATH 13",
             "AMTH 106",
+            "MATH 13",
+            "MATH 22",
             "MATH 23"
         ]
     },
@@ -9377,10 +9347,10 @@
         "department": "Mathematics and Computer Science",
         "initial": "MATH 30",
         "related courses": [
-            "MATH 9",
-            "MATH 30",
+            "MATH 11",
             "MATH 12",
-            "MATH 11"
+            "MATH 30",
+            "MATH 9"
         ]
     },
     {
@@ -9410,10 +9380,10 @@
         "department": "Mathematics and Computer Science",
         "initial": "MATH 31",
         "related courses": [
-            "MATH 31",
-            "MATH 30",
+            "MATH 11",
             "MATH 12",
-            "MATH 11"
+            "MATH 30",
+            "MATH 31"
         ]
     },
     {
@@ -9428,11 +9398,11 @@
         "department": "Mathematics and Computer Science",
         "initial": "MATH 35",
         "related courses": [
+            "MATH 11",
             "MATH 12",
-            "MATH 9",
-            "MATH 35",
             "MATH 30",
-            "MATH 11"
+            "MATH 35",
+            "MATH 9"
         ]
     },
     {
@@ -9447,11 +9417,11 @@
         "department": "Mathematics and Computer Science",
         "initial": "MATH 36",
         "related courses": [
+            "MATH 11",
             "MATH 12",
             "MATH 31",
-            "MATH 36",
             "MATH 35",
-            "MATH 11"
+            "MATH 36"
         ]
     },
     {
@@ -9666,9 +9636,9 @@
         "department": "Mathematics and Computer Science",
         "initial": "MATH 123",
         "related courses": [
+            "ANOVA)",
             "MATH 122",
-            "MATH 53",
-            "ANOVA)"
+            "MATH 53"
         ]
     },
     {
@@ -9797,9 +9767,9 @@
         "department": "Mathematics and Computer Science",
         "initial": "MATH 166",
         "related courses": [
-            "MATH 53",
             "CSCI 10",
-            "CSCI 166"
+            "CSCI 166",
+            "MATH 53"
         ]
     },
     {
@@ -9900,9 +9870,9 @@
         "department": "Mathematics and Computer Science",
         "initial": "MATH 178",
         "related courses": [
+            " RSA",
             "AES",
-            "CSCI 181",
-            " RSA"
+            "CSCI 181"
         ]
     },
     {
@@ -9995,9 +9965,9 @@
         "department": "Mathematics and Computer Science",
         "initial": "CSCI 10",
         "related courses": [
+            "COEN 10",
             "COEN 11",
-            "CSCI 10",
-            "COEN 10"
+            "CSCI 10"
         ]
     },
     {
@@ -10127,8 +10097,8 @@
         "department": "Mathematics and Computer Science",
         "initial": "CSCI 164",
         "related courses": [
-            "MATH 122",
-            "CSCI 10"
+            "CSCI 10",
+            "MATH 122"
         ]
     },
     {
@@ -10158,9 +10128,9 @@
         "department": "Mathematics and Computer Science",
         "initial": "CSCI 166",
         "related courses": [
+            "CSCI 10",
             "MATH 166",
-            "MATH 53",
-            "CSCI 10"
+            "MATH 53"
         ]
     },
     {
@@ -10188,8 +10158,8 @@
         "department": "Mathematics and Computer Science",
         "initial": "CSCI 168",
         "related courses": [
-            "MATH 13",
-            "CSCI 10"
+            "CSCI 10",
+            "MATH 13"
         ]
     },
     {
@@ -10204,8 +10174,8 @@
         "department": "Mathematics and Computer Science",
         "initial": "CSCI 169",
         "related courses": [
-            "MATH 51",
-            "CSCI 61"
+            "CSCI 61",
+            "MATH 51"
         ]
     },
     {
@@ -10235,8 +10205,8 @@
         "department": "Mathematics and Computer Science",
         "initial": "CSCI 181",
         "related courses": [
-            "MATH 178",
-            "CSCI 10"
+            "CSCI 10",
+            "MATH 178"
         ]
     },
     {
@@ -10296,10 +10266,10 @@
         "department": "Mathematics and Computer Science",
         "initial": "CSCI 187",
         "related courses": [
+            "COEN 174",
             "COEN 79",
             "CSCI 187",
-            "CSCI 61",
-            "COEN 174"
+            "CSCI 61"
         ]
     },
     {
@@ -10380,9 +10350,9 @@
         "initial": "ENVS 1A and 2A",
         "related courses": [
             "CTW I",
-            "ENVS 2A",
+            "CTW II",
             "ENVS 1A",
-            "CTW II"
+            "ENVS 2A"
         ]
     },
     {
@@ -10397,8 +10367,8 @@
         "department": "Environmental Studies and Sciences",
         "initial": "ENVS 11A and 12A",
         "related courses": [
-            "ENVS 12A",
-            "ENVS 11A"
+            "ENVS 11A",
+            "ENVS 12A"
         ]
     },
     {
@@ -10522,11 +10492,11 @@
         "department": "Environmental Studies and Sciences",
         "initial": "ENVS 101",
         "related courses": [
-            "ENVS 115",
-            "ESS",
             "ENVS 110",
+            "ENVS 115",
             "ENVS 21",
-            "ENVS 22"
+            "ENVS 22",
+            "ESS"
         ]
     },
     {
@@ -10541,9 +10511,9 @@
         "department": "Environmental Studies and Sciences",
         "initial": "ENVS 110",
         "related courses": [
-            "BIOL 25",
             "BIOL 160",
             "BIOL 1C",
+            "BIOL 25",
             "ENVS 21"
         ]
     },
@@ -10559,9 +10529,9 @@
         "department": "Environmental Studies and Sciences",
         "initial": "ENVS 116",
         "related courses": [
-            "GIS)",
+            "ENVS 21",
             "GIS",
-            "ENVS 21"
+            "GIS)"
         ]
     },
     {
@@ -10624,9 +10594,9 @@
         "department": "Environmental Studies and Sciences",
         "initial": "ENVS 124",
         "related courses": [
-            "EPA",
+            "CENG 124",
             "ENVS 22",
-            "CENG 124"
+            "EPA"
         ]
     },
     {
@@ -10656,10 +10626,10 @@
         "department": "Environmental Studies and Sciences",
         "initial": "ENVS 131",
         "related courses": [
-            "ENVS 22",
-            "ENVS 23",
             "BIOL 1C",
-            "ENVS 21"
+            "ENVS 21",
+            "ENVS 22",
+            "ENVS 23"
         ]
     },
     {
@@ -10733,11 +10703,11 @@
         "department": "Environmental Studies and Sciences",
         "initial": "ENVS 141",
         "related courses": [
-            "SCU",
+            "ANTH 1",
             "ANTH 197",
             "BIOL 1C",
-            "ANTH 1",
-            "ENVS 21"
+            "ENVS 21",
+            "SCU"
         ]
     },
     {
@@ -10827,9 +10797,9 @@
         "department": "Environmental Studies and Sciences",
         "initial": "ENVS 148",
         "related courses": [
+            "ENVS 21",
             "ENVS 22",
-            "ENVS 23",
-            "ENVS 21"
+            "ENVS 23"
         ]
     },
     {
@@ -10953,8 +10923,8 @@
         "department": "Environmental Studies and Sciences",
         "initial": "ENVS 156",
         "related courses": [
-            "BIOL 1C",
-            "BIOL 156"
+            "BIOL 156",
+            "BIOL 1C"
         ]
     },
     {
@@ -10969,8 +10939,8 @@
         "department": "Environmental Studies and Sciences",
         "initial": "ENVS 157",
         "related courses": [
-            "BIOL 1C",
-            "BIOL 150"
+            "BIOL 150",
+            "BIOL 1C"
         ]
     },
     {
@@ -10985,10 +10955,10 @@
         "department": "Environmental Studies and Sciences",
         "initial": "ENVS 158",
         "related courses": [
-            "PSYC 158",
-            "PSYC 40",
             "PSYC 1",
-            "PSYC 2"
+            "PSYC 158",
+            "PSYC 2",
+            "PSYC 40"
         ]
     },
     {
@@ -11115,8 +11085,8 @@
         "department": "Environmental Studies and Sciences",
         "initial": "ENVS 198",
         "related courses": [
-            "SCU",
-            "ENVS 199A"
+            "ENVS 199A",
+            "SCU"
         ]
     },
     {
@@ -11271,8 +11241,8 @@
         "department": "Psychology",
         "initial": "PSYC 53",
         "related courses": [
-            "PSYC 52",
-            "MATH 8"
+            "MATH 8",
+            "PSYC 52"
         ]
     },
     {
@@ -11313,8 +11283,8 @@
         "department": "Psychology",
         "initial": "PSYC 102",
         "related courses": [
-            "ENGL 1",
-            "APA)"
+            "APA)",
+            "ENGL 1"
         ]
     },
     {
@@ -11400,8 +11370,8 @@
         "department": "Psychology",
         "initial": "PSYC 117",
         "related courses": [
-            "PSYC 1",
-            "AIDS)"
+            "AIDS)",
+            "PSYC 1"
         ]
     },
     {
@@ -11498,8 +11468,8 @@
         "department": "Psychology",
         "initial": "PSYC 133",
         "related courses": [
-            "PSYC 131",
-            "PSYC 120"
+            "PSYC 120",
+            "PSYC 131"
         ]
     },
     {
@@ -11956,10 +11926,10 @@
         "department": "Women's and Gender Studies",
         "initial": "WOME 1A and 2A",
         "related courses": [
+            "CTW 11",
             "CTW I",
-            "WGST 2A",
             "WGST 1A",
-            "CTW 11"
+            "WGST 2A"
         ]
     },
     {
@@ -11974,8 +11944,8 @@
         "department": "Women's and Gender Studies",
         "initial": "WOME 11A and 12A",
         "related courses": [
-            "WGST 12A",
-            "WGST 11A"
+            "WGST 11A",
+            "WGST 12A"
         ]
     },
     {
@@ -13492,8 +13462,8 @@
         "department": "Chemistry and Biochemistry",
         "initial": "CHEM 32",
         "related courses": [
-            "CHEM 32",
-            "CHEM 31"
+            "CHEM 31",
+            "CHEM 32"
         ]
     },
     {
@@ -13539,11 +13509,11 @@
         "department": "Chemistry and Biochemistry",
         "initial": "CHEM 99",
         "related courses": [
-            "CHEM 32",
             "CHEM 11",
+            "CHEM 12",
             "CHEM 13",
             "CHEM 31",
-            "CHEM 12"
+            "CHEM 32"
         ]
     },
     {
@@ -13581,9 +13551,9 @@
         "department": "Chemistry and Biochemistry",
         "initial": "CHEM 102",
         "related courses": [
-            "CHEM 151",
             "CHEM 111",
-            "CHEM 150"
+            "CHEM 150",
+            "CHEM 151"
         ]
     },
     {
@@ -13598,8 +13568,8 @@
         "department": "Chemistry and Biochemistry",
         "initial": "CHEM 103",
         "related courses": [
-            "CHEM 151",
-            "CHEM 150"
+            "CHEM 150",
+            "CHEM 151"
         ]
     },
     {
@@ -13614,8 +13584,8 @@
         "department": "Chemistry and Biochemistry",
         "initial": "CHEM 111",
         "related courses": [
-            "CHEM 32",
-            "CHEM 13"
+            "CHEM 13",
+            "CHEM 32"
         ]
     },
     {
@@ -13660,8 +13630,8 @@
         "department": "Chemistry and Biochemistry",
         "initial": "CHEM 130",
         "related courses": [
-            "CHEM 33",
-            "CHEM 31"
+            "CHEM 31",
+            "CHEM 33"
         ]
     },
     {
@@ -13752,8 +13722,8 @@
         "department": "Chemistry and Biochemistry",
         "initial": "CHEM 150",
         "related courses": [
-            "MATH 13",
-            "CHEM 33"
+            "CHEM 33",
+            "MATH 13"
         ]
     },
     {
@@ -13768,8 +13738,8 @@
         "department": "Chemistry and Biochemistry",
         "initial": "CHEM 151",
         "related courses": [
-            "MATH 13",
-            "CHEM 33"
+            "CHEM 33",
+            "MATH 13"
         ]
     },
     {
@@ -13784,8 +13754,8 @@
         "department": "Chemistry and Biochemistry",
         "initial": "CHEM 152",
         "related courses": [
-            "MATH 13",
-            "CHEM 33"
+            "CHEM 33",
+            "MATH 13"
         ]
     },
     {
@@ -13980,8 +13950,8 @@
         "department": "Theatre and Dance",
         "initial": "Theatre 24",
         "related courses": [
-            "THTR 7",
             "THTR 10",
+            "THTR 7",
             "THTR 8"
         ]
     },
@@ -14168,8 +14138,8 @@
         "department": "Theatre and Dance",
         "initial": "Theatre 65",
         "related courses": [
-            "LGBT)",
-            "ETHN 65"
+            "ETHN 65",
+            "LGBT)"
         ]
     },
     {
@@ -14236,8 +14206,8 @@
         "department": "Theatre and Dance",
         "initial": "Theatre 80",
         "related courses": [
-            "THTR 24",
-            "MUSC 34"
+            "MUSC 34",
+            "THTR 24"
         ]
     },
     {
@@ -14400,9 +14370,9 @@
         "department": "Theatre and Dance",
         "initial": "Theatre 123",
         "related courses": [
-            "THTR 24",
             "MUSC 34",
-            "THTR 10"
+            "THTR 10",
+            "THTR 24"
         ]
     },
     {
@@ -14933,12 +14903,12 @@
         "department": "Theatre and Dance",
         "initial": "Theatre 196",
         "related courses": [
-            "THTR 42B",
+            "THTR 185",
             "THTR 186",
             "THTR 24",
-            "THTR 185",
+            "THTR 30",
             "THTR 41A",
-            "THTR 30"
+            "THTR 42B"
         ]
     },
     {
@@ -15775,8 +15745,8 @@
         "initial": "ENGL 1A and 2A",
         "related courses": [
             "CTW I",
-            "ENGL 1A",
             "CTW II",
+            "ENGL 1A",
             "ENGL 2A"
         ]
     },
@@ -15890,9 +15860,9 @@
         "department": "English",
         "initial": "ENGL 26",
         "related courses": [
+            "ENGL 1A",
             "ENGL 78",
-            "STEM",
-            "ENGL 1A"
+            "STEM"
         ]
     },
     {
@@ -15938,10 +15908,10 @@
         "department": "English",
         "initial": "ENGL 35",
         "related courses": [
-            "ETHN 36",
+            "ENGL 35G",
             "ETHN 35",
-            "WGST 14",
-            "ENGL 35G"
+            "ETHN 36",
+            "WGST 14"
         ]
     },
     {
@@ -15999,9 +15969,9 @@
         "department": "English",
         "initial": "ENGL 39",
         "related courses": [
-            "WGST 16",
+            "ENGL 39G",
             "ETHN 70",
-            "ENGL 39G"
+            "WGST 16"
         ]
     },
     {
@@ -16316,8 +16286,8 @@
         "department": "English",
         "initial": "ENGL 106",
         "related courses": [
-            "ENGL 1A",
-            "ENGL 174"
+            "ENGL 174",
+            "ENGL 1A"
         ]
     },
     {
@@ -16419,8 +16389,8 @@
         "department": "English",
         "initial": "ENGL 113",
         "related courses": [
-            "ENGL 1A",
-            "ENGL 191A"
+            "ENGL 191A",
+            "ENGL 1A"
         ]
     },
     {
@@ -16435,8 +16405,8 @@
         "department": "English",
         "initial": "ENGL 114",
         "related courses": [
-            "ENGL 1A",
-            "ENGL 184"
+            "ENGL 184",
+            "ENGL 1A"
         ]
     },
     {
@@ -16622,8 +16592,8 @@
         "department": "English",
         "initial": "ENGL 135",
         "related courses": [
-            "ETHN 130",
-            "ENGL 130"
+            "ENGL 130",
+            "ETHN 130"
         ]
     },
     {
@@ -16638,8 +16608,8 @@
         "department": "English",
         "initial": "ENGL 136",
         "related courses": [
-            "ETHN 124",
-            "ENGL 140"
+            "ENGL 140",
+            "ETHN 124"
         ]
     },
     {
@@ -16654,9 +16624,9 @@
         "department": "English",
         "initial": "ENGL 137",
         "related courses": [
-            "ETHN 111",
             "ENGL 137G",
             "ENGL 158",
+            "ETHN 111",
             "WGST 110"
         ]
     },
@@ -16785,8 +16755,8 @@
         "department": "English",
         "initial": "ENGL 149",
         "related courses": [
-            "THTR 111",
-            "ENGL 113"
+            "ENGL 113",
+            "THTR 111"
         ]
     },
     {
@@ -16814,10 +16784,10 @@
         "department": "English",
         "initial": "ENGL 151A.",
         "related courses": [
-            "THTR 117",
             "ENGL 116",
             "ENGL 117",
-            "THTR 116"
+            "THTR 116",
+            "THTR 117"
         ]
     },
     {
@@ -16928,8 +16898,8 @@
         "department": "English",
         "initial": "ENGL 162",
         "related courses": [
-            "ENGL 189",
-            "ENGL 162G"
+            "ENGL 162G",
+            "ENGL 189"
         ]
     },
     {
@@ -16960,8 +16930,8 @@
         "department": "English",
         "initial": "ENGL 166",
         "related courses": [
-            "THTR 112",
-            "ENGL 112"
+            "ENGL 112",
+            "THTR 112"
         ]
     },
     {
@@ -17137,8 +17107,8 @@
         "department": "English",
         "initial": "ENGL 179",
         "related courses": [
-            "THTR 171",
-            "ENGL 193"
+            "ENGL 193",
+            "THTR 171"
         ]
     },
     {
@@ -17279,8 +17249,8 @@
         "related courses": [
             "CTW I",
             "CTW II",
-            "PHIL 2A",
-            "PHIL 1A"
+            "PHIL 1A",
+            "PHIL 2A"
         ]
     },
     {
@@ -17480,9 +17450,9 @@
         "department": "Philosophy",
         "initial": "PHIL 26",
         "related courses": [
-            "PHIL 6",
             "MGMT 6",
-            "MGMT 6H"
+            "MGMT 6H",
+            "PHIL 6"
         ]
     },
     {
@@ -17855,8 +17825,8 @@
         "department": "Philosophy",
         "initial": "PHIL 120",
         "related courses": [
-            "WGST 184",
-            "PHIL 115"
+            "PHIL 115",
+            "WGST 184"
         ]
     },
     {
@@ -18027,8 +17997,8 @@
         "department": "Philosophy",
         "initial": "PHIL 143",
         "related courses": [
-            "PHIL 15",
             "PHIL 133",
+            "PHIL 15",
             "PHIL 16"
         ]
     },
@@ -18089,8 +18059,8 @@
         "department": "Philosophy",
         "initial": "PHIL 151",
         "related courses": [
-            "PHIL 19",
-            "PHIL 136"
+            "PHIL 136",
+            "PHIL 19"
         ]
     },
     {
@@ -18131,8 +18101,8 @@
         "department": "Philosophy",
         "initial": "PHIL 154",
         "related courses": [
-            "PHIL 19",
-            "PHIL 143"
+            "PHIL 143",
+            "PHIL 19"
         ]
     },
     {
@@ -18147,9 +18117,9 @@
         "department": "Philosophy",
         "initial": "PHIL 155",
         "related courses": [
+            "PHIL 134",
             "PHIL 14",
-            "PHIL 15",
-            "PHIL 134"
+            "PHIL 15"
         ]
     },
     {
@@ -18164,8 +18134,8 @@
         "department": "Philosophy",
         "initial": "PHIL 156",
         "related courses": [
-            "PHIL 19",
-            "PHIL 142"
+            "PHIL 142",
+            "PHIL 19"
         ]
     },
     {
@@ -18226,8 +18196,8 @@
         "department": "Philosophy",
         "initial": "PHIL 160",
         "related courses": [
-            "PHIL 19",
-            "PHIL 144C"
+            "PHIL 144C",
+            "PHIL 19"
         ]
     },
     {
@@ -18257,8 +18227,8 @@
         "department": "Philosophy",
         "initial": "PHIL 162",
         "related courses": [
-            "PHIL 19",
-            "PHIL 146"
+            "PHIL 146",
+            "PHIL 19"
         ]
     },
     {
@@ -18273,8 +18243,8 @@
         "department": "Philosophy",
         "initial": "PHIL 163",
         "related courses": [
-            "PHIL 18",
-            "PHIL 152"
+            "PHIL 152",
+            "PHIL 18"
         ]
     },
     {
@@ -18432,8 +18402,8 @@
         "department": "Philosophy",
         "initial": "PHIL 183",
         "related courses": [
-            "PHIL 151",
-            "MPAA)"
+            "MPAA)",
+            "PHIL 151"
         ]
     },
     {
@@ -18461,8 +18431,8 @@
         "department": "Philosophy",
         "initial": "PHIL 185A",
         "related courses": [
-            "PHIL 185B",
-            "PHIL 180A"
+            "PHIL 180A",
+            "PHIL 185B"
         ]
     },
     {
@@ -18759,9 +18729,9 @@
         "department": "Child Studies",
         "initial": "CHST 182",
         "related courses": [
-            "CHST 181",
+            "APA",
             "CHST 100",
-            "APA"
+            "CHST 181"
         ]
     },
     {
@@ -18817,8 +18787,8 @@
         "department": "Child Studies",
         "initial": "CHST 199",
         "related courses": [
-            "CHST. R",
-            "CHST"
+            "CHST",
+            "CHST. R"
         ]
     },
     {
@@ -19505,11 +19475,11 @@
         "department": "History",
         "initial": "HIST 106",
         "related courses": [
-            "BCE)",
-            "III",
             " P",
             "BCE",
-            "CLAS 118"
+            "BCE)",
+            "CLAS 118",
+            "III"
         ]
     },
     {
@@ -19524,8 +19494,8 @@
         "department": "History",
         "initial": "HIST 107",
         "related courses": [
-            "CLAS 172",
-            "ANTH 173"
+            "ANTH 173",
+            "CLAS 172"
         ]
     },
     {
@@ -20294,13 +20264,13 @@
         "department": "Economics",
         "initial": "ECON 41",
         "related courses": [
-            "OMIS 40",
-            "MATH 11",
-            "ECON 42",
-            "ECON 1",
-            "MATH 122",
             "AMTH 108",
-            "MATH 8"
+            "ECON 1",
+            "ECON 42",
+            "MATH 11",
+            "MATH 122",
+            "MATH 8",
+            "OMIS 40"
         ]
     },
     {
@@ -20315,13 +20285,13 @@
         "department": "Economics",
         "initial": "ECON 42",
         "related courses": [
-            "OMIS 40",
-            "MATH 11",
-            "ECON 41",
-            "ECON 1",
-            "MATH 122",
             "AMTH 108",
-            "MATH 8"
+            "ECON 1",
+            "ECON 41",
+            "MATH 11",
+            "MATH 122",
+            "MATH 8",
+            "OMIS 40"
         ]
     },
     {
@@ -20336,9 +20306,9 @@
         "department": "Economics",
         "initial": "ECON 43",
         "related courses": [
-            "OMIS 40",
+            "ECON 41",
             "OMIS 30",
-            "ECON 41"
+            "OMIS 40"
         ]
     },
     {
@@ -20348,8 +20318,8 @@
         "school": "College of Arts and Sciences",
         "department": "Economics",
         "related courses": [
-            "ECON 2",
-            "ECON 1"
+            "ECON 1",
+            "ECON 2"
         ]
     },
     {
@@ -20507,8 +20477,8 @@
         "department": "Economics",
         "initial": "ECON 135",
         "related courses": [
-            "WGST 121",
-            "ECON 41"
+            "ECON 41",
+            "WGST 121"
         ]
     },
     {
@@ -20581,9 +20551,9 @@
         "department": "Economics",
         "initial": "ECON 142",
         "related courses": [
-            "ECON 42",
             "ECON 113",
-            "ECON 41"
+            "ECON 41",
+            "ECON 42"
         ]
     },
     {
@@ -20598,8 +20568,8 @@
         "department": "Economics",
         "initial": "ECON 150",
         "related courses": [
-            "ECON 42",
-            "ECON 41"
+            "ECON 41",
+            "ECON 42"
         ]
     },
     {
@@ -20657,9 +20627,9 @@
         "department": "Economics",
         "initial": "ECON 170",
         "related courses": [
-            "MATH 12",
             "ECON 113",
-            "MATH 11"
+            "MATH 11",
+            "MATH 12"
         ]
     },
     {
@@ -20674,9 +20644,9 @@
         "department": "Economics",
         "initial": "ECON 171",
         "related courses": [
-            "MATH 12",
             "ECON 113",
-            "MATH 11"
+            "MATH 11",
+            "MATH 12"
         ]
     },
     {
@@ -20691,9 +20661,9 @@
         "department": "Economics",
         "initial": "ECON 172",
         "related courses": [
-            "MATH 12",
             "ECON 113",
-            "MATH 11"
+            "MATH 11",
+            "MATH 12"
         ]
     },
     {
@@ -20708,10 +20678,10 @@
         "department": "Economics",
         "initial": "ECON 173",
         "related courses": [
-            "MATH 12",
             "ECON 113",
+            "ECON 41",
             "MATH 11",
-            "ECON 41"
+            "MATH 12"
         ]
     },
     {
@@ -20787,9 +20757,9 @@
         "department": "Economics",
         "initial": "ECON 186",
         "related courses": [
-            "ECON 42",
             "ECON 113",
-            "ECON 41"
+            "ECON 41",
+            "ECON 42"
         ]
     },
     {
@@ -20804,9 +20774,9 @@
         "department": "Economics",
         "initial": "ECON 187",
         "related courses": [
-            "ECON 42",
             "ECON 113",
-            "ECON 41"
+            "ECON 41",
+            "ECON 42"
         ]
     },
     {
@@ -20821,8 +20791,8 @@
         "department": "Economics",
         "initial": "ECON 188",
         "related courses": [
-            "ECON 42",
-            "ECON 41"
+            "ECON 41",
+            "ECON 42"
         ]
     },
     {
@@ -20879,8 +20849,8 @@
         "department": "Modern Languages and Literatures",
         "initial": "ARAB 2",
         "related courses": [
-            "MSA",
-            "ARAB 1"
+            "ARAB 1",
+            "MSA"
         ]
     },
     {
@@ -20895,8 +20865,8 @@
         "department": "Modern Languages and Literatures",
         "initial": "ARAB 3",
         "related courses": [
-            "MSA",
-            "ARAB 2"
+            "ARAB 2",
+            "MSA"
         ]
     },
     {
@@ -21034,8 +21004,8 @@
         "department": "Modern Languages and Literatures",
         "initial": "CHIN 2",
         "related courses": [
-            "CHIN 2",
-            "CHIN 1"
+            "CHIN 1",
+            "CHIN 2"
         ]
     },
     {
@@ -21050,8 +21020,8 @@
         "department": "Modern Languages and Literatures",
         "initial": "CHIN 3",
         "related courses": [
-            "CHIN 3",
-            "CHIN 2"
+            "CHIN 2",
+            "CHIN 3"
         ]
     },
     {
@@ -21250,8 +21220,8 @@
         "department": "Modern Languages and Literatures",
         "initial": "FREN 2",
         "related courses": [
-            "FREN 2",
-            "FREN 1"
+            "FREN 1",
+            "FREN 2"
         ]
     },
     {
@@ -21266,8 +21236,8 @@
         "department": "Modern Languages and Literatures",
         "initial": "FREN 3",
         "related courses": [
-            "FREN 3",
-            "FREN 2"
+            "FREN 2",
+            "FREN 3"
         ]
     },
     {
@@ -21342,8 +21312,8 @@
         "department": "Modern Languages and Literatures",
         "initial": "FREN 101",
         "related courses": [
-            "FREN. T",
-            "FREN 100"
+            "FREN 100",
+            "FREN. T"
         ]
     },
     {
@@ -21890,8 +21860,8 @@
         "department": "Modern Languages and Literatures",
         "initial": "GERM 106",
         "related courses": [
-            "GERM 22",
-            "GERM 100"
+            "GERM 100",
+            "GERM 22"
         ]
     },
     {
@@ -22120,8 +22090,8 @@
         "department": "Modern Languages and Literatures",
         "initial": "ITAL 2",
         "related courses": [
-            "ITAL 2",
-            "ITAL 1"
+            "ITAL 1",
+            "ITAL 2"
         ]
     },
     {
@@ -22270,8 +22240,8 @@
         "department": "Modern Languages and Literatures",
         "initial": "ITAL 111",
         "related courses": [
-            "ITAL 110",
-            "ITAL 101"
+            "ITAL 101",
+            "ITAL 110"
         ]
     },
     {
@@ -22466,8 +22436,8 @@
         "department": "Modern Languages and Literatures",
         "initial": "ITAL 182",
         "related courses": [
-            "WGST 185",
-            "ITAL 101"
+            "ITAL 101",
+            "WGST 185"
         ]
     },
     {
@@ -22813,8 +22783,8 @@
         "department": "Modern Languages and Literatures",
         "initial": "SPAN 2",
         "related courses": [
-            "SPAN 2",
-            "SPAN 1"
+            "SPAN 1",
+            "SPAN 2"
         ]
     },
     {
@@ -22890,9 +22860,9 @@
         "department": "Modern Languages and Literatures",
         "initial": "SPAN 21EL",
         "related courses": [
-            "SPAN 97",
             "SPAN 21EL",
-            "SPAN 3"
+            "SPAN 3",
+            "SPAN 97"
         ]
     },
     {
@@ -22907,8 +22877,8 @@
         "department": "Modern Languages and Literatures",
         "initial": "SPAN 22",
         "related courses": [
-            "SPAN 21A",
-            "SPAN 21"
+            "SPAN 21",
+            "SPAN 21A"
         ]
     },
     {
@@ -22923,10 +22893,10 @@
         "department": "Modern Languages and Literatures",
         "initial": "SPAN 22EL",
         "related courses": [
-            "SPAN 22EL",
-            "SPAN 97",
+            "SPAN 21",
             "SPAN 21EL",
-            "SPAN 21"
+            "SPAN 22EL",
+            "SPAN 97"
         ]
     },
     {
@@ -22956,10 +22926,10 @@
         "department": "Modern Languages and Literatures",
         "initial": "SPAN 23EL",
         "related courses": [
-            "SPAN 22EL",
             "SPAN 22",
-            "SPAN 97",
-            "SPAN 23EL"
+            "SPAN 22EL",
+            "SPAN 23EL",
+            "SPAN 97"
         ]
     },
     {
@@ -22974,8 +22944,8 @@
         "department": "Modern Languages and Literatures",
         "initial": "SPAN 97",
         "related courses": [
-            "SPAN 22EL",
-            "SPAN 21EL"
+            "SPAN 21EL",
+            "SPAN 22EL"
         ]
     },
     {
@@ -23115,8 +23085,8 @@
         "department": "Modern Languages and Literatures",
         "initial": "SPAN 114",
         "related courses": [
-            "SPAN 101",
-            "SPAN 100"
+            "SPAN 100",
+            "SPAN 101"
         ]
     },
     {
@@ -23528,8 +23498,8 @@
         "department": "Religious Studies",
         "initial": "SCTR 28",
         "related courses": [
-            "ANE)",
             "ANE",
+            "ANE)",
             "WGST 21"
         ]
     },
@@ -25186,13 +25156,13 @@
         "department": "Physics",
         "initial": "PHYS 11",
         "related courses": [
+            "MATH 11",
             "MATH 12",
-            "PHYS 11",
+            "MATH 13",
             "MATH 14",
             "MATH 35",
-            "MATH 13",
-            "PHYS 31",
-            "MATH 11"
+            "PHYS 11",
+            "PHYS 31"
         ]
     },
     {
@@ -25207,9 +25177,9 @@
         "department": "Physics",
         "initial": "PHYS 12",
         "related courses": [
+            "EMF. F",
             "PHYS 11",
-            "PHYS 31",
-            "EMF. F"
+            "PHYS 31"
         ]
     },
     {
@@ -25224,10 +25194,10 @@
         "department": "Physics",
         "initial": "PHYS 13",
         "related courses": [
-            "RCL",
             "PHYS 11",
+            "PHYS 12",
             "PHYS 31",
-            "PHYS 12"
+            "RCL"
         ]
     },
     {
@@ -25255,11 +25225,11 @@
         "department": "Physics",
         "initial": "PHYS 31",
         "related courses": [
+            "MATH 11",
             "MATH 12",
-            "PHYS 11",
             "MATH 13",
-            "PHYS 31",
-            "MATH 11"
+            "PHYS 11",
+            "PHYS 31"
         ]
     },
     {
@@ -25274,8 +25244,8 @@
         "department": "Physics",
         "initial": "PHYS 32",
         "related courses": [
-            "MATH 13",
-            "MATH 12"
+            "MATH 12",
+            "MATH 13"
         ]
     },
     {
@@ -25291,10 +25261,10 @@
         "initial": "PHYS 33",
         "related courses": [
             "MATH 12",
-            "PHYS 11",
-            "PHYS 32",
             "MATH 13",
-            "PHYS 31"
+            "PHYS 11",
+            "PHYS 31",
+            "PHYS 32"
         ]
     },
     {
@@ -25339,14 +25309,14 @@
         "department": "Physics",
         "initial": "PHYS 103",
         "related courses": [
-            "COEN 44",
             "AMTH 106",
+            "COEN 10",
+            "COEN 44",
+            "COEN 45",
             "CSCI 10",
             "MATH 22",
-            "MATLAB. O",
-            "COEN 10",
             "MATH 23",
-            "COEN 45"
+            "MATLAB. O"
         ]
     },
     {
@@ -25361,10 +25331,10 @@
         "department": "Physics",
         "initial": "PHYS 104",
         "related courses": [
-            "MATH 22",
             "AMTH 106",
-            "PHYS 31",
-            "MATH 23"
+            "MATH 22",
+            "MATH 23",
+            "PHYS 31"
         ]
     },
     {
@@ -25381,9 +25351,9 @@
         "related courses": [
             "AMTH 106",
             "MATH 22",
-            "PHYS 33",
             "MATH 23",
-            "PHYS 103"
+            "PHYS 103",
+            "PHYS 33"
         ]
     },
     {
@@ -25398,8 +25368,8 @@
         "department": "Physics",
         "initial": "PHYS 112",
         "related courses": [
-            "PHYS 111",
-            "ELEN 104"
+            "ELEN 104",
+            "PHYS 111"
         ]
     },
     {
@@ -25430,8 +25400,8 @@
         "department": "Physics",
         "initial": "PHYS 116",
         "related courses": [
-            "PHYS 120",
             "PHYS 116",
+            "PHYS 120",
             "PHYS 121"
         ]
     },
@@ -25493,8 +25463,8 @@
         "department": "Physics",
         "initial": "PHYS 123",
         "related courses": [
-            "WKB",
-            "PHYS 122"
+            "PHYS 122",
+            "WKB"
         ]
     },
     {
@@ -25551,8 +25521,8 @@
         "department": "Physics",
         "initial": "PHYS 162",
         "related courses": [
-            "WMAP",
-            "PHYS 34"
+            "PHYS 34",
+            "WMAP"
         ]
     },
     {
@@ -25811,9 +25781,9 @@
         "department": "Communication",
         "initial": "COMM 106A",
         "related courses": [
-            "WGST 140",
             "COMM 1",
-            "SOCI 1"
+            "SOCI 1",
+            "WGST 140"
         ]
     },
     {
@@ -25844,8 +25814,8 @@
         "department": "Communication",
         "initial": "COMM 108A",
         "related courses": [
-            "WGST 161",
-            "COMM 1"
+            "COMM 1",
+            "WGST 161"
         ]
     },
     {
@@ -25876,8 +25846,8 @@
         "department": "Communication",
         "initial": "COMM 110",
         "related courses": [
-            "COMM 2",
-            "COMM 1"
+            "COMM 1",
+            "COMM 2"
         ]
     },
     {
@@ -25892,8 +25862,8 @@
         "department": "Communication",
         "initial": "COMM 111",
         "related courses": [
-            "COMM 2",
-            "COMM 1"
+            "COMM 1",
+            "COMM 2"
         ]
     },
     {
@@ -25908,9 +25878,9 @@
         "department": "Communication",
         "initial": "COMM 111G",
         "related courses": [
+            "COMM 1",
             "COMM 2",
-            "WGST 102",
-            "COMM 1"
+            "WGST 102"
         ]
     },
     {
@@ -26261,8 +26231,8 @@
         "department": "Communication",
         "initial": "COMM 144B",
         "related courses": [
-            "COMM 40",
-            "COMM 30"
+            "COMM 30",
+            "COMM 40"
         ]
     },
     {
@@ -26351,8 +26321,8 @@
         "department": "Communication",
         "initial": "COMM 152B",
         "related courses": [
-            "COMM 2",
             "COMM 150B",
+            "COMM 2",
             "COMM 40"
         ]
     },
@@ -26383,10 +26353,10 @@
         "department": "Communication",
         "initial": "COMM 154A",
         "related courses": [
+            "COMM 110",
             "COMM 2",
             "PHSC 154",
-            "SCU",
-            "COMM 110"
+            "SCU"
         ]
     },
     {
@@ -26948,8 +26918,8 @@
         "department": "Public Health",
         "initial": "PHSC 100",
         "related courses": [
-            "BIOL 24",
-            "BIOL 117"
+            "BIOL 117",
+            "BIOL 24"
         ]
     },
     {
@@ -26977,8 +26947,8 @@
         "department": "Public Health",
         "initial": "PHSC 103",
         "related courses": [
-            "PHSC 100",
-            "PHSC 1"
+            "PHSC 1",
+            "PHSC 100"
         ]
     },
     {
@@ -27065,8 +27035,8 @@
         "department": "Public Health",
         "initial": "PHSC 139",
         "related courses": [
-            "PHSC 1",
-            "PHS"
+            "PHS",
+            "PHSC 1"
         ]
     },
     {
@@ -27154,8 +27124,8 @@
         "department": "Public Health",
         "initial": "PHSC 190",
         "related courses": [
-            "PHSC 100",
-            "PHSC 1"
+            "PHSC 1",
+            "PHSC 100"
         ]
     },
     {
@@ -27285,8 +27255,8 @@
         "department": "Biology",
         "initial": "BIOL 1C",
         "related courses": [
-            "CHEM 13",
-            "BIOL 1B"
+            "BIOL 1B",
+            "CHEM 13"
         ]
     },
     {
@@ -27353,8 +27323,8 @@
         "department": "Biology",
         "initial": "BIOL 18",
         "related courses": [
-            "DNA",
-            "CSI"
+            "CSI",
+            "DNA"
         ]
     },
     {
@@ -27414,8 +27384,8 @@
         "department": "Biology",
         "initial": "BIOL 106",
         "related courses": [
-            "PHSC 124",
-            "BIOL 1C"
+            "BIOL 1C",
+            "PHSC 124"
         ]
     },
     {
@@ -27538,8 +27508,8 @@
         "department": "Biology",
         "initial": "BIOL 117",
         "related courses": [
-            "PHSC 100",
-            "BIOL 1C"
+            "BIOL 1C",
+            "PHSC 100"
         ]
     },
     {
@@ -27676,8 +27646,8 @@
         "department": "Biology",
         "initial": "BIOL 151",
         "related courses": [
-            "ENVS 151",
-            "BIOL 1C"
+            "BIOL 1C",
+            "ENVS 151"
         ]
     },
     {
@@ -27708,9 +27678,9 @@
         "department": "Biology",
         "initial": "BIOL 156",
         "related courses": [
-            "MATH 11",
             "BIOL 1C",
-            "ENVS 156"
+            "ENVS 156",
+            "MATH 11"
         ]
     },
     {
@@ -27740,8 +27710,8 @@
         "department": "Biology",
         "initial": "BIOL 160",
         "related courses": [
-            "ENVS 110",
-            "BIOL 1C"
+            "BIOL 1C",
+            "ENVS 110"
         ]
     },
     {
@@ -27772,9 +27742,9 @@
         "initial": "BIOL 171",
         "related courses": [
             "BIOL 171",
-            "NOT",
+            "BIOL 189",
             "BIOL 1C",
-            "BIOL 189"
+            "NOT"
         ]
     },
     {
@@ -27821,8 +27791,8 @@
         "department": "Biology",
         "initial": "BIOL 174",
         "related courses": [
-            "DNA",
-            "BIOL 1C"
+            "BIOL 1C",
+            "DNA"
         ]
     },
     {
@@ -27837,9 +27807,9 @@
         "department": "Biology",
         "initial": "BIOL 175",
         "related courses": [
+            "BIOL 1C",
             "CHEM 32",
-            "DNA",
-            "BIOL 1C"
+            "DNA"
         ]
     },
     {
@@ -27948,13 +27918,13 @@
         "department": "Biology",
         "initial": "BIOL 189",
         "related courses": [
-            "NOT",
-            "BIOL 174",
-            "BIOL 1C",
-            "BIOL 171",
-            "BIOL 113",
             "BIOL 110",
-            "BIOL 189"
+            "BIOL 113",
+            "BIOL 171",
+            "BIOL 174",
+            "BIOL 189",
+            "BIOL 1C",
+            "NOT"
         ]
     },
     {
@@ -28914,8 +28884,8 @@
         "department": "Graduate",
         "initial": "EDUC 261",
         "related courses": [
-            "RICA)",
-            "EDUC 266"
+            "EDUC 266",
+            "RICA)"
         ]
     },
     {
@@ -28956,10 +28926,10 @@
         "department": "Graduate",
         "initial": "EDUC 264",
         "related courses": [
-            "PBI)",
+            " C",
             "NGSS)",
-            "STEM/H",
-            " C"
+            "PBI)",
+            "STEM/H"
         ]
     },
     {
@@ -29135,10 +29105,10 @@
         "initial": "EDUC 285A",
         "related courses": [
             "EDUC 285",
+            "EDUC 285 M",
             "EDUC 286",
             "EDUC 286 M",
-            "SDAIE)",
-            "EDUC 285 M"
+            "SDAIE)"
         ]
     },
     {
@@ -29154,10 +29124,10 @@
         "initial": "EDUC 285B",
         "related courses": [
             "EDUC 285A",
-            "EDUC\u00a0285B",
-            "SDAIE)",
+            "EDUC 285A M",
             "EDUC 285B M",
-            "EDUC 285A M"
+            "EDUC\u00a0285B",
+            "SDAIE)"
         ]
     },
     {
@@ -29172,8 +29142,8 @@
         "department": "Graduate",
         "initial": "EDUC 286A",
         "related courses": [
-            "SDAIE)",
-            "EDUC 231C"
+            "EDUC 231C",
+            "SDAIE)"
         ]
     },
     {
@@ -29446,9 +29416,9 @@
         "department": "Graduate",
         "initial": "EDUC 364",
         "related courses": [
+            "EDUC 360",
             "EDUC 362",
-            "EDUC 363",
-            "EDUC 360"
+            "EDUC 363"
         ]
     },
     {
@@ -29489,8 +29459,8 @@
         "department": "Graduate",
         "initial": "EDUC 367",
         "related courses": [
-            "EDUC C",
-            "EDUC 367"
+            "EDUC 367",
+            "EDUC C"
         ]
     },
     {
@@ -29719,8 +29689,8 @@
         "department": "Graduate",
         "initial": "CPSY 214",
         "related courses": [
-            "NOTE: S",
-            "CPSY 224"
+            "CPSY 224",
+            "NOTE: S"
         ]
     },
     {
@@ -29813,8 +29783,8 @@
         "department": "Graduate",
         "initial": "CPSY 221",
         "related courses": [
-            "LPCC/MFT",
-            "LPCC"
+            "LPCC",
+            "LPCC/MFT"
         ]
     },
     {
@@ -29829,9 +29799,9 @@
         "department": "Graduate",
         "initial": "CPSY 222",
         "related courses": [
+            "LPCC",
             "MFT/LPCC",
-            "NOTE: T",
-            "LPCC"
+            "NOTE: T"
         ]
     },
     {
@@ -29927,9 +29897,9 @@
         "initial": "CPSY 245",
         "related courses": [
             " IFSP",
+            " ILP",
             " ITP",
-            "IEP",
-            " ILP"
+            "IEP"
         ]
     },
     {
@@ -30105,8 +30075,8 @@
         "department": "Graduate",
         "initial": "CPSY 302",
         "related courses": [
-            "LPCC/MFT T",
-            "LPCC"
+            "LPCC",
+            "LPCC/MFT T"
         ]
     },
     {
@@ -30206,9 +30176,9 @@
         "initial": "CPSY 313",
         "related courses": [
             "CEU'",
+            "CPD. T",
             "LPCC",
             "MFT/LPCC C",
-            "CPD. T",
             "NOTE: 78"
         ]
     },
@@ -30332,10 +30302,10 @@
         "department": "Graduate",
         "initial": "CPSY 328",
         "related courses": [
+            "DSM",
             "LPCC",
             "MFT/LPCC C",
-            "NOTE: T",
-            "DSM"
+            "NOTE: T"
         ]
     },
     {
@@ -30417,8 +30387,8 @@
         "department": "Graduate",
         "initial": "CPSY 333",
         "related courses": [
-            "MFT",
-            "LPCC"
+            "LPCC",
+            "MFT"
         ]
     },
     {
@@ -30477,9 +30447,9 @@
         "department": "Graduate",
         "initial": "CPSY 361",
         "related courses": [
+            "LPCC",
             "MFT/LPCC",
-            "NOTE: 78 U",
-            "LPCC"
+            "NOTE: 78 U"
         ]
     },
     {
@@ -30926,8 +30896,8 @@
         "department": "Graduate",
         "initial": "EDUC 261",
         "related courses": [
-            "RICA)",
-            "EDUC 266"
+            "EDUC 266",
+            "RICA)"
         ]
     },
     {
@@ -30968,10 +30938,10 @@
         "department": "Graduate",
         "initial": "EDUC 264",
         "related courses": [
-            "PBI)",
+            " C",
             "NGSS)",
-            "STEM/H",
-            " C"
+            "PBI)",
+            "STEM/H"
         ]
     },
     {
@@ -31147,10 +31117,10 @@
         "initial": "EDUC 285A",
         "related courses": [
             "EDUC 285",
+            "EDUC 285 M",
             "EDUC 286",
             "EDUC 286 M",
-            "SDAIE)",
-            "EDUC 285 M"
+            "SDAIE)"
         ]
     },
     {
@@ -31166,10 +31136,10 @@
         "initial": "EDUC 285B",
         "related courses": [
             "EDUC 285A",
-            "EDUC\u00a0285B",
-            "SDAIE)",
+            "EDUC 285A M",
             "EDUC 285B M",
-            "EDUC 285A M"
+            "EDUC\u00a0285B",
+            "SDAIE)"
         ]
     },
     {
@@ -31184,8 +31154,8 @@
         "department": "Graduate",
         "initial": "EDUC 286A",
         "related courses": [
-            "SDAIE)",
-            "EDUC 231C"
+            "EDUC 231C",
+            "SDAIE)"
         ]
     },
     {
@@ -31458,9 +31428,9 @@
         "department": "Graduate",
         "initial": "EDUC 364",
         "related courses": [
+            "EDUC 360",
             "EDUC 362",
-            "EDUC 363",
-            "EDUC 360"
+            "EDUC 363"
         ]
     },
     {
@@ -31501,8 +31471,8 @@
         "department": "Graduate",
         "initial": "EDUC 367",
         "related courses": [
-            "EDUC C",
-            "EDUC 367"
+            "EDUC 367",
+            "EDUC C"
         ]
     },
     {
@@ -31731,8 +31701,8 @@
         "department": "Graduate",
         "initial": "CPSY 214",
         "related courses": [
-            "NOTE: S",
-            "CPSY 224"
+            "CPSY 224",
+            "NOTE: S"
         ]
     },
     {
@@ -31825,8 +31795,8 @@
         "department": "Graduate",
         "initial": "CPSY 221",
         "related courses": [
-            "LPCC/MFT",
-            "LPCC"
+            "LPCC",
+            "LPCC/MFT"
         ]
     },
     {
@@ -31841,9 +31811,9 @@
         "department": "Graduate",
         "initial": "CPSY 222",
         "related courses": [
+            "LPCC",
             "MFT/LPCC",
-            "NOTE: T",
-            "LPCC"
+            "NOTE: T"
         ]
     },
     {
@@ -31939,9 +31909,9 @@
         "initial": "CPSY 245",
         "related courses": [
             " IFSP",
+            " ILP",
             " ITP",
-            "IEP",
-            " ILP"
+            "IEP"
         ]
     },
     {
@@ -32117,8 +32087,8 @@
         "department": "Graduate",
         "initial": "CPSY 302",
         "related courses": [
-            "LPCC/MFT T",
-            "LPCC"
+            "LPCC",
+            "LPCC/MFT T"
         ]
     },
     {
@@ -32218,9 +32188,9 @@
         "initial": "CPSY 313",
         "related courses": [
             "CEU'",
+            "CPD. T",
             "LPCC",
             "MFT/LPCC C",
-            "CPD. T",
             "NOTE: 78"
         ]
     },
@@ -32344,10 +32314,10 @@
         "department": "Graduate",
         "initial": "CPSY 328",
         "related courses": [
+            "DSM",
             "LPCC",
             "MFT/LPCC C",
-            "NOTE: T",
-            "DSM"
+            "NOTE: T"
         ]
     },
     {
@@ -32429,8 +32399,8 @@
         "department": "Graduate",
         "initial": "CPSY 333",
         "related courses": [
-            "MFT",
-            "LPCC"
+            "LPCC",
+            "MFT"
         ]
     },
     {
@@ -32489,9 +32459,9 @@
         "department": "Graduate",
         "initial": "CPSY 361",
         "related courses": [
+            "LPCC",
             "MFT/LPCC",
-            "NOTE: 78 U",
-            "LPCC"
+            "NOTE: 78 U"
         ]
     },
     {
@@ -32705,8 +32675,8 @@
         "department": "Accounting",
         "initial": "ACTG 20",
         "related courses": [
-            "ACTG 130",
-            "ACTG 11"
+            "ACTG 11",
+            "ACTG 130"
         ]
     },
     {
@@ -32767,8 +32737,8 @@
         "department": "Accounting",
         "initial": "ACTG 134",
         "related courses": [
-            "ACTG 12",
-            "ACTG 11"
+            "ACTG 11",
+            "ACTG 12"
         ]
     },
     {
@@ -32813,8 +32783,8 @@
         "department": "Accounting",
         "initial": "ACTG 138",
         "related courses": [
-            "ACTG 12",
-            "ACTG 11"
+            "ACTG 11",
+            "ACTG 12"
         ]
     },
     {
@@ -32829,14 +32799,14 @@
         "department": "Accounting",
         "initial": "ACTG 140",
         "related courses": [
+            "ACTG 131",
+            "CPA) E",
             "FAS 116",
             "FAS 117",
-            "ACTG 131",
             "GAAP)",
-            "NPO)",
-            "CPA) E",
+            "GASB) G",
             "NPO",
-            "GASB) G"
+            "NPO)"
         ]
     },
     {
@@ -32867,9 +32837,9 @@
         "department": "Accounting",
         "initial": "ACTG 144",
         "related courses": [
+            "ACTG 11",
             "MGMT 6",
-            "PHIL 26",
-            "ACTG 11"
+            "PHIL 26"
         ]
     },
     {
@@ -32930,8 +32900,8 @@
         "department": "Accounting",
         "initial": "ACTG 152",
         "related courses": [
-            "MGMT 80",
-            "ACTG 130"
+            "ACTG 130",
+            "MGMT 80"
         ]
     },
     {
@@ -32946,10 +32916,10 @@
         "department": "Accounting",
         "initial": "ACTG 155",
         "related courses": [
-            "OMIS 150",
+            "ERP",
             "OMIS 105",
-            "OMIS 30",
-            "ERP"
+            "OMIS 150",
+            "OMIS 30"
         ]
     },
     {
@@ -33132,8 +33102,8 @@
         "department": "Accounting",
         "initial": "ACTG 2303/3303",
         "related courses": [
-            "ACTG 3000",
             "ACTG 2300",
+            "ACTG 3000",
             "ACTG 3100"
         ]
     },
@@ -33149,8 +33119,8 @@
         "department": "Accounting",
         "initial": "ACTG 3317",
         "related courses": [
-            "ACTG 3000",
             "ACTG 2300",
+            "ACTG 3000",
             "ACTG 3100"
         ]
     },
@@ -33199,8 +33169,8 @@
         "department": "Accounting",
         "initial": "ACTG 3701",
         "related courses": [
-            "ACTG 3000",
             "ACTG 2300",
+            "ACTG 3000",
             "ACTG 3100"
         ]
     },
@@ -33216,8 +33186,8 @@
         "department": "Accounting",
         "initial": "ACTG 3702",
         "related courses": [
-            "ACTG 3000",
             "ACTG 2300",
+            "ACTG 3000",
             "ACTG 3100"
         ]
     },
@@ -33315,9 +33285,9 @@
         "department": "Management",
         "initial": "MGMT 80",
         "related courses": [
-            "MGMT 80L",
+            "BUSN 70",
             "ECON 3",
-            "BUSN 70"
+            "MGMT 80L"
         ]
     },
     {
@@ -33359,11 +33329,11 @@
         "initial": "MGMT 162",
         "related courses": [
             "ECON 41",
-            "MGMT 80",
-            "OMIS 41",
-            "MGMT 160",
             "FNCE 121",
-            "MKTG 181"
+            "MGMT 160",
+            "MGMT 80",
+            "MKTG 181",
+            "OMIS 41"
         ]
     },
     {
@@ -33379,12 +33349,12 @@
         "initial": "MGMT 162S",
         "related courses": [
             "ECON 41",
-            "MGMT 80",
-            "OMIS 41",
-            "MGMT 160",
             "FNCE 121",
+            "GPA.",
+            "MGMT 160",
+            "MGMT 80",
             "MKTG 181",
-            "GPA."
+            "OMIS 41"
         ]
     },
     {
@@ -33399,8 +33369,8 @@
         "department": "Management",
         "initial": "MGMT 164",
         "related courses": [
-            "MKTG 181",
-            "ACTG 11"
+            "ACTG 11",
+            "MKTG 181"
         ]
     },
     {
@@ -33458,8 +33428,8 @@
         "department": "Management",
         "initial": "MGMT 170",
         "related courses": [
-            "MGMT 80",
-            "MGMT 160"
+            "MGMT 160",
+            "MGMT 80"
         ]
     },
     {
@@ -33620,16 +33590,16 @@
         "department": "Management",
         "initial": "MGMT 198",
         "related courses": [
-            "MGMT 169",
-            "MGMT 172",
             "MGMT 160",
+            "MGMT 166",
+            "MGMT 169",
             "MGMT 170",
+            "MGMT 171",
+            "MGMT 172",
+            "MGMT 173",
             "MGMT 174",
             "MGMT 175",
-            "MGMT 177",
-            "MGMT 171",
-            "MGMT 173",
-            "MGMT 166"
+            "MGMT 177"
         ]
     },
     {
@@ -33748,8 +33718,8 @@
         "initial": "MGMT Practice",
         "related courses": [
             "MGMT 2501",
-            "MGMT 3500",
-            "MGMT 3000"
+            "MGMT 3000",
+            "MGMT 3500"
         ]
     },
     {
@@ -33765,8 +33735,8 @@
         "initial": "MGMT 3514",
         "related courses": [
             "MGMT 2501",
-            "MGMT 3502",
-            "MGMT 3000"
+            "MGMT 3000",
+            "MGMT 3502"
         ]
     },
     {
@@ -33782,8 +33752,8 @@
         "initial": "MGMT 3516",
         "related courses": [
             "MGMT 2501",
-            "MGMT 3500",
-            "MGMT 3000"
+            "MGMT 3000",
+            "MGMT 3500"
         ]
     },
     {
@@ -33799,8 +33769,8 @@
         "initial": "MGMT 3526",
         "related courses": [
             "MGMT 2501",
-            "MGMT 3500",
-            "MGMT 3000"
+            "MGMT 3000",
+            "MGMT 3500"
         ]
     },
     {
@@ -33816,9 +33786,9 @@
         "initial": "MGMT 3532",
         "related courses": [
             "MGMT 2501",
+            "MGMT 3000",
             "MGMT 3500",
-            "MGMT 3502",
-            "MGMT 3000"
+            "MGMT 3502"
         ]
     },
     {
@@ -33834,8 +33804,8 @@
         "initial": "MGMT 3538",
         "related courses": [
             "MGMT 2501",
-            "MGMT 3502",
-            "MGMT 3000"
+            "MGMT 3000",
+            "MGMT 3502"
         ]
     },
     {
@@ -33850,8 +33820,8 @@
         "department": "Management",
         "initial": "MGMT 3540",
         "related courses": [
-            "MGMT 3505",
-            "MGMT 2505"
+            "MGMT 2505",
+            "MGMT 3505"
         ]
     },
     {
@@ -33898,9 +33868,9 @@
         "initial": "MGMT 2548/3548",
         "related courses": [
             "ACTG 2300",
-            "MKTG 3552",
-            "MKTG 2552",
             "ACTG 3100",
+            "MKTG 2552",
+            "MKTG 3552",
             "SBE. P"
         ]
     },
@@ -33942,15 +33912,15 @@
         "department": "Management",
         "initial": "MGMT 2752/3716",
         "related courses": [
-            "MGMT 3500",
             "ECON 2401",
-            "MKTG 3552",
-            "MKTG 2552",
-            "MGMT 2501",
-            "MKTG 551",
-            "MGMT 503",
+            "ECON 3402",
             "ECON 401",
-            "ECON 3402"
+            "MGMT 2501",
+            "MGMT 3500",
+            "MGMT 503",
+            "MKTG 2552",
+            "MKTG 3552",
+            "MKTG 551"
         ]
     },
     {
@@ -34082,13 +34052,13 @@
         "department": "Economics",
         "initial": "ECON 41",
         "related courses": [
-            "OMIS 40",
-            "MATH 11",
-            "ECON 42",
-            "ECON 1",
-            "MATH 122",
             "AMTH 108",
-            "MATH 8"
+            "ECON 1",
+            "ECON 42",
+            "MATH 11",
+            "MATH 122",
+            "MATH 8",
+            "OMIS 40"
         ]
     },
     {
@@ -34103,13 +34073,13 @@
         "department": "Economics",
         "initial": "ECON 42",
         "related courses": [
-            "OMIS 40",
-            "MATH 11",
-            "ECON 41",
-            "ECON 1",
-            "MATH 122",
             "AMTH 108",
-            "MATH 8"
+            "ECON 1",
+            "ECON 41",
+            "MATH 11",
+            "MATH 122",
+            "MATH 8",
+            "OMIS 40"
         ]
     },
     {
@@ -34124,9 +34094,9 @@
         "department": "Economics",
         "initial": "ECON 43",
         "related courses": [
-            "OMIS 40",
+            "ECON 41",
             "OMIS 30",
-            "ECON 41"
+            "OMIS 40"
         ]
     },
     {
@@ -34136,8 +34106,8 @@
         "school": "Leavey School of Business",
         "department": "Economics",
         "related courses": [
-            "ECON 2",
-            "ECON 1"
+            "ECON 1",
+            "ECON 2"
         ]
     },
     {
@@ -34295,8 +34265,8 @@
         "department": "Economics",
         "initial": "ECON 135",
         "related courses": [
-            "WGST 121",
-            "ECON 41"
+            "ECON 41",
+            "WGST 121"
         ]
     },
     {
@@ -34369,9 +34339,9 @@
         "department": "Economics",
         "initial": "ECON 142",
         "related courses": [
-            "ECON 42",
             "ECON 113",
-            "ECON 41"
+            "ECON 41",
+            "ECON 42"
         ]
     },
     {
@@ -34386,8 +34356,8 @@
         "department": "Economics",
         "initial": "ECON 150",
         "related courses": [
-            "ECON 42",
-            "ECON 41"
+            "ECON 41",
+            "ECON 42"
         ]
     },
     {
@@ -34445,9 +34415,9 @@
         "department": "Economics",
         "initial": "ECON 170",
         "related courses": [
-            "MATH 12",
             "ECON 113",
-            "MATH 11"
+            "MATH 11",
+            "MATH 12"
         ]
     },
     {
@@ -34462,9 +34432,9 @@
         "department": "Economics",
         "initial": "ECON 171",
         "related courses": [
-            "MATH 12",
             "ECON 113",
-            "MATH 11"
+            "MATH 11",
+            "MATH 12"
         ]
     },
     {
@@ -34479,9 +34449,9 @@
         "department": "Economics",
         "initial": "ECON 172",
         "related courses": [
-            "MATH 12",
             "ECON 113",
-            "MATH 11"
+            "MATH 11",
+            "MATH 12"
         ]
     },
     {
@@ -34496,10 +34466,10 @@
         "department": "Economics",
         "initial": "ECON 173",
         "related courses": [
-            "MATH 12",
             "ECON 113",
+            "ECON 41",
             "MATH 11",
-            "ECON 41"
+            "MATH 12"
         ]
     },
     {
@@ -34514,8 +34484,8 @@
         "department": "Economics",
         "initial": "ECON 174",
         "related courses": [
-            "ECON 42",
-            "ECON 41"
+            "ECON 41",
+            "ECON 42"
         ]
     },
     {
@@ -34575,9 +34545,9 @@
         "department": "Economics",
         "initial": "ECON 186",
         "related courses": [
-            "ECON 42",
             "ECON 113",
-            "ECON 41"
+            "ECON 41",
+            "ECON 42"
         ]
     },
     {
@@ -34592,9 +34562,9 @@
         "department": "Economics",
         "initial": "ECON 187",
         "related courses": [
-            "ECON 42",
             "ECON 113",
-            "ECON 41"
+            "ECON 41",
+            "ECON 42"
         ]
     },
     {
@@ -34609,8 +34579,8 @@
         "department": "Economics",
         "initial": "ECON 188",
         "related courses": [
-            "ECON 42",
-            "ECON 41"
+            "ECON 41",
+            "ECON 42"
         ]
     },
     {
@@ -34651,9 +34621,9 @@
         "department": "Economics",
         "initial": "ECON 2401",
         "related courses": [
+            "MSE",
             "MSF",
-            "OMIS 2353",
-            "MSE"
+            "OMIS 2353"
         ]
     },
     {
@@ -34683,10 +34653,10 @@
         "department": "Economics",
         "initial": "ECON 3430",
         "related courses": [
+            "ECON 2401",
             "ECON 3000",
             "ECON 3400",
-            "ECON 401",
-            "ECON 2401"
+            "ECON 401"
         ]
     },
     {
@@ -34701,10 +34671,10 @@
         "department": "Economics",
         "initial": "ECON 3436",
         "related courses": [
-            "ECON 3000",
-            "ECON 3402",
             "ARIMA",
-            "ECON 3400"
+            "ECON 3000",
+            "ECON 3400",
+            "ECON 3402"
         ]
     },
     {
@@ -34732,8 +34702,8 @@
         "department": "Marketing",
         "initial": "MKTG 165",
         "related courses": [
-            "MKTG 181",
-            "ACTG 11"
+            "ACTG 11",
+            "MKTG 181"
         ]
     },
     {
@@ -34748,9 +34718,9 @@
         "department": "Marketing",
         "initial": "MKTG 168",
         "related courses": [
-            "MKTG 181",
             "MKTG 165",
-            "MKTG 168"
+            "MKTG 168",
+            "MKTG 181"
         ]
     },
     {
@@ -34796,8 +34766,8 @@
         "initial": "MKTG 178",
         "related courses": [
             "MGMT 80",
-            "MKTG 181",
-            "MKTG 178L"
+            "MKTG 178L",
+            "MKTG 181"
         ]
     },
     {
@@ -34838,9 +34808,9 @@
         "department": "Marketing",
         "initial": "MKTG 182",
         "related courses": [
-            "OMIS 41",
             "ECON 42",
-            "MKTG 181"
+            "MKTG 181",
+            "OMIS 41"
         ]
     },
     {
@@ -34855,9 +34825,9 @@
         "department": "Marketing",
         "initial": "MKTG 183",
         "related courses": [
-            "OMIS 41",
             "ECON 42",
-            "MKTG 181"
+            "MKTG 181",
+            "OMIS 41"
         ]
     },
     {
@@ -34976,9 +34946,9 @@
         "department": "Marketing",
         "initial": "MKTG 2552/3000",
         "related courses": [
+            "ECON 2401",
             "ECON 3400",
-            "ECON 401",
-            "ECON 2401"
+            "ECON 401"
         ]
     },
     {
@@ -34993,9 +34963,9 @@
         "department": "Marketing",
         "initial": "MKTG 3554",
         "related courses": [
-            "MKTG 551",
+            "MKTG 3000",
             "MKTG 3552",
-            "MKTG 3000"
+            "MKTG 551"
         ]
     },
     {
@@ -35010,8 +34980,8 @@
         "department": "Marketing",
         "initial": "MKTG 3569",
         "related courses": [
-            "MKTG 3552",
-            "MKTG 3000"
+            "MKTG 3000",
+            "MKTG 3552"
         ]
     },
     {
@@ -35026,9 +34996,9 @@
         "department": "Marketing",
         "initial": "MKTG 3572",
         "related courses": [
+            "MKTG 3000",
             "MKTG 3552",
-            "MKTG 553",
-            "MKTG 3000"
+            "MKTG 553"
         ]
     },
     {
@@ -35043,9 +35013,9 @@
         "department": "Marketing",
         "initial": "MKTG 3574",
         "related courses": [
+            "MKTG 3000",
             "MKTG 3552",
-            "MKTG 553",
-            "MKTG 3000"
+            "MKTG 553"
         ]
     },
     {
@@ -35061,14 +35031,14 @@
         "initial": "MKTG 3588",
         "related courses": [
             "ECON 2401",
-            "MKTG 3552",
-            "ECON 3422",
-            "MKTG 2552",
-            "ECON 3400",
-            "MKTG 551",
-            "MKTG 3000",
             "ECON 3000",
-            "ECON 401"
+            "ECON 3400",
+            "ECON 3422",
+            "ECON 401",
+            "MKTG 2552",
+            "MKTG 3000",
+            "MKTG 3552",
+            "MKTG 551"
         ]
     },
     {
@@ -35083,9 +35053,9 @@
         "department": "Marketing",
         "initial": "MKTG 3590",
         "related courses": [
+            "MKTG 3000",
             "MKTG 3552",
-            "MKTG 553",
-            "MKTG 3000"
+            "MKTG 553"
         ]
     },
     {
@@ -35101,10 +35071,10 @@
         "initial": "MKTG 3592",
         "related courses": [
             " SEO",
-            "SEM",
+            "MKTG 3000",
             "MKTG 3552",
             "MKTG 553",
-            "MKTG 3000"
+            "SEM"
         ]
     },
     {
@@ -35134,11 +35104,11 @@
         "department": "Marketing",
         "initial": "MKTG 3596",
         "related courses": [
-            "IMC)",
-            "MKTG 3552",
-            "MKTG 553",
             "IMC",
-            "MKTG 3000"
+            "IMC)",
+            "MKTG 3000",
+            "MKTG 3552",
+            "MKTG 553"
         ]
     },
     {
@@ -35153,9 +35123,9 @@
         "department": "Marketing",
         "initial": "MKTG 3597",
         "related courses": [
+            "MKTG 3000",
             "MKTG 3552",
-            "MKTG 553",
-            "MKTG 3000"
+            "MKTG 553"
         ]
     },
     {
@@ -35246,8 +35216,8 @@
         "department": "Marketing",
         "initial": "MKTG 3801",
         "related courses": [
-            "MKTG 3552",
-            "MKTG 3000"
+            "MKTG 3000",
+            "MKTG 3552"
         ]
     },
     {
@@ -35262,8 +35232,8 @@
         "department": "Marketing",
         "initial": "MKTG 3802",
         "related courses": [
-            "MKTG 3552",
-            "MKTG 3000"
+            "MKTG 3000",
+            "MKTG 3552"
         ]
     },
     {
@@ -35291,8 +35261,8 @@
         "department": "Marketing",
         "initial": "MKTG 3803",
         "related courses": [
-            "ABM)",
             "ABM",
+            "ABM)",
             "MKTG 3000"
         ]
     },
@@ -35323,9 +35293,9 @@
         "department": "Finance",
         "initial": "FNCE 115",
         "related courses": [
-            "MATH 31",
+            "FNCE 121",
             "MATH 11",
-            "FNCE 121"
+            "MATH 31"
         ]
     },
     {
@@ -35340,12 +35310,12 @@
         "department": "Finance",
         "initial": "FNCE 116",
         "related courses": [
-            "MATH 53",
+            "AMTH 108",
             "AMTH 367",
             "FNCE 115",
-            "MATH 125",
             "MATH 122",
-            "AMTH 108"
+            "MATH 125",
+            "MATH 53"
         ]
     },
     {
@@ -35360,8 +35330,8 @@
         "department": "Finance",
         "initial": "FNCE 118",
         "related courses": [
-            "GPA. P",
-            "ACTG 11"
+            "ACTG 11",
+            "GPA. P"
         ]
     },
     {
@@ -35421,8 +35391,8 @@
         "department": "Finance",
         "initial": "FNCE 125",
         "related courses": [
-            "FNCE 124",
-            "FNCE 121"
+            "FNCE 121",
+            "FNCE 124"
         ]
     },
     {
@@ -35437,9 +35407,9 @@
         "department": "Finance",
         "initial": "FNCE 126",
         "related courses": [
-            "FNCE 125",
+            "FNCE 121",
             "FNCE 124",
-            "FNCE 121"
+            "FNCE 125"
         ]
     },
     {
@@ -35454,9 +35424,9 @@
         "department": "Finance",
         "initial": "FNCE 127",
         "related courses": [
-            "GPA. P",
             "FNCE 118",
-            "FNCE 121"
+            "FNCE 121",
+            "GPA. P"
         ]
     },
     {
@@ -35471,8 +35441,8 @@
         "department": "Finance",
         "initial": "FNCE 128",
         "related courses": [
-            "FNCE 124",
-            "FNCE 121"
+            "FNCE 121",
+            "FNCE 124"
         ]
     },
     {
@@ -35487,9 +35457,9 @@
         "department": "Finance",
         "initial": "FNCE 129",
         "related courses": [
-            "GPA. P",
             "FNCE 118",
-            "FNCE 121"
+            "FNCE 121",
+            "GPA. P"
         ]
     },
     {
@@ -35504,8 +35474,8 @@
         "department": "Finance",
         "initial": "FNCE 130",
         "related courses": [
-            "FNCE 124",
-            "FNCE 121"
+            "FNCE 121",
+            "FNCE 124"
         ]
     },
     {
@@ -35520,8 +35490,8 @@
         "department": "Finance",
         "initial": "FNCE 132",
         "related courses": [
-            "FNCE 124",
-            "FNCE 121"
+            "FNCE 121",
+            "FNCE 124"
         ]
     },
     {
@@ -35536,8 +35506,8 @@
         "department": "Finance",
         "initial": "FNCE 134",
         "related courses": [
-            "FNCE 124",
-            "FNCE 121"
+            "FNCE 121",
+            "FNCE 124"
         ]
     },
     {
@@ -35552,9 +35522,9 @@
         "department": "Finance",
         "initial": "FNCE 135",
         "related courses": [
-            "OMIS 41",
+            "FNCE 121",
             "FNCE 124",
-            "FNCE 121"
+            "OMIS 41"
         ]
     },
     {
@@ -35569,8 +35539,8 @@
         "department": "Finance",
         "initial": "FNCE 141",
         "related courses": [
-            "FNCE 124",
-            "FNCE 121"
+            "FNCE 121",
+            "FNCE 124"
         ]
     },
     {
@@ -35585,8 +35555,8 @@
         "department": "Finance",
         "initial": "FNCE 143",
         "related courses": [
-            "FNCE 124",
-            "FNCE 121"
+            "FNCE 121",
+            "FNCE 124"
         ]
     },
     {
@@ -35601,8 +35571,8 @@
         "department": "Finance",
         "initial": "FNCE 146",
         "related courses": [
-            "FNCE 124",
-            "FNCE 121"
+            "FNCE 121",
+            "FNCE 124"
         ]
     },
     {
@@ -35617,9 +35587,9 @@
         "department": "Finance",
         "initial": "FNCE 148",
         "related courses": [
-            "FNCE 124",
             "CFO)",
-            "FNCE 121"
+            "FNCE 121",
+            "FNCE 124"
         ]
     },
     {
@@ -35649,8 +35619,8 @@
         "department": "Finance",
         "initial": "FNCE 151",
         "related courses": [
-            "FNCE 124",
-            "FNCE 121"
+            "FNCE 121",
+            "FNCE 124"
         ]
     },
     {
@@ -35665,8 +35635,8 @@
         "department": "Finance",
         "initial": "FNCE 155",
         "related courses": [
-            "FNCE 124",
-            "FNCE 121"
+            "FNCE 121",
+            "FNCE 124"
         ]
     },
     {
@@ -35681,8 +35651,8 @@
         "department": "Finance",
         "initial": "FNCE 163",
         "related courses": [
-            "FNCE 124",
-            "FNCE 121"
+            "FNCE 121",
+            "FNCE 124"
         ]
     },
     {
@@ -35697,8 +35667,8 @@
         "department": "Finance",
         "initial": "FNCE 170",
         "related courses": [
-            "FNCE 124",
-            "FNCE 121"
+            "FNCE 121",
+            "FNCE 124"
         ]
     },
     {
@@ -35713,8 +35683,8 @@
         "department": "Finance",
         "initial": "FNCE 172",
         "related courses": [
-            "FNCE 124",
-            "FNCE 121"
+            "FNCE 121",
+            "FNCE 124"
         ]
     },
     {
@@ -35729,9 +35699,9 @@
         "department": "Finance",
         "initial": "FNCE 174",
         "related courses": [
-            "FNCE 125",
+            "FNCE 121",
             "FNCE 124",
-            "FNCE 121"
+            "FNCE 125"
         ]
     },
     {
@@ -35746,8 +35716,8 @@
         "department": "Finance",
         "initial": "FNCE 180",
         "related courses": [
-            "FNCE 124",
-            "FNCE 121"
+            "FNCE 121",
+            "FNCE 124"
         ]
     },
     {
@@ -35762,12 +35732,12 @@
         "department": "Finance",
         "initial": "FNCE 186",
         "related courses": [
-            "CRSP",
-            "FNCE 124",
-            "EDGAR",
-            "FNCE 125",
             " M",
-            "FNCE 121"
+            "CRSP",
+            "EDGAR",
+            "FNCE 121",
+            "FNCE 124",
+            "FNCE 125"
         ]
     },
     {
@@ -35810,8 +35780,8 @@
         "department": "Finance",
         "initial": "FNCE 198",
         "related courses": [
-            "FNCE 121S",
-            "FNCE 121"
+            "FNCE 121",
+            "FNCE 121S"
         ]
     },
     {
@@ -35854,10 +35824,10 @@
         "department": "Finance",
         "initial": "FNCE 2453/3453",
         "related courses": [
+            "FNCE 2452",
             "FNCE 3000",
             "FNCE 3452",
-            "FNCE 451",
-            "FNCE 2452"
+            "FNCE 451"
         ]
     },
     {
@@ -35885,11 +35855,11 @@
         "department": "Finance",
         "initial": "FNCE 3457",
         "related courses": [
-            "MNC)",
+            "FNCE 2452",
             "FNCE 3000",
             "FNCE 3452",
             "FNCE 451",
-            "FNCE 2452"
+            "MNC)"
         ]
     },
     {
@@ -35904,10 +35874,10 @@
         "department": "Finance",
         "initial": "FNCE 3459",
         "related courses": [
+            "FNCE 2452",
             "FNCE 3000",
             "FNCE 3452",
-            "FNCE 451",
-            "FNCE 2452"
+            "FNCE 451"
         ]
     },
     {
@@ -35922,10 +35892,10 @@
         "department": "Finance",
         "initial": "FNCE 3460",
         "related courses": [
+            "FNCE 2452",
             "FNCE 3000",
             "FNCE 3452",
-            "FNCE 451",
-            "FNCE 2452"
+            "FNCE 451"
         ]
     },
     {
@@ -35940,10 +35910,10 @@
         "department": "Finance",
         "initial": "FNCE 3462",
         "related courses": [
+            "FNCE 2452",
             "FNCE 3000",
             "FNCE 3452",
-            "FNCE 451",
-            "FNCE 2452"
+            "FNCE 451"
         ]
     },
     {
@@ -35958,10 +35928,10 @@
         "department": "Finance",
         "initial": "FNCE 3464",
         "related courses": [
+            "FNCE 2452",
             "FNCE 3000",
             "FNCE 3452",
-            "FNCE 451",
-            "FNCE 2452"
+            "FNCE 451"
         ]
     },
     {
@@ -35976,10 +35946,10 @@
         "department": "Finance",
         "initial": "FNCE 3474",
         "related courses": [
+            "FNCE 2452",
             "FNCE 3000",
             "FNCE 3452",
-            "FNCE 451",
-            "FNCE 2452"
+            "FNCE 451"
         ]
     },
     {
@@ -35994,10 +35964,10 @@
         "department": "Finance",
         "initial": "FNCE 2480/3480",
         "related courses": [
+            "FNCE 2452",
             "FNCE 3000",
             "FNCE 3452",
-            "FNCE 451",
-            "FNCE 2452"
+            "FNCE 451"
         ]
     },
     {
@@ -36012,10 +35982,10 @@
         "department": "Finance",
         "initial": "FNCE 3482",
         "related courses": [
+            "FNCE 2452",
             "FNCE 3000",
             "FNCE 3452",
-            "FNCE 451",
-            "FNCE 2452"
+            "FNCE 451"
         ]
     },
     {
@@ -36030,10 +36000,10 @@
         "department": "Finance",
         "initial": "FNCE 3484",
         "related courses": [
+            "FNCE 2452",
             "FNCE 3000",
             "FNCE 3452",
-            "FNCE 451",
-            "FNCE 2452"
+            "FNCE 451"
         ]
     },
     {
@@ -36048,10 +36018,10 @@
         "department": "Finance",
         "initial": "FNCE 3486",
         "related courses": [
+            "FNCE 2452",
             "FNCE 3000",
             "FNCE 3452",
-            "FNCE 451",
-            "FNCE 2452"
+            "FNCE 451"
         ]
     },
     {
@@ -36066,10 +36036,10 @@
         "department": "Finance",
         "initial": "FNCE 3488",
         "related courses": [
+            "FNCE 2452",
             "FNCE 3000",
             "FNCE 3452",
-            "FNCE 451",
-            "FNCE 2452"
+            "FNCE 451"
         ]
     },
     {
@@ -36084,10 +36054,10 @@
         "department": "Finance",
         "initial": "FNCE 3489",
         "related courses": [
+            "FNCE 2452",
             "FNCE 3000",
             "FNCE 3452",
-            "FNCE 451",
-            "FNCE 2452"
+            "FNCE 451"
         ]
     },
     {
@@ -36102,10 +36072,10 @@
         "department": "Finance",
         "initial": "FNCE 3490",
         "related courses": [
-            "OMIS 3200",
             "ECON 3000",
-            "OMIS 3350",
-            "ECON 3400"
+            "ECON 3400",
+            "OMIS 3200",
+            "OMIS 3350"
         ]
     },
     {
@@ -36120,9 +36090,9 @@
         "department": "Finance",
         "initial": "FNCE 3491",
         "related courses": [
+            "FNCE 2452",
             "FNCE 3000",
-            "FNCE 3452",
-            "FNCE 2452"
+            "FNCE 3452"
         ]
     },
     {
@@ -36191,8 +36161,8 @@
         "school": "Leavey School of Business",
         "department": "Operations Management and Information Systems",
         "related courses": [
-            "SQL",
-            "OMIS 15"
+            "OMIS 15",
+            "SQL"
         ]
     },
     {
@@ -36206,10 +36176,10 @@
         "school": "Leavey School of Business",
         "department": "Operations Management and Information Systems",
         "related courses": [
-            "OMIS 31",
-            "MATH 10",
+            "COEN 6",
             "CSCI 10",
-            "COEN 6"
+            "MATH 10",
+            "OMIS 31"
         ]
     },
     {
@@ -36223,12 +36193,12 @@
         "school": "Leavey School of Business",
         "department": "Operations Management and Information Systems",
         "related courses": [
-            "NET",
+            "COEN 11",
             "CSCI 10",
             "MATH 10",
-            "COEN 11",
-            "PHP. S",
-            "OMIS 30"
+            "NET",
+            "OMIS 30",
+            "PHP. S"
         ]
     },
     {
@@ -36269,8 +36239,8 @@
         "school": "Leavey School of Business",
         "department": "Operations Management and Information Systems",
         "related courses": [
-            "OMIS 40",
-            "OMIS 15"
+            "OMIS 15",
+            "OMIS 40"
         ]
     },
     {
@@ -36284,9 +36254,9 @@
         "school": "Leavey School of Business",
         "department": "Operations Management and Information Systems",
         "related courses": [
-            "OMIS 40",
+            "ECON 43",
             "MATH 30",
-            "ECON 43"
+            "OMIS 40"
         ]
     },
     {
@@ -36302,8 +36272,8 @@
         "related courses": [
             "DBMS",
             "DBMS)",
-            "SQL",
-            "OMIS 30"
+            "OMIS 30",
+            "SQL"
         ]
     },
     {
@@ -36331,9 +36301,9 @@
         "school": "Leavey School of Business",
         "department": "Operations Management and Information Systems",
         "related courses": [
+            " W",
             "LINUX/UNIX",
-            "OMIS 30",
-            " W"
+            "OMIS 30"
         ]
     },
     {
@@ -36347,8 +36317,8 @@
         "school": "Leavey School of Business",
         "department": "Operations Management and Information Systems",
         "related courses": [
-            "OMIS 41",
-            "ECON 41"
+            "ECON 41",
+            "OMIS 41"
         ]
     },
     {
@@ -36362,9 +36332,9 @@
         "school": "Leavey School of Business",
         "department": "Operations Management and Information Systems",
         "related courses": [
-            "OMIS 41",
+            "ECON 41",
             "OMIS 108",
-            "ECON 41"
+            "OMIS 41"
         ]
     },
     {
@@ -36378,9 +36348,9 @@
         "school": "Leavey School of Business",
         "department": "Operations Management and Information Systems",
         "related courses": [
-            "OMIS 41",
+            "ECON 41",
             "OMIS 108",
-            "ECON 41"
+            "OMIS 41"
         ]
     },
     {
@@ -36394,8 +36364,8 @@
         "school": "Leavey School of Business",
         "department": "Operations Management and Information Systems",
         "related courses": [
-            "OMIS 41",
-            "ECON 41"
+            "ECON 41",
+            "OMIS 41"
         ]
     },
     {
@@ -36409,12 +36379,12 @@
         "school": "Leavey School of Business",
         "department": "Operations Management and Information Systems",
         "related courses": [
-            "ECON 41",
-            "OMIS 41",
-            "SLAM",
             " GPSS",
+            "ECON 41",
             "GASP;",
-            "OMIS 30"
+            "OMIS 30",
+            "OMIS 41",
+            "SLAM"
         ]
     },
     {
@@ -36428,8 +36398,8 @@
         "school": "Leavey School of Business",
         "department": "Operations Management and Information Systems",
         "related courses": [
-            "OMIS 31",
-            "OMIS 30"
+            "OMIS 30",
+            "OMIS 31"
         ]
     },
     {
@@ -36541,14 +36511,14 @@
         "school": "Leavey School of Business",
         "department": "Operations Management and Information Systems",
         "related courses": [
-            "AJAX",
-            "PHP",
+            " CSS",
             " J",
             " M",
-            "HTML",
-            " CSS",
             " XML",
-            "OMIS 30"
+            "AJAX",
+            "HTML",
+            "OMIS 30",
+            "PHP"
         ]
     },
     {
@@ -36562,11 +36532,11 @@
         "school": "Leavey School of Business",
         "department": "Operations Management and Information Systems",
         "related courses": [
-            "OMIS 105",
             "COEN 178",
-            "SAP. I",
+            "ERP",
             "ERP)",
-            "ERP"
+            "OMIS 105",
+            "SAP. I"
         ]
     },
     {
@@ -36580,8 +36550,8 @@
         "school": "Leavey School of Business",
         "department": "Operations Management and Information Systems",
         "related courses": [
-            "OMIS 30",
-            "GUI. D"
+            "GUI. D",
+            "OMIS 30"
         ]
     },
     {
@@ -36610,10 +36580,10 @@
         "school": "Leavey School of Business",
         "department": "Operations Management and Information Systems",
         "related courses": [
-            "OMIS 105",
-            "OMIS 30",
+            "ACTG 155",
             "ERP",
-            "ACTG 155"
+            "OMIS 105",
+            "OMIS 30"
         ]
     },
     {
@@ -36684,8 +36654,8 @@
         "department": "Operations Management and Information Systems",
         "initial": "OMIS 2353",
         "related courses": [
-            "MSF",
-            "MSE"
+            "MSE",
+            "MSF"
         ]
     },
     {
@@ -36758,8 +36728,8 @@
         "department": "Operations Management and Information Systems",
         "initial": "OMIS 3252",
         "related courses": [
-            "OMIS 3202",
-            "OMIS 3200"
+            "OMIS 3200",
+            "OMIS 3202"
         ]
     },
     {
@@ -36775,8 +36745,8 @@
         "initial": "OMIS 3357",
         "related courses": [
             "MRP. E",
-            "OMIS 3352",
-            "OMIS 2355"
+            "OMIS 2355",
+            "OMIS 3352"
         ]
     },
     {
@@ -36792,10 +36762,10 @@
         "initial": "OMIS 3362",
         "related courses": [
             "MSIS 2626",
+            "OMIS 2353",
             "OMIS 3200",
             "OMIS 3350",
-            "OMIS 353",
-            "OMIS 2353"
+            "OMIS 353"
         ]
     },
     {
@@ -36842,10 +36812,10 @@
         "department": "Operations Management and Information Systems",
         "initial": "OMIS 3374",
         "related courses": [
-            "OMIS 3350",
+            "OMIS 2353",
             "OMIS 3200",
-            "OMIS 353",
-            "OMIS 2353"
+            "OMIS 3350",
+            "OMIS 353"
         ]
     },
     {
@@ -36892,8 +36862,8 @@
         "department": "Operations Management and Information Systems",
         "initial": "OMIS 3386",
         "related courses": [
-            "OMIS 3366",
-            "MSIS 2621"
+            "MSIS 2621",
+            "OMIS 3366"
         ]
     },
     {
@@ -37010,8 +36980,8 @@
         "department": "Information Systems",
         "initial": "MSIS 2621",
         "related courses": [
-            "OMIS 3386",
-            "MSIS 2603"
+            "MSIS 2603",
+            "OMIS 3386"
         ]
     },
     {
@@ -37026,9 +36996,9 @@
         "department": "Information Systems",
         "initial": "MSIS 2622",
         "related courses": [
-            "MSIS 2602",
             "ERP",
-            "ERP)"
+            "ERP)",
+            "MSIS 2602"
         ]
     },
     {
@@ -37089,8 +37059,8 @@
         "department": "Information Systems",
         "initial": "MSIS 2626",
         "related courses": [
-            "OMIS 3362",
-            "OMIS 2355"
+            "OMIS 2355",
+            "OMIS 3362"
         ]
     },
     {
@@ -37121,8 +37091,8 @@
         "department": "Information Systems",
         "initial": "MSIS 2628",
         "related courses": [
-            "MSIS 2601",
-            "IMS. P"
+            "IMS. P",
+            "MSIS 2601"
         ]
     },
     {
@@ -37152,11 +37122,11 @@
         "department": "Information Systems",
         "initial": "MSIS 2630",
         "related courses": [
-            "PHP",
-            "MSIS 2601",
+            " CSS",
             " J",
             "HTML",
-            " CSS"
+            "MSIS 2601",
+            "PHP"
         ]
     },
     {
@@ -37242,8 +37212,8 @@
         "initial": "MSIS 2645",
         "related courses": [
             "MSIS",
-            "MSIS C",
-            "MSIS 2646"
+            "MSIS 2646",
+            "MSIS C"
         ]
     },
     {
@@ -37640,8 +37610,8 @@
         "department": "General Engineering",
         "initial": "ENGR 91",
         "related courses": [
-            "LEED",
-            "BIM"
+            "BIM",
+            "LEED"
         ]
     },
     {
@@ -37684,9 +37654,9 @@
         "department": "General Engineering",
         "initial": "ENGR 111",
         "related courses": [
-            "STEM",
+            "ELSJ",
             "ENGR 111L",
-            "ELSJ"
+            "STEM"
         ]
     },
     {
@@ -37701,8 +37671,8 @@
         "department": "General Engineering",
         "initial": "ENGR 111L",
         "related courses": [
-            "STEM",
-            "ENGR 111"
+            "ENGR 111",
+            "STEM"
         ]
     },
     {
@@ -38059,8 +38029,8 @@
         "department": "General Engineering",
         "initial": "ENGR 172B",
         "related courses": [
-            "SCU",
-            "ENGR 172A"
+            "ENGR 172A",
+            "SCU"
         ]
     },
     {
@@ -38246,9 +38216,9 @@
         "department": "Applied Mathematics",
         "initial": "AMTH 106",
         "related courses": [
-            "MATH 22",
+            "AMTH 106",
             "MATH 13",
-            "AMTH 106"
+            "MATH 22"
         ]
     },
     {
@@ -38293,12 +38263,12 @@
         "department": "Applied Mathematics",
         "initial": "AMTH 118",
         "related courses": [
-            "COEN 44",
             "AMTH 106",
-            "CSCI 10",
-            "MATH 22",
             "COEN 11",
-            "COEN 45"
+            "COEN 44",
+            "COEN 45",
+            "CSCI 10",
+            "MATH 22"
         ]
     },
     {
@@ -38341,8 +38311,8 @@
         "department": "Applied Mathematics",
         "initial": "AMTH 200",
         "related courses": [
-            "MECH 200",
-            "AMTH 106"
+            "AMTH 106",
+            "MECH 200"
         ]
     },
     {
@@ -38357,8 +38327,8 @@
         "department": "Applied Mathematics",
         "initial": "AMTH 202",
         "related courses": [
-            "MECH 202",
-            "AMTH 106"
+            "AMTH 106",
+            "MECH 202"
         ]
     },
     {
@@ -38529,8 +38499,8 @@
         "initial": "AMTH 367",
         "related courses": [
             "FNCE 116",
-            "MATH 125",
-            "FNCE 3489"
+            "FNCE 3489",
+            "MATH 125"
         ]
     },
     {
@@ -38574,8 +38544,8 @@
         "department": "Applied Mathematics",
         "initial": "AMTH 379",
         "related courses": [
-            "COEN 279",
             "AMTH 377",
+            "COEN 279",
             "COEN 379"
         ]
     },
@@ -38834,8 +38804,8 @@
         "initial": "CENG 115",
         "related courses": [
             "CENG 115L",
-            "CHEM 11",
-            "CENG 44A"
+            "CENG 44A",
+            "CHEM 11"
         ]
     },
     {
@@ -38880,8 +38850,8 @@
         "department": "Civil Engineering",
         "initial": "CENG 119",
         "related courses": [
-            "LEED",
-            "CENG 219"
+            "CENG 219",
+            "LEED"
         ]
     },
     {
@@ -38896,8 +38866,8 @@
         "department": "Civil Engineering",
         "initial": "CENG 121A",
         "related courses": [
-            "CENG 20",
-            "CENG 121AL"
+            "CENG 121AL",
+            "CENG 20"
         ]
     },
     {
@@ -38942,9 +38912,9 @@
         "department": "Civil Engineering",
         "initial": "CENG 123",
         "related courses": [
-            "CHEM 11",
             "AMTH 106",
-            "CENG 123L"
+            "CENG 123L",
+            "CHEM 11"
         ]
     },
     {
@@ -38974,9 +38944,9 @@
         "department": "Civil Engineering",
         "initial": "CENG 124",
         "related courses": [
-            "EPA",
             "CENG 258",
-            "ENVS 124"
+            "ENVS 124",
+            "EPA"
         ]
     },
     {
@@ -39035,8 +39005,8 @@
         "department": "Civil Engineering",
         "initial": "CENG 132",
         "related courses": [
-            "CENG 44B",
-            "CENG 44A"
+            "CENG 44A",
+            "CENG 44B"
         ]
     },
     {
@@ -39051,8 +39021,8 @@
         "department": "Civil Engineering",
         "initial": "CENG 133",
         "related courses": [
-            "CENG 233",
-            "CENG 132"
+            "CENG 132",
+            "CENG 233"
         ]
     },
     {
@@ -39113,8 +39083,8 @@
         "department": "Civil Engineering",
         "initial": "CENG 136",
         "related courses": [
-            "CENG 236",
-            "CENG 135"
+            "CENG 135",
+            "CENG 236"
         ]
     },
     {
@@ -39161,9 +39131,9 @@
         "department": "Civil Engineering",
         "initial": "CENG 138L",
         "related courses": [
-            "CENG 238L",
             "CENG 138",
-            "CENG 148"
+            "CENG 148",
+            "CENG 238L"
         ]
     },
     {
@@ -39178,8 +39148,8 @@
         "department": "Civil Engineering",
         "initial": "CENG 139",
         "related courses": [
-            "CENG 269",
-            "CENG 141"
+            "CENG 141",
+            "CENG 269"
         ]
     },
     {
@@ -39225,8 +39195,8 @@
         "department": "Civil Engineering",
         "initial": "CENG 141",
         "related courses": [
-            "CENG 41",
-            "CENG 141L"
+            "CENG 141L",
+            "CENG 41"
         ]
     },
     {
@@ -39256,9 +39226,9 @@
         "department": "Civil Engineering",
         "initial": "CENG 142",
         "related courses": [
-            "CENG 242",
             "CENG 140",
-            "CENG 141"
+            "CENG 141",
+            "CENG 242"
         ]
     },
     {
@@ -39273,8 +39243,8 @@
         "department": "Civil Engineering",
         "initial": "CENG 143",
         "related courses": [
-            "CHEM 11",
-            "CENG 143L"
+            "CENG 143L",
+            "CHEM 11"
         ]
     },
     {
@@ -39304,8 +39274,8 @@
         "department": "Civil Engineering",
         "initial": "CENG 144",
         "related courses": [
-            "CENG 144L",
-            "CENG 141"
+            "CENG 141",
+            "CENG 144L"
         ]
     },
     {
@@ -39350,8 +39320,8 @@
         "department": "Civil Engineering",
         "initial": "CENG 146",
         "related courses": [
-            "CENG 246",
-            "CENG 132"
+            "CENG 132",
+            "CENG 246"
         ]
     },
     {
@@ -39366,8 +39336,8 @@
         "department": "Civil Engineering",
         "initial": "CENG 147",
         "related courses": [
-            "CENG 247",
-            "CENG 115"
+            "CENG 115",
+            "CENG 247"
         ]
     },
     {
@@ -39382,8 +39352,8 @@
         "department": "Civil Engineering",
         "initial": "CENG 148",
         "related courses": [
-            "CENG 148L",
-            "CENG 132"
+            "CENG 132",
+            "CENG 148L"
         ]
     },
     {
@@ -39444,8 +39414,8 @@
         "department": "Civil Engineering",
         "initial": "CENG 151",
         "related courses": [
-            "CENG 251",
-            "CENG 145"
+            "CENG 145",
+            "CENG 251"
         ]
     },
     {
@@ -39536,9 +39506,9 @@
         "department": "Civil Engineering",
         "initial": "CENG 182",
         "related courses": [
-            "CENG 282",
             "BIM-",
-            "CENG 125"
+            "CENG 125",
+            "CENG 282"
         ]
     },
     {
@@ -39583,8 +39553,8 @@
         "department": "Civil Engineering",
         "initial": "CENG 186L",
         "related courses": [
-            "CENG 286L",
-            "CENG 186"
+            "CENG 186",
+            "CENG 286L"
         ]
     },
     {
@@ -39599,8 +39569,8 @@
         "department": "Civil Engineering",
         "initial": "CENG 187",
         "related courses": [
-            "CENG 287",
-            "CENG 187L"
+            "CENG 187L",
+            "CENG 287"
         ]
     },
     {
@@ -39615,8 +39585,8 @@
         "department": "Civil Engineering",
         "initial": "CENG 187L",
         "related courses": [
-            "CENG 287L",
-            "CENG 187"
+            "CENG 187",
+            "CENG 287L"
         ]
     },
     {
@@ -39861,8 +39831,8 @@
         "department": "Civil Engineering",
         "initial": "CENG 233",
         "related courses": [
-            "CENG 133",
-            "CENG 132"
+            "CENG 132",
+            "CENG 133"
         ]
     },
     {
@@ -39877,8 +39847,8 @@
         "department": "Civil Engineering",
         "initial": "CENG 236",
         "related courses": [
-            "CENG 136",
-            "CENG 135"
+            "CENG 135",
+            "CENG 136"
         ]
     },
     {
@@ -39909,9 +39879,9 @@
         "department": "Civil Engineering",
         "initial": "CENG 238L",
         "related courses": [
+            "CENG 135",
             "CENG 138",
-            "CENG 138L",
-            "CENG 135"
+            "CENG 138L"
         ]
     },
     {
@@ -39941,8 +39911,8 @@
         "department": "Civil Engineering",
         "initial": "CENG 250",
         "related courses": [
-            "CENG 150",
-            "CENG 145"
+            "CENG 145",
+            "CENG 150"
         ]
     },
     {
@@ -39957,9 +39927,9 @@
         "department": "Civil Engineering",
         "initial": "CENG 258",
         "related courses": [
-            "EPA",
+            "CENG 124",
             "ENVS 124",
-            "CENG 124"
+            "EPA"
         ]
     },
     {
@@ -39990,8 +39960,8 @@
         "department": "Civil Engineering",
         "initial": "CENG 262",
         "related courses": [
-            "CENG 162",
-            "CENG 140"
+            "CENG 140",
+            "CENG 162"
         ]
     },
     {
@@ -40035,8 +40005,8 @@
         "department": "Civil Engineering",
         "initial": "CENG 286",
         "related courses": [
-            "CENG 286L",
-            "CENG 186"
+            "CENG 186",
+            "CENG 286L"
         ]
     },
     {
@@ -40051,8 +40021,8 @@
         "department": "Civil Engineering",
         "initial": "CENG 286L",
         "related courses": [
-            "CENG 286",
-            "CENG 186L"
+            "CENG 186L",
+            "CENG 286"
         ]
     },
     {
@@ -40185,9 +40155,9 @@
         "department": "Bioengineering",
         "initial": "BIOE 109",
         "related courses": [
-            "BIOE 21",
             "BIOE 10",
-            "BIOE 153"
+            "BIOE 153",
+            "BIOE 21"
         ]
     },
     {
@@ -40278,11 +40248,11 @@
         "department": "Bioengineering",
         "initial": "BIOE 157",
         "related courses": [
+            "BIOE 21",
             "BIOE 257",
-            "CHEM 13",
             "BIOL 1B",
-            "ENGR 257",
-            "BIOE 21"
+            "CHEM 13",
+            "ENGR 257"
         ]
     },
     {
@@ -40297,11 +40267,11 @@
         "department": "Bioengineering",
         "initial": "BIOE 161",
         "related courses": [
-            "ELEN 50",
             "BIOE 10",
             "BIOE 161L",
+            "BIOE 211",
             "BIOL 1B",
-            "BIOE 211"
+            "ELEN 50"
         ]
     },
     {
@@ -40316,8 +40286,8 @@
         "department": "Bioengineering",
         "initial": "BIOE 161L",
         "related courses": [
-            "BIOE 211L",
-            "BIOE 161"
+            "BIOE 161",
+            "BIOE 211L"
         ]
     },
     {
@@ -40332,12 +40302,12 @@
         "department": "Bioengineering",
         "initial": "BIOE 162",
         "related courses": [
-            "BIOE 162L",
-            "EMG)",
             "BIOE 10",
+            "BIOE 162L",
             "BIOE 212",
-            "FFT",
-            "ECG)"
+            "ECG)",
+            "EMG)",
+            "FFT"
         ]
     },
     {
@@ -40352,8 +40322,8 @@
         "department": "Bioengineering",
         "initial": "BIOE 162L",
         "related courses": [
-            "BIOE 212L",
-            "BIOE 162"
+            "BIOE 162",
+            "BIOE 212L"
         ]
     },
     {
@@ -40401,11 +40371,11 @@
         "department": "Bioengineering",
         "initial": "BIOE 167",
         "related courses": [
-            "ELEN 167",
             " CT",
             "BIOE 162",
             "BIOE 267",
             "ELEN 110",
+            "ELEN 167",
             "MECH 142",
             "MRI"
         ]
@@ -40422,11 +40392,11 @@
         "department": "Bioengineering",
         "initial": "BIOE 168",
         "related courses": [
-            "BIOL 1C",
-            "CHEM 31",
-            "BIOE 22",
             "BIOE 168L",
-            "BIOE 268"
+            "BIOE 22",
+            "BIOE 268",
+            "BIOL 1C",
+            "CHEM 31"
         ]
     },
     {
@@ -40457,8 +40427,8 @@
         "department": "Bioengineering",
         "initial": "BIOE 171",
         "related courses": [
-            "BIOE 21",
             "BIOE 171L",
+            "BIOE 21",
             "BIOL 1B"
         ]
     },
@@ -40505,8 +40475,8 @@
         "department": "Bioengineering",
         "initial": "BIOE 173",
         "related courses": [
-            "BIOE 273",
-            "BIOE 172"
+            "BIOE 172",
+            "BIOE 273"
         ]
     },
     {
@@ -40521,9 +40491,9 @@
         "department": "Bioengineering",
         "initial": "BIOE 174",
         "related courses": [
-            "BIOE 214",
             "BIOE 10",
             "BIOE 174L",
+            "BIOE 214",
             "BIOL 1B",
             "PHYS 33"
         ]
@@ -40540,8 +40510,8 @@
         "department": "Bioengineering",
         "initial": "BIOE 174L",
         "related courses": [
-            "BIOE 214L",
-            "BIOE 174"
+            "BIOE 174",
+            "BIOE 214L"
         ]
     },
     {
@@ -40556,12 +40526,12 @@
         "department": "Bioengineering",
         "initial": "BIOE 175",
         "related courses": [
+            "BIOE 153",
+            "BIOE 175L",
+            "BIOE 22",
             "BIOE 225",
             "BIOL 1C",
-            "CHEM 31",
-            "BIOE 153",
-            "BIOE 22",
-            "BIOE 175L"
+            "CHEM 31"
         ]
     },
     {
@@ -40592,11 +40562,11 @@
         "department": "Bioengineering",
         "initial": "BIOE 176",
         "related courses": [
+            "BIOE 171",
+            "BIOE 22",
             "BIOE 226",
             "BIOL 1C",
-            "CHEM 31",
-            "BIOE 22",
-            "BIOE 171"
+            "CHEM 31"
         ]
     },
     {
@@ -40611,8 +40581,8 @@
         "department": "Bioengineering",
         "initial": "BIOE 179",
         "related courses": [
-            "BIOE 21",
             "BIOE 171",
+            "BIOE 21",
             "BIOE 275",
             "BIOL 1B"
         ]
@@ -40629,8 +40599,8 @@
         "department": "Bioengineering",
         "initial": "BIOE 180",
         "related courses": [
-            "BIOE 10",
             "AMTH 108",
+            "BIOE 10",
             "BIOE 380"
         ]
     },
@@ -40646,9 +40616,9 @@
         "department": "Bioengineering",
         "initial": "BIOE 185",
         "related courses": [
+            "BIOE 171",
             "BIOE 21",
             "BIOE 285",
-            "BIOE 171",
             "BIOL 1B"
         ]
     },
@@ -40696,8 +40666,8 @@
         "department": "Bioengineering",
         "initial": "BIOE 189",
         "related courses": [
-            "GPA",
-            "BIOE 188"
+            "BIOE 188",
+            "GPA"
         ]
     },
     {
@@ -40796,11 +40766,11 @@
         "department": "Bioengineering",
         "initial": "BIOE 203",
         "related courses": [
-            "SAR",
-            "ELEN 203",
             " P",
+            "BIOE 168",
             "ELEN 201",
-            "BIOE 168"
+            "ELEN 203",
+            "SAR"
         ]
     },
     {
@@ -40887,10 +40857,10 @@
         "initial": "BIOE 226",
         "related courses": [
             "BIOE 175",
-            "BIOL 1C",
-            "CHEM 31",
+            "BIOE 176",
             "BIOE 22",
-            "BIOE 176"
+            "BIOL 1C",
+            "CHEM 31"
         ]
     },
     {
@@ -40905,10 +40875,10 @@
         "department": "Bioengineering",
         "initial": "BIOE 232",
         "related courses": [
-            "BIOE 120",
+            "AMTH 108",
             "AMTH 232",
-            "ROC",
-            "AMTH 108"
+            "BIOE 120",
+            "ROC"
         ]
     },
     {
@@ -40954,8 +40924,8 @@
         "department": "Bioengineering",
         "initial": "BIOE 245",
         "related courses": [
-            "BIOE 240",
             "BIOE 153",
+            "BIOE 240",
             "BIOL 1B"
         ]
     },
@@ -40986,11 +40956,11 @@
         "department": "Bioengineering",
         "initial": "BIOE 251",
         "related courses": [
-            "BIOL 175",
-            "DNA",
-            "BIOL 1C",
+            " RNA",
             "BIOE 22",
-            " RNA"
+            "BIOL 175",
+            "BIOL 1C",
+            "DNA"
         ]
     },
     {
@@ -41048,10 +41018,10 @@
         "department": "Bioengineering",
         "initial": "BIOE 257",
         "related courses": [
-            "ENGR 257",
-            "BIOE 21",
             "BIOE 157",
-            "BIOL 21"
+            "BIOE 21",
+            "BIOL 21",
+            "ENGR 257"
         ]
     },
     {
@@ -41092,8 +41062,8 @@
         "department": "Bioengineering",
         "initial": "BIOE 260",
         "related courses": [
-            "BIOE 232",
-            "BIOE 155"
+            "BIOE 155",
+            "BIOE 232"
         ]
     },
     {
@@ -41123,15 +41093,15 @@
         "department": "Bioengineering",
         "initial": "BIOE 263",
         "related courses": [
+            "BIOE 22",
+            "BIOL 1C",
             "CRISPR/C",
             "CRSPR-",
-            "RNA-",
             "CRSPR/C",
-            "BIOL 1C",
+            "RNA-",
+            "TALEN)",
             "ZFN/TALEN",
-            "BIOE 22",
-            "ZNF)",
-            "TALEN)"
+            "ZNF)"
         ]
     },
     {
@@ -41146,8 +41116,8 @@
         "department": "Bioengineering",
         "initial": "BIOE 266",
         "related courses": [
-            "DNA",
-            "BIOE 256"
+            "BIOE 256",
+            "DNA"
         ]
     },
     {
@@ -41162,14 +41132,14 @@
         "department": "Bioengineering",
         "initial": "BIOE 267",
         "related courses": [
-            "ELEN 162",
-            "ELEN 167",
-            "PET",
             " CT",
             "BIOE 162",
             "ELEN 110",
+            "ELEN 162",
+            "ELEN 167",
             "MECH 142",
-            "MRI"
+            "MRI",
+            "PET"
         ]
     },
     {
@@ -41184,8 +41154,8 @@
         "department": "Bioengineering",
         "initial": "BIOE 268",
         "related courses": [
-            "PHYS 33",
-            "BIOE 168"
+            "BIOE 168",
+            "PHYS 33"
         ]
     },
     {
@@ -41259,9 +41229,9 @@
         "department": "Bioengineering",
         "initial": "BIOE 275",
         "related courses": [
-            "BIOE 21",
-            "BIOE 179",
             "BIOE 171",
+            "BIOE 179",
+            "BIOE 21",
             "BIOL 21"
         ]
     },
@@ -41277,8 +41247,8 @@
         "department": "Bioengineering",
         "initial": "BIOE 276",
         "related courses": [
-            "LOC",
-            "BIOE 155"
+            "BIOE 155",
+            "LOC"
         ]
     },
     {
@@ -41384,9 +41354,9 @@
         "department": "Bioengineering",
         "initial": "BIOE 285",
         "related courses": [
-            "BIOE 21",
             "BIOE 171",
             "BIOE 185",
+            "BIOE 21",
             "BIOL 21"
         ]
     },
@@ -41614,8 +41584,8 @@
         "department": "Bioengineering",
         "initial": "BIOE 380",
         "related courses": [
-            "BIOE 120",
             "BIOE 10",
+            "BIOE 120",
             "BIOE 180"
         ]
     },
@@ -41657,10 +41627,10 @@
         "department": "Computer Engineering",
         "initial": "COEN 10",
         "related courses": [
-            "OMIS 30",
             "COEN 10",
-            "PHP",
-            "COEN 10L"
+            "COEN 10L",
+            "OMIS 30",
+            "PHP"
         ]
     },
     {
@@ -41690,9 +41660,9 @@
         "department": "Computer Engineering",
         "initial": "COEN 11",
         "related courses": [
-            "OMIS 30",
             "COEN 10",
-            "COEN 11L"
+            "COEN 11L",
+            "OMIS 30"
         ]
     },
     {
@@ -41722,12 +41692,12 @@
         "department": "Computer Engineering",
         "initial": "COEN 12",
         "related courses": [
-            "CSCI 61",
-            "COEN 19",
-            "MATH 51",
             "COEN 11",
+            "COEN 12",
             "COEN 12L",
-            "COEN 12"
+            "COEN 19",
+            "CSCI 61",
+            "MATH 51"
         ]
     },
     {
@@ -41770,12 +41740,12 @@
         "department": "Computer Engineering",
         "initial": "COEN 20",
         "related courses": [
-            "CSCI 61",
-            "CPU",
             "COEN 11",
             "COEN 12",
+            "COEN 20L",
+            "CPU",
             "CSCI 60",
-            "COEN 20L"
+            "CSCI 61"
         ]
     },
     {
@@ -41805,12 +41775,12 @@
         "department": "Computer Engineering",
         "initial": "COEN 21",
         "related courses": [
-            "FPGA. U",
-            "PLD",
             "CAD",
             "COEN 21L",
             "ELEN 21",
-            "HDL"
+            "FPGA. U",
+            "HDL",
+            "PLD"
         ]
     },
     {
@@ -41825,8 +41795,8 @@
         "department": "Computer Engineering",
         "initial": "COEN 21L",
         "related courses": [
-            "ELEN 21L",
-            "COEN 21"
+            "COEN 21",
+            "ELEN 21L"
         ]
     },
     {
@@ -41854,8 +41824,8 @@
         "department": "Computer Engineering",
         "initial": "COEN 44",
         "related courses": [
-            "MATH 13",
-            "COEN 44L"
+            "COEN 44L",
+            "MATH 13"
         ]
     },
     {
@@ -41947,11 +41917,11 @@
         "department": "Computer Engineering",
         "initial": "COEN 70",
         "related courses": [
-            "CSCI 61",
+            "COEN 12",
             "COEN 19",
-            "MATH 51",
             "COEN 70L",
-            "COEN 12"
+            "CSCI 61",
+            "MATH 51"
         ]
     },
     {
@@ -41981,11 +41951,11 @@
         "department": "Computer Engineering",
         "initial": "COEN 79",
         "related courses": [
-            "CSCI 61",
+            "COEN 12",
             "COEN 19",
-            "MATH 51",
             "COEN 79L",
-            "COEN 12"
+            "CSCI 61",
+            "MATH 51"
         ]
     },
     {
@@ -42029,8 +41999,8 @@
         "initial": "COEN 120",
         "related courses": [
             "COEN 12",
-            "CSCI 61",
-            "COEN 120L"
+            "COEN 120L",
+            "CSCI 61"
         ]
     },
     {
@@ -42060,13 +42030,13 @@
         "department": "Computer Engineering",
         "initial": "COEN 122",
         "related courses": [
+            "COEN 122L",
             "COEN 20",
             "COEN 21",
-            "CPU. P",
             "CPU",
-            "COEN 122L",
-            "ELEN 33",
-            "ELEN 21"
+            "CPU. P",
+            "ELEN 21",
+            "ELEN 33"
         ]
     },
     {
@@ -42096,10 +42066,10 @@
         "department": "Computer Engineering",
         "initial": "COEN 123",
         "related courses": [
+            "COEN 11",
             "COEN 123L",
             "ELEN 123",
             "ELEN 50",
-            "COEN 11",
             "MECH 143"
         ]
     },
@@ -42132,14 +42102,14 @@
         "department": "Computer Engineering",
         "initial": "COEN 127",
         "related courses": [
-            "ELEN 115",
-            "COEN 21",
-            "COEN 127L",
-            "MSI",
-            "ELEN 127",
             " PLDS",
+            "COEN 127L",
+            "COEN 21",
+            "ELEN 115",
+            "ELEN 127",
+            "FPGA",
             "HDL",
-            "FPGA"
+            "MSI"
         ]
     },
     {
@@ -42184,8 +42154,8 @@
         "department": "Computer Engineering",
         "initial": "COEN 140",
         "related courses": [
-            "COEN 12",
-            "AMTH 108"
+            "AMTH 108",
+            "COEN 12"
         ]
     },
     {
@@ -42200,8 +42170,8 @@
         "department": "Computer Engineering",
         "initial": "COEN 145",
         "related courses": [
-            "COEN 145L",
-            "COEN 11"
+            "COEN 11",
+            "COEN 145L"
         ]
     },
     {
@@ -42231,14 +42201,14 @@
         "department": "Computer Engineering",
         "initial": "COEN 146",
         "related courses": [
+            "AMTH 108",
+            "COEN 12",
+            "COEN 146L",
             "CSCI 61",
             "FTP. T",
-            "COEN 146L",
-            "TCP",
-            "COEN 12",
-            "UDP",
             "MATH 122",
-            "AMTH 108"
+            "TCP",
+            "UDP"
         ]
     },
     {
@@ -42301,9 +42271,9 @@
         "initial": "COEN 152",
         "related courses": [
             "COEN 12",
+            "COEN 152L",
             "COEN 20",
-            "CSCI 61",
-            "COEN 152L"
+            "CSCI 61"
         ]
     },
     {
@@ -42333,11 +42303,11 @@
         "department": "Computer Engineering",
         "initial": "COEN 160",
         "related courses": [
+            "COEN 160L",
+            "COEN 275",
             "COEN 79",
             "CSCI 61",
-            "COEN 160L",
-            "UML",
-            "COEN 275"
+            "UML"
         ]
     },
     {
@@ -42367,14 +42337,14 @@
         "department": "Computer Engineering",
         "initial": "COEN 161",
         "related courses": [
-            "CSS",
+            " J",
+            "COEN 12",
+            "COEN 161L",
             "CSCI 61",
+            "CSS",
             "PHP",
             "WWW)",
-            " J",
-            "XML. P",
-            "COEN 161L",
-            "COEN 12"
+            "XML. P"
         ]
     },
     {
@@ -42451,8 +42421,8 @@
         "department": "Computer Engineering",
         "initial": "COEN 164",
         "related courses": [
-            "COEN 164L",
-            "COEN 161"
+            "COEN 161",
+            "COEN 164L"
         ]
     },
     {
@@ -42498,9 +42468,9 @@
         "initial": "COEN 166",
         "related courses": [
             "COEN 12",
+            "COEN 19",
             "CSCI 61",
-            "MATH 51",
-            "COEN 19"
+            "MATH 51"
         ]
     },
     {
@@ -42515,11 +42485,11 @@
         "department": "Computer Engineering",
         "initial": "COEN 168",
         "related courses": [
-            "COEN 20",
-            "COEN 79",
-            "GPS",
             "COEN 168L",
-            "COEN 268"
+            "COEN 20",
+            "COEN 268",
+            "COEN 79",
+            "GPS"
         ]
     },
     {
@@ -42549,10 +42519,10 @@
         "department": "Computer Engineering",
         "initial": "COEN 169",
         "related courses": [
+            "AMTH 108",
             "COEN 12",
             "CSCI 61",
-            "MATH 122",
-            "AMTH 108"
+            "MATH 122"
         ]
     },
     {
@@ -42583,10 +42553,10 @@
         "department": "Computer Engineering",
         "initial": "COEN 172",
         "related courses": [
-            "MATH 51",
-            "COEN 79",
             "COEN 19",
-            "CSCI 61"
+            "COEN 79",
+            "CSCI 61",
+            "MATH 51"
         ]
     },
     {
@@ -42616,10 +42586,10 @@
         "department": "Computer Engineering",
         "initial": "COEN 173",
         "related courses": [
-            "MATH 51",
-            "COEN 79",
             "COEN 19",
-            "CSCI 61"
+            "COEN 79",
+            "CSCI 61",
+            "MATH 51"
         ]
     },
     {
@@ -42651,8 +42621,8 @@
         "related courses": [
             "COEN 12",
             "COEN 174L",
-            "CSCI 61",
-            "COEN 194"
+            "COEN 194",
+            "CSCI 61"
         ]
     },
     {
@@ -42715,9 +42685,9 @@
         "initial": "COEN 177",
         "related courses": [
             "COEN 12",
+            "COEN 177L",
             "COEN 20",
-            "CSCI 61",
-            "COEN 177L"
+            "CSCI 61"
         ]
     },
     {
@@ -42747,11 +42717,11 @@
         "department": "Computer Engineering",
         "initial": "COEN 178",
         "related courses": [
-            "CSCI 61",
-            "COEN 178L",
             "COEN 12",
-            "SQL",
-            "DDL. T"
+            "COEN 178L",
+            "CSCI 61",
+            "DDL. T",
+            "SQL"
         ]
     },
     {
@@ -42781,11 +42751,11 @@
         "department": "Computer Engineering",
         "initial": "COEN 179",
         "related courses": [
+            "COEN 12",
+            "COEN 19",
             "CSCI 163A",
             "CSCI 61",
-            "COEN 19",
-            "MATH 51",
-            "COEN 12"
+            "MATH 51"
         ]
     },
     {
@@ -42910,9 +42880,9 @@
         "department": "Computer Engineering",
         "initial": "COEN 201",
         "related courses": [
-            "ELEN 233",
+            "ELEN 110",
             "ELEN 210",
-            "ELEN 110"
+            "ELEN 233"
         ]
     },
     {
@@ -42943,11 +42913,11 @@
         "department": "Computer Engineering",
         "initial": "COEN 203",
         "related courses": [
-            "ELEN 387",
-            "CMOS",
             "CAD",
-            "VLSI",
-            "SPICE)"
+            "CMOS",
+            "ELEN 387",
+            "SPICE)",
+            "VLSI"
         ]
     },
     {
@@ -42963,9 +42933,9 @@
         "initial": "COEN 207",
         "related courses": [
             "COEN 200",
+            "ELEN 303",
             "ELEN 500",
-            "ELEN 613",
-            "ELEN 303"
+            "ELEN 613"
         ]
     },
     {
@@ -42996,11 +42966,11 @@
         "department": "Computer Engineering",
         "initial": "COEN 233",
         "related courses": [
+            "AMTH 108",
             "COEN 20",
             "FTP. T",
             "TCP",
-            "UDP",
-            "AMTH 108"
+            "UDP"
         ]
     },
     {
@@ -43030,10 +43000,10 @@
         "department": "Computer Engineering",
         "initial": "COEN 240",
         "related courses": [
-            "BIOE 310",
+            "AMTH 108",
             "AMTH 210",
             "AMTH 246",
-            "AMTH 108"
+            "BIOE 310"
         ]
     },
     {
@@ -43061,10 +43031,10 @@
         "department": "Computer Engineering",
         "initial": "COEN 242",
         "related courses": [
-            "HDFS",
+            " M",
             "AMTH 108",
             "COEN 178",
-            " M"
+            "HDFS"
         ]
     },
     {
@@ -43140,8 +43110,8 @@
         "department": "Computer Engineering",
         "initial": "COEN 268",
         "related courses": [
-            "GPS",
-            "CSCI 61"
+            "CSCI 61",
+            "GPS"
         ]
     },
     {
@@ -43156,8 +43126,8 @@
         "department": "Computer Engineering",
         "initial": "COEN 275",
         "related courses": [
-            "UML",
-            "COEN 70"
+            "COEN 70",
+            "UML"
         ]
     },
     {
@@ -43185,8 +43155,8 @@
         "department": "Computer Engineering",
         "initial": "COEN 279",
         "related courses": [
-            "COEN 12",
-            "AMTH 377"
+            "AMTH 377",
+            "COEN 12"
         ]
     },
     {
@@ -43217,8 +43187,8 @@
         "department": "Computer Engineering",
         "initial": "COEN 281",
         "related courses": [
-            "COEN 12",
-            "AMTH 210"
+            "AMTH 210",
+            "COEN 12"
         ]
     },
     {
@@ -43248,8 +43218,8 @@
         "department": "Computer Engineering",
         "initial": "COEN 285",
         "related courses": [
-            "OOA/OOD",
-            "CASE. T"
+            "CASE. T",
+            "OOA/OOD"
         ]
     },
     {
@@ -43305,8 +43275,8 @@
         "department": "Computer Engineering",
         "initial": "COEN 290",
         "related courses": [
-            "COEN 12",
-            "AMTH 245"
+            "AMTH 245",
+            "COEN 12"
         ]
     },
     {
@@ -43347,8 +43317,8 @@
         "department": "Computer Engineering",
         "initial": "COEN 303",
         "related courses": [
-            "HDL. S",
-            "ELEN 603"
+            "ELEN 603",
+            "HDL. S"
         ]
     },
     {
@@ -43363,11 +43333,11 @@
         "department": "Computer Engineering",
         "initial": "COEN 313",
         "related courses": [
-            "VLIW",
-            "UMA",
-            "SIMD",
+            " NUMA",
             "COEN 210",
-            " NUMA"
+            "SIMD",
+            "UMA",
+            "VLIW"
         ]
     },
     {
@@ -43413,16 +43383,16 @@
         "department": "Computer Engineering",
         "initial": "COEN 329",
         "related courses": [
-            "GMPLS",
-            "VPLS",
-            "COEN 233",
-            " WAN",
-            "PON",
-            "LAN S",
-            "VPN",
-            " P",
             " MAN",
-            "LAN"
+            " P",
+            " WAN",
+            "COEN 233",
+            "GMPLS",
+            "LAN",
+            "LAN S",
+            "PON",
+            "VPLS",
+            "VPN"
         ]
     },
     {
@@ -43437,13 +43407,13 @@
         "department": "Computer Engineering",
         "initial": "COEN 331",
         "related courses": [
-            "FDMA",
+            " TDMA",
             "CDMA;",
             "COEN 233",
-            " TDMA",
+            "DSSS. S",
+            "FDMA",
             "FHSS",
-            "LANS;",
-            "DSSS. S"
+            "LANS;"
         ]
     },
     {
@@ -43475,13 +43445,13 @@
         "department": "Computer Engineering",
         "initial": "COEN 335",
         "related courses": [
-            "COEN 233",
-            " WAN",
-            "DWDM",
-            "CWDM. T",
             " L",
-            " P",
             " MAN",
+            " P",
+            " WAN",
+            "COEN 233",
+            "CWDM. T",
+            "DWDM",
             "LAN",
             "SONET/SDH"
         ]
@@ -43514,8 +43484,8 @@
         "department": "Computer Engineering",
         "initial": "COEN 345",
         "related courses": [
-            "ELEN 640",
-            "COEN 345"
+            "COEN 345",
+            "ELEN 640"
         ]
     },
     {
@@ -43530,16 +43500,16 @@
         "department": "Computer Engineering",
         "initial": "COEN 347",
         "related courses": [
-            "HDR. L",
-            "JPEG 2000",
-            "JPEG JVET",
+            " 3D",
+            " MV",
             "COEN 338",
             "ELEN 641",
+            "HDR. L",
             "HEVC",
-            "SHVC",
-            " MV",
-            " 3D",
-            "SCC. S"
+            "JPEG 2000",
+            "JPEG JVET",
+            "SCC. S",
+            "SHVC"
         ]
     },
     {
@@ -43554,9 +43524,9 @@
         "department": "Computer Engineering",
         "initial": "COEN 350",
         "related courses": [
+            " PGP",
             "COEN 250",
-            "SSH",
-            " PGP"
+            "SSH"
         ]
     },
     {
@@ -43571,9 +43541,9 @@
         "department": "Computer Engineering",
         "initial": "COEN 351",
         "related courses": [
-            "COEN 351L 3",
             "CGI",
-            "COEN 253"
+            "COEN 253",
+            "COEN 351L 3"
         ]
     },
     {
@@ -43616,9 +43586,9 @@
         "department": "Computer Engineering",
         "initial": "COEN 379",
         "related courses": [
-            "COEN 279",
             "AMTH 377",
-            "AMTH 379"
+            "AMTH 379",
+            "COEN 279"
         ]
     },
     {
@@ -43723,8 +43693,8 @@
         "department": "Computer Engineering",
         "initial": "COEN 485",
         "related courses": [
-            "COEN 386",
             "COEN 286",
+            "COEN 386",
             "MSSE"
         ]
     },
@@ -43820,11 +43790,11 @@
         "department": "Computer Engineering",
         "initial": "COEN 921C",
         "related courses": [
+            "CAD",
             "ELEN 921C",
             "FPGA. U",
-            "PLD",
-            "CAD",
-            "HDL"
+            "HDL",
+            "PLD"
         ]
     },
     {
@@ -44018,9 +43988,9 @@
         "department": "Mechanical Engineering",
         "initial": "MECH 122",
         "related courses": [
-            "MECH 140",
             "CENG 42",
-            "MECH 122L"
+            "MECH 122L",
+            "MECH 140"
         ]
     },
     {
@@ -44051,9 +44021,9 @@
         "initial": "MECH 123",
         "related courses": [
             "AMTH 118",
+            "MECH 121",
             "MECH 122",
-            "MECH 123L",
-            "MECH 121"
+            "MECH 123L"
         ]
     },
     {
@@ -44113,8 +44083,8 @@
         "department": "Mechanical Engineering",
         "initial": "MECH 140",
         "related courses": [
-            "CENG 41",
-            "AMTH 106"
+            "AMTH 106",
+            "CENG 41"
         ]
     },
     {
@@ -44129,9 +44099,9 @@
         "department": "Mechanical Engineering",
         "initial": "MECH 141",
         "related courses": [
+            "AMTH 106",
             "MECH 140",
-            "MECH 141L",
-            "AMTH 106"
+            "MECH 141L"
         ]
     },
     {
@@ -44161,10 +44131,10 @@
         "department": "Mechanical Engineering",
         "initial": "MECH 142",
         "related courses": [
-            "MECH 142L",
-            "PID",
             " L",
-            "MECH 141"
+            "MECH 141",
+            "MECH 142L",
+            "PID"
         ]
     },
     {
@@ -44259,8 +44229,8 @@
         "department": "Mechanical Engineering",
         "initial": "MECH 145",
         "related courses": [
-            "MECH 122",
-            "MECH 121"
+            "MECH 121",
+            "MECH 122"
         ]
     },
     {
@@ -44290,8 +44260,8 @@
         "department": "Mechanical Engineering",
         "initial": "MECH 151",
         "related courses": [
-            "COEN 44",
-            "AMTH 106"
+            "AMTH 106",
+            "COEN 44"
         ]
     },
     {
@@ -44321,10 +44291,10 @@
         "department": "Mechanical Engineering",
         "initial": "MECH 152",
         "related courses": [
-            "COEN 45",
-            "MECH 15",
             "COEN 44",
-            "MATLAB"
+            "COEN 45",
+            "MATLAB",
+            "MECH 15"
         ]
     },
     {
@@ -44369,10 +44339,10 @@
         "department": "Mechanical Engineering",
         "initial": "MECH 156",
         "related courses": [
+            "ELEN 156",
             "MECH 15",
             "MECH 156L",
             "PHYS 33",
-            "ELEN 156",
             "PHYS 34"
         ]
     },
@@ -44418,8 +44388,8 @@
         "department": "Mechanical Engineering",
         "initial": "MECH 160",
         "related courses": [
-            "MECH 160L",
-            "MECH 123"
+            "MECH 123",
+            "MECH 160L"
         ]
     },
     {
@@ -44450,8 +44420,8 @@
         "initial": "MECH 163",
         "related courses": [
             "CENG 43",
-            "MECH 11",
-            "CES E"
+            "CES E",
+            "MECH 11"
         ]
     },
     {
@@ -44655,8 +44625,8 @@
         "department": "Mechanical Engineering",
         "initial": "MECH 236",
         "related courses": [
-            "MECH 123",
-            "AMTH 106"
+            "AMTH 106",
+            "MECH 123"
         ]
     },
     {
@@ -44716,8 +44686,8 @@
         "department": "Mechanical Engineering",
         "initial": "MECH 252",
         "related courses": [
-            "MECH 251",
-            "CENG 207"
+            "CENG 207",
+            "MECH 251"
         ]
     },
     {
@@ -44950,8 +44920,8 @@
         "department": "Mechanical Engineering",
         "initial": "MECH 334",
         "related courses": [
-            "MECH 330",
-            "CENG 205"
+            "CENG 205",
+            "MECH 330"
         ]
     },
     {
@@ -44966,9 +44936,9 @@
         "department": "Mechanical Engineering",
         "initial": "MECH 337",
         "related courses": [
-            "MECH 217",
             "AMTH 245",
-            "ELEN 337"
+            "ELEN 337",
+            "MECH 217"
         ]
     },
     {
@@ -45025,8 +44995,8 @@
         "initial": "ELEN 21",
         "related courses": [
             "CAD",
-            "ELEN 21L",
             "COEN 21",
+            "ELEN 21L",
             "HDL"
         ]
     },
@@ -45059,8 +45029,8 @@
         "initial": "ELEN 33",
         "related courses": [
             "COEN 11",
-            "ELEN 33L",
             "ELEN 21",
+            "ELEN 33L",
             "FPGA"
         ]
     },
@@ -45134,9 +45104,9 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 100",
         "related courses": [
+            "ELEN 100L",
             "ELEN 50",
-            "PHYS 70",
-            "ELEN 100L"
+            "PHYS 70"
         ]
     },
     {
@@ -45167,8 +45137,8 @@
         "initial": "ELEN 104",
         "related courses": [
             "ELEN 104L",
-            "PHYS 33",
-            "ELEN 50"
+            "ELEN 50",
+            "PHYS 33"
         ]
     },
     {
@@ -45261,8 +45231,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 112",
         "related courses": [
-            "ELEN 112L",
-            "ELEN 110"
+            "ELEN 110",
+            "ELEN 112L"
         ]
     },
     {
@@ -45354,10 +45324,10 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 117",
         "related courses": [
-            "ELEN 116",
-            "MOSFET",
             "BJT",
-            "ELEN 117L"
+            "ELEN 116",
+            "ELEN 117L",
+            "MOSFET"
         ]
     },
     {
@@ -45387,13 +45357,13 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 118",
         "related courses": [
-            "MATLAB",
-            "ELEN 100",
             "CMOS",
-            "ELEN 21",
+            "ELEN 100",
             "ELEN 118L",
-            "SPICE. P",
-            "SPICE)"
+            "ELEN 21",
+            "MATLAB",
+            "SPICE)",
+            "SPICE. P"
         ]
     },
     {
@@ -45436,10 +45406,10 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 123",
         "related courses": [
-            "ELEN 123L",
-            "ELEN 50",
             "COEN 11",
             "COEN 123",
+            "ELEN 123L",
+            "ELEN 50",
             "MECH 143"
         ]
     },
@@ -45473,10 +45443,10 @@
         "initial": "ELEN 127",
         "related courses": [
             "COEN 127",
-            "ELEN 21",
             "ELEN 127L",
-            "HDL",
-            "FPGA"
+            "ELEN 21",
+            "FPGA",
+            "HDL"
         ]
     },
     {
@@ -45492,8 +45462,8 @@
         "initial": "ELEN 127L",
         "related courses": [
             "CAD",
-            "ELEN 127",
-            "COEN 127L"
+            "COEN 127L",
+            "ELEN 127"
         ]
     },
     {
@@ -45539,9 +45509,9 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 131",
         "related courses": [
+            "ELEN 110",
             "ELEN 131L",
-            "PID",
-            "ELEN 110"
+            "PID"
         ]
     },
     {
@@ -45571,11 +45541,11 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 133",
         "related courses": [
-            "ELEN 50",
             "COEN 19",
-            "FFT. A",
+            "ELEN 110",
             "ELEN 133L",
-            "ELEN 110"
+            "ELEN 50",
+            "FFT. A"
         ]
     },
     {
@@ -45605,8 +45575,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 134",
         "related courses": [
-            "ELEN 134L",
-            "ELEN 133"
+            "ELEN 133",
+            "ELEN 134L"
         ]
     },
     {
@@ -45649,9 +45619,9 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 141",
         "related courses": [
+            "AMTH 108",
             "ELEN 110",
-            "ELEN 141L",
-            "AMTH 108"
+            "ELEN 141L"
         ]
     },
     {
@@ -45681,8 +45651,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 144",
         "related courses": [
-            "ELEN 144L",
-            "ELEN 105"
+            "ELEN 105",
+            "ELEN 144L"
         ]
     },
     {
@@ -45712,8 +45682,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 151",
         "related courses": [
-            "ELEN 151L",
             "ELEN 104",
+            "ELEN 151L",
             "MOS"
         ]
     },
@@ -45774,10 +45744,10 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 153",
         "related courses": [
-            "ELEN 50",
-            "CMOS",
             "CAD",
+            "CMOS",
             "ELEN 153L",
+            "ELEN 50",
             "VLSI"
         ]
     },
@@ -45808,10 +45778,10 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 156",
         "related courses": [
-            "MECH 156",
-            "MECH 15",
-            "PHYS 33",
             "ELEN 156L",
+            "MECH 15",
+            "MECH 156",
+            "PHYS 33",
             "PHYS 34"
         ]
     },
@@ -45843,10 +45813,10 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 160",
         "related courses": [
-            "ELEN 160L",
-            "MATLAB. C",
             "AMTH 106",
-            "ELEN 217"
+            "ELEN 160L",
+            "ELEN 217",
+            "MATLAB. C"
         ]
     },
     {
@@ -45876,9 +45846,9 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 161",
         "related courses": [
+            "AMTH 106",
             "ELEN 161L",
-            "MATLAB. C",
-            "AMTH 106"
+            "MATLAB. C"
         ]
     },
     {
@@ -45939,9 +45909,9 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 167",
         "related courses": [
-            "BIOE 167",
             " CT",
             "BIOE 162",
+            "BIOE 167",
             "ELEN 110",
             "MECH 142",
             "MRI"
@@ -45959,10 +45929,10 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 180",
         "related courses": [
+            "COEN 122",
+            "COEN 180",
             "COEN 20",
             "COEN 21",
-            "COEN 180",
-            "COEN 122",
             "ELEN 21"
         ]
     },
@@ -46025,8 +45995,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 184",
         "related courses": [
-            "ELEN 231",
-            "ELEN 183"
+            "ELEN 183",
+            "ELEN 231"
         ]
     },
     {
@@ -46177,11 +46147,11 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 203",
         "related courses": [
-            "BIOE 203",
-            "SAR",
             " P",
+            "BIOE 168",
+            "BIOE 203",
             "ELEN 201",
-            "BIOE 168"
+            "SAR"
         ]
     },
     {
@@ -46226,8 +46196,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 216",
         "related courses": [
-            "ELEN 210",
-            "ELEN 110"
+            "ELEN 110",
+            "ELEN 210"
         ]
     },
     {
@@ -46242,9 +46212,9 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 217",
         "related courses": [
-            "MATLAB.",
             "AMTH 106",
-            "ELEN 160"
+            "ELEN 160",
+            "MATLAB."
         ]
     },
     {
@@ -46259,12 +46229,12 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 219",
         "related courses": [
-            "ELEN 115",
-            "MATLAB",
             "CMOS",
-            "SPICE. C",
+            "ELEN 115",
             "ELEN 21",
-            "SPICE)"
+            "MATLAB",
+            "SPICE)",
+            "SPICE. C"
         ]
     },
     {
@@ -46279,9 +46249,9 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 223",
         "related courses": [
-            "ELEN 234",
             "DSP",
-            "ELEN 233E"
+            "ELEN 233E",
+            "ELEN 234"
         ]
     },
     {
@@ -46296,14 +46266,14 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 226",
         "related courses": [
-            "HLS",
-            "ELEN 234",
-            "FPGA;",
+            "CNN",
             "ELEN 127",
             "ELEN 133",
-            "HLS) FPGA",
-            "CNN",
-            "FPGA"
+            "ELEN 234",
+            "FPGA",
+            "FPGA;",
+            "HLS",
+            "HLS) FPGA"
         ]
     },
     {
@@ -46332,9 +46302,9 @@
         "initial": "ELEN 230",
         "related courses": [
             "ELEN 110",
-            "ELEN 230",
             "ELEN 130",
-            "ELEN 210"
+            "ELEN 210",
+            "ELEN 230"
         ]
     },
     {
@@ -46380,8 +46350,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 233",
         "related courses": [
-            "ELEN 110",
             "COEN 201",
+            "ELEN 110",
             "ELEN 210"
         ]
     },
@@ -46397,8 +46367,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 233E",
         "related courses": [
-            "ELEN 233",
             "ELEN 133",
+            "ELEN 233",
             "ELEN 234"
         ]
     },
@@ -46414,10 +46384,10 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 234",
         "related courses": [
-            "ELEN 233",
             "COEN 202",
-            "IIR",
-            "FIR"
+            "ELEN 233",
+            "FIR",
+            "IIR"
         ]
     },
     {
@@ -46432,12 +46402,12 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 235",
         "related courses": [
-            "AMTH 212",
-            "MVUE)",
             "AMTH 211",
-            "MATLAB.",
+            "AMTH 212",
             "AMTH 247",
-            "MLE)"
+            "MATLAB.",
+            "MLE)",
+            "MVUE)"
         ]
     },
     {
@@ -46452,8 +46422,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 236",
         "related courses": [
-            "ELEN 210",
-            "ELEN 110"
+            "ELEN 110",
+            "ELEN 210"
         ]
     },
     {
@@ -46483,10 +46453,10 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 238",
         "related courses": [
-            "MPC",
-            "MECH 420",
+            "ELEN 237",
             "MECH 324",
-            "ELEN 237"
+            "MECH 420",
+            "MPC"
         ]
     },
     {
@@ -46514,8 +46484,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 241",
         "related courses": [
-            "ELEN 210",
-            "ELEN 110"
+            "ELEN 110",
+            "ELEN 210"
         ]
     },
     {
@@ -46530,9 +46500,9 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 243",
         "related courses": [
+            " FSK",
             " PSK",
             "ELEN 241",
-            " FSK",
             "QAM"
         ]
     },
@@ -46580,9 +46550,9 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 248",
         "related courses": [
-            "OFDM",
             "ELEN 247",
-            "MATLAB"
+            "MATLAB",
+            "OFDM"
         ]
     },
     {
@@ -46626,8 +46596,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 251",
         "related courses": [
-            "ELEN 266",
-            "ELEN 265"
+            "ELEN 265",
+            "ELEN 266"
         ]
     },
     {
@@ -46642,9 +46612,9 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 252",
         "related courses": [
-            "ELEN 115",
             "BJT",
-            "CMOS"
+            "CMOS",
+            "ELEN 115"
         ]
     },
     {
@@ -46674,10 +46644,10 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 254",
         "related courses": [
-            "ELEN 116",
-            "MOSFET",
             "BJT",
-            "ELEN 117L"
+            "ELEN 116",
+            "ELEN 117L",
+            "MOSFET"
         ]
     },
     {
@@ -46718,8 +46688,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 264",
         "related courses": [
-            "ELEN 261",
-            "ELEN 151"
+            "ELEN 151",
+            "ELEN 261"
         ]
     },
     {
@@ -46734,9 +46704,9 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 265",
         "related courses": [
-            "MOSFET",
             "CMOS",
-            "ELEN 264"
+            "ELEN 264",
+            "MOSFET"
         ]
     },
     {
@@ -46825,8 +46795,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 275",
         "related courses": [
-            "MOS",
-            "ELEN 270"
+            "ELEN 270",
+            "MOS"
         ]
     },
     {
@@ -46841,10 +46811,10 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 276",
         "related courses": [
-            "ELEN 270",
+            "ELEN 151",
             "ELEN 152",
-            "MOS",
-            "ELEN 151"
+            "ELEN 270",
+            "MOS"
         ]
     },
     {
@@ -46890,8 +46860,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 278A",
         "related courses": [
-            "SPICE",
-            "ELEN 201"
+            "ELEN 201",
+            "SPICE"
         ]
     },
     {
@@ -46949,8 +46919,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 281A",
         "related courses": [
-            "MECH 287",
-            "ELEN 280"
+            "ELEN 280",
+            "MECH 287"
         ]
     },
     {
@@ -47151,8 +47121,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 329",
         "related courses": [
-            "MECH 329",
-            "ELEN 236"
+            "ELEN 236",
+            "MECH 329"
         ]
     },
     {
@@ -47214,9 +47184,9 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 335",
         "related courses": [
-            "MAP)",
-            "ELEN 235",
             " M",
+            "ELEN 235",
+            "MAP)",
             "MMSE)"
         ]
     },
@@ -47232,8 +47202,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 336",
         "related courses": [
-            "ELEN 335",
-            "AMTH 362"
+            "AMTH 362",
+            "ELEN 335"
         ]
     },
     {
@@ -47264,9 +47234,9 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 338",
         "related courses": [
-            "PID",
             "ELEN 236",
-            "MECH 338"
+            "MECH 338",
+            "PID"
         ]
     },
     {
@@ -47327,8 +47297,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 348",
         "related courses": [
-            "ELEN 226",
             "DSP",
+            "ELEN 226",
             "SDR)"
         ]
     },
@@ -47375,11 +47345,11 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 353",
         "related courses": [
-            "ELEN 252",
-            "MOSFET",
+            "CCM",
             "DCM)",
             "ELEN 236",
-            "CCM"
+            "ELEN 252",
+            "MOSFET"
         ]
     },
     {
@@ -47423,10 +47393,10 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 360",
         "related courses": [
-            "ENGR 260",
+            "ELEN 151",
             "ELEN 261",
-            "ENGR 262",
-            "ELEN 151"
+            "ENGR 260",
+            "ENGR 262"
         ]
     },
     {
@@ -47441,9 +47411,9 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 361",
         "related courses": [
+            "ELEN 265",
             "ELEN 267",
-            "ITRS R",
-            "ELEN 265"
+            "ITRS R"
         ]
     },
     {
@@ -47458,8 +47428,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 375",
         "related courses": [
-            "ELEN 267",
-            "ELEN 265"
+            "ELEN 265",
+            "ELEN 267"
         ]
     },
     {
@@ -47487,11 +47457,11 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 387",
         "related courses": [
-            "COEN 203",
-            "CMOS",
             "CAD",
-            "VLSI",
-            "SPICE)"
+            "CMOS",
+            "COEN 203",
+            "SPICE)",
+            "VLSI"
         ]
     },
     {
@@ -47506,10 +47476,10 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 388",
         "related courses": [
-            "ELEN 387",
             "COEN 203",
             "COEN 204",
             "ELEN 153",
+            "ELEN 387",
             "VLSI"
         ]
     },
@@ -47526,8 +47496,8 @@
         "initial": "ELEN 389",
         "related courses": [
             "COEN 204",
-            "ELEN 388",
-            "COEN 305"
+            "COEN 305",
+            "ELEN 388"
         ]
     },
     {
@@ -47557,8 +47527,8 @@
         "related courses": [
             " 2D",
             "CMOS",
-            "TCAD",
-            "ELEN 274"
+            "ELEN 274",
+            "TCAD"
         ]
     },
     {
@@ -47574,9 +47544,9 @@
         "initial": "ELEN 421",
         "related courses": [
             "COEN 348",
-            "LPC P",
             "ELEN 334",
-            "LPC M"
+            "LPC M",
+            "LPC P"
         ]
     },
     {
@@ -47591,9 +47561,9 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 422",
         "related courses": [
-            "ELEN 421",
+            "COEN 349",
             "DSP",
-            "COEN 349"
+            "ELEN 421"
         ]
     },
     {
@@ -47608,13 +47578,13 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 423",
         "related courses": [
-            "MGCP/MEGACO",
-            "DTMF/MF",
             " H",
+            " SIP",
+            "DTMF/MF",
             "ELEN 233",
+            "MGCP/MEGACO",
             "PSTN",
-            "RTP/RTCP",
-            " SIP"
+            "RTP/RTCP"
         ]
     },
     {
@@ -47629,12 +47599,12 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 431",
         "related courses": [
-            "LMS)",
-            "LMS",
-            "ELEN 334",
-            "ELEN 233",
             "AMTH 362",
+            "ELEN 233",
+            "ELEN 334",
             "IIR",
+            "LMS",
+            "LMS)",
             "RLS)"
         ]
     },
@@ -47650,10 +47620,10 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 431E",
         "related courses": [
-            "ELEN 432",
-            "ELEN 334",
             "AMTH 362",
-            "ELEN 431"
+            "ELEN 334",
+            "ELEN 431",
+            "ELEN 432"
         ]
     },
     {
@@ -47683,8 +47653,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 433",
         "related courses": [
-            "ELEN 234",
             "AMTH 362",
+            "ELEN 234",
             "ELEN 235"
         ]
     },
@@ -47789,9 +47759,9 @@
         "initial": "ELEN 461",
         "related courses": [
             "ELEN 460",
-            "MECH 217",
             "MECH 207",
-            "MECH 208"
+            "MECH 208",
+            "MECH 217"
         ]
     },
     {
@@ -47806,9 +47776,9 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 462",
         "related courses": [
-            "MECH 209",
             "ELEN 461",
-            "MECH 208"
+            "MECH 208",
+            "MECH 209"
         ]
     },
     {
@@ -47823,8 +47793,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 500",
         "related courses": [
-            "ELEN 127C",
-            "COEN 200"
+            "COEN 200",
+            "ELEN 127C"
         ]
     },
     {
@@ -47839,11 +47809,11 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 510",
         "related courses": [
-            "ELEN 127C",
+            "COEN 210",
             "COEN 44",
+            "ELEN 127C",
             "ELEN 33",
-            "ELEN 510",
-            "COEN 210"
+            "ELEN 510"
         ]
     },
     {
@@ -47888,9 +47858,9 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 603",
         "related courses": [
-            "HDL. S",
+            "COEN 303",
             "ELEN 127",
-            "COEN 303"
+            "HDL. S"
         ]
     },
     {
@@ -47922,8 +47892,8 @@
         "initial": "ELEN 605",
         "related courses": [
             "CAD",
-            "ELEN 500",
             "COEN 301",
+            "ELEN 500",
             "ELEN 603"
         ]
     },
@@ -47939,10 +47909,10 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 608",
         "related courses": [
+            "BIST)",
             "CAD)",
             "COEN 308",
-            "ELEN 500",
-            "BIST)"
+            "ELEN 500"
         ]
     },
     {
@@ -47957,15 +47927,15 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 609",
         "related courses": [
-            "IEEE 1149",
-            "ELEN 387",
-            "EDA",
             "BIST",
-            "PLL",
             "COEN 200",
+            "COEN 203",
             "DFT",
+            "EDA",
+            "ELEN 387",
             "ELEN 500",
-            "COEN 203"
+            "IEEE 1149",
+            "PLL"
         ]
     },
     {
@@ -47980,10 +47950,10 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 613",
         "related courses": [
+            "COEN 200",
             "COEN 207",
             "ELEN 500",
-            "ELEN 603",
-            "COEN 200"
+            "ELEN 603"
         ]
     },
     {
@@ -47998,12 +47968,12 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 614",
         "related courses": [
-            "COEN 208",
-            "TTM",
-            "EDA",
             "COEN 200",
+            "COEN 208",
+            "EDA",
+            "ELEN 500",
             "ELEN 603",
-            "ELEN 500"
+            "TTM"
         ]
     },
     {
@@ -48031,10 +48001,10 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 620",
         "related courses": [
+            "DFT",
             "ELEN 388",
             "ELEN 500",
-            "ELEN 603",
-            "DFT"
+            "ELEN 603"
         ]
     },
     {
@@ -48049,10 +48019,10 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 624",
         "related courses": [
-            "PCB",
             "CAD. P",
-            "VLSI",
-            "ELEN 201"
+            "ELEN 201",
+            "PCB",
+            "VLSI"
         ]
     },
     {
@@ -48067,8 +48037,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 639",
         "related courses": [
-            "COEN 279",
             "AMTH 245",
+            "COEN 279",
             "COEN 339"
         ]
     },
@@ -48100,15 +48070,15 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 641",
         "related courses": [
-            "JPEG. V",
-            "COEN 338",
-            "JVET",
-            "MPEG-H P",
-            "HEVC/H 265",
-            "HEVC. A",
             "AMTH 108",
+            "COEN 338",
+            "HEVC. A",
+            "HEVC/H 265",
+            "JPEG. V",
+            "JVET",
+            "MPEG",
             "MPEG-4 AVC",
-            "MPEG"
+            "MPEG-H P"
         ]
     },
     {
@@ -48124,9 +48094,9 @@
         "initial": "ELEN 642",
         "related courses": [
             "AMTH 211",
-            "ELEN 234",
+            "AMTH 358",
             "BIOE 642",
-            "AMTH 358"
+            "ELEN 234"
         ]
     },
     {
@@ -48157,8 +48127,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 644",
         "related courses": [
-            "ELEN 640",
-            "COEN 344"
+            "COEN 344",
+            "ELEN 640"
         ]
     },
     {
@@ -48173,8 +48143,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 645",
         "related courses": [
-            "ELEN 640",
-            "COEN 345"
+            "COEN 345",
+            "ELEN 640"
         ]
     },
     {
@@ -48202,10 +48172,10 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 701",
         "related courses": [
-            "GPS)",
-            "RFID)",
+            " RF",
             "DBS)",
-            " RF"
+            "GPS)",
+            "RFID)"
         ]
     },
     {
@@ -48237,8 +48207,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 711",
         "related courses": [
-            "MOSFET",
-            "ELEN 706"
+            "ELEN 706",
+            "MOSFET"
         ]
     },
     {
@@ -48315,9 +48285,9 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 725",
         "related courses": [
-            "PHYS 113",
             "ELEN 201",
-            "LED"
+            "LED",
+            "PHYS 113"
         ]
     },
     {
@@ -48360,8 +48330,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 921C",
         "related courses": [
-            "HDL. T",
-            "COEN 921C"
+            "COEN 921C",
+            "HDL. T"
         ]
     },
     {
