@@ -9,10 +9,23 @@ results = {}
 
 #connect to our cluster
 es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
+body = {
+    "size":"0",
+    "aggs": {
+        "uniq_depart": {
+            "terms": {
+                "field": "department.keyword",
+                "size" : 500
+            }
+        }
+    }
+}
+# all_depart = es.search(index="smc-program,msmu-program,scu-program", body=body)
+all_depart = es.search(index="smc-program,scu-program", body=body)['aggregations']['uniq_depart']['buckets']
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('index.html', departments=all_depart)
 
 @app.route('/search', methods=['Get', 'POST'])
 def search_programs():
@@ -22,7 +35,7 @@ def search_programs():
 
     # Pagination
     results_for_render, pagination = search.paginate(results)
-    return render_template('search.html', results=results_for_render, pagination=pagination, type="program")
+    return render_template('search.html', departments=all_depart, results=results_for_render, pagination=pagination, type="program")
 
 @app.route('/details')
 def show_details():

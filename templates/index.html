@@ -57,10 +57,10 @@
                         </div>
                         <div class="form-row">
                             <div class="form-group col-md-12">
-                                <select class="selectpicker form-control" multiple data-live-search="true" id="department" title="Choose departments" data-actions-box="true" name="depart">
-                                    <option>Computer Engineering</option>
-                                    <option>Music</option>
-                                    <option>Modern Language</option>
+                                <select class="selectpicker form-control" multiple data-live-search="true" id="department" title="Choose departments" data-actions-box="true" data-dropup-auto="false" name="depart">
+                                    {% for item in departments %}
+                                        <option>{{ item['key'] }}</option>
+                                    {% endfor %}
                                 </select>
                             </div>
                         </div>
