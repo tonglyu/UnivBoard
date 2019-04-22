@@ -47,3 +47,40 @@ def getPrograms(es):
         index = "smc-program,msmu-program,scu-program"
     results = es.search(index=index.rstrip(","), body=body)
     return results
+
+def getCourses(es):
+    suffix = "-course"
+    index=""
+    keywords = request.form['keywords2']
+    universities = request.values.getlist('univ2')
+    departments = request.values.getlist('depart2')
+    field = request.form['field']
+    print(departments)
+    # return 50 results
+    body = {
+        "from" : 0,
+        "size" : 30,
+        "query": {
+            "bool": {
+                "must": [],
+                "should": [],
+                "minimum_should_match" : 0
+            }
+        }
+    }
+    if keywords != "":
+        if field == "title":
+            body["query"]["bool"]["must"].append({"match": {'title':keywords}})
+        else:
+            body["query"]["bool"]["must"].append({"match": {'initial':keywords}})
+    for department in departments:
+        body["query"]["bool"]["should"].append({"term": {'department.keyword':department}})
+    if len(body["query"]["bool"]["should"]) > 0:
+        body["query"]["bool"]["minimum_should_match"] = 1
+
+    for university in universities:
+        index += university + suffix + ","
+    if len(universities) == 0:
+        index = "smc-course,msmu-course,scu-course"
+    results = es.search(index=index.rstrip(","), body=body)
+    return results

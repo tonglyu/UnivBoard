@@ -3,6 +3,7 @@
 {% block content %}
 <h4>{{ details['title'] }}</h4>
 <h5>{{ details['degree'] }}</h5>
+<h5>{{ details['initial'] }}</h5>
 <ul>
     {% if details['university']|length > 0 %}
     <li>University: {{ details['university'] }}</li>
@@ -17,7 +18,7 @@
     {% endif %}
     
     {% if details['type']|length > 0 %}
-    <li>Program type: {{ details['type'] }}</li>
+    <li>Type: {{ details['type'] }}</li>
     {% endif %}
     
     {% if details['description']|length > 0 %}
@@ -25,7 +26,27 @@
     {% endif %}
     
     {% if details['requirements']|length > 0 %}
-    <li>Requirements: {{ details['requirements'] }}</li>
+        {% if details['requirements'] is mapping %}
+            <li></li>
+        {% else %}
+            <li>Requirements: {{ details['requirements'] }}</li>
+        {% endif %}
+    {% endif %}
+    
+    {% if details['units']|length > 0 %}
+    <li>Units: {{ details['units'] }}</li>
+    {% endif %}
+    
+    {% if details['program link']|length > 0 %}
+    <li>Program Link: {{ details['program link'] }}</li>
+    {% endif %}
+    
+    {% if details['admission link']|length > 0 %}
+    <li>Admission Link: {{ details['admission link'] }}</li>
+    {% endif %}
+    
+    {% if details['phone']|length > 0 %}
+    <li>Admission Link: {{ details['phone'] }}</li>
     {% endif %}
 </ul>
 {% if details['related courses']|length > 0 %}
@@ -49,6 +70,7 @@
                 <li>School: {{ item['school'] }}</li>
                 <li>Department: {{ item['department'] }}</li>
                 <li>Description: {{ item['description'] }}</li>
+                <li>Units: {{ item['units'] }}</li>
             </ul>
       </div>
     </div>
