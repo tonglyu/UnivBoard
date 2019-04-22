@@ -1,5 +1,59 @@
 {% extends "index.html" %}
 
 {% block content %}
-  <h1>Hello, Bootstrap</h1>
+<h4>{{ details['title'] }}</h4>
+<h5>{{ details['degree'] }}</h5>
+<ul>
+    {% if details['university']|length > 0 %}
+    <li>University: {{ details['university'] }}</li>
+    {% endif %}
+    
+    {% if details['school']|length > 0 %}
+    <li>School: {{ details['school'] }}</li>
+    {% endif %}
+    
+    {% if details['department']|length > 0 %}
+    <li>Department: {{ details['department'] }}</li>
+    {% endif %}
+    
+    {% if details['type']|length > 0 %}
+    <li>Program type: {{ details['type'] }}</li>
+    {% endif %}
+    
+    {% if details['description']|length > 0 %}
+    <li>Description: {{ details['description'] }}</li>
+    {% endif %}
+    
+    {% if details['requirements']|length > 0 %}
+    <li>Requirements: {{ details['requirements'] }}</li>
+    {% endif %}
+</ul>
+{% if details['related courses']|length > 0 %}
+<h5>Related Courses:</h5>
+<div class="accordion" id="accordionExample">
+{% for item in details['related courses'] %}
+  <div class="card">
+    <div class="card-header">
+      <h2 class="mb-0">
+        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#{{ item['initial'] }}" aria-expanded="false" aria-controls="{{ item['initial'] }}">
+          {{ item['initial'] }}
+        </button>
+      </h2>
+    </div>
+
+    <div id="{{ item['initial'] }}" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+      <div class="card-body">
+            <ul>
+                <li>Course Title: {{ item['title'] }}</li>
+                <li>University: {{ item['university'] }}</li>
+                <li>School: {{ item['school'] }}</li>
+                <li>Department: {{ item['department'] }}</li>
+                <li>Description: {{ item['description'] }}</li>
+            </ul>
+      </div>
+    </div>
+  </div>
+{% endfor %}
+</div>
+{% endif %}
 {% endblock %}

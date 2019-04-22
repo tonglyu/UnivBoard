@@ -11,7 +11,7 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-            <a class="nav-item nav-link" href="{{ url_for('index') }}">Home</a>
+            <a class="nav-item nav-link" href="{{ url_for('index') }}">Search</a>
             <a class="nav-item nav-link" href="{{ url_for('feature') }}">Feature</a>
         </div>
     </div>
@@ -57,10 +57,7 @@
                         </div>
                         <div class="form-row">
                             <div class="form-group col-md-12">
-                                <select class="selectpicker form-control" multiple data-live-search="true" id="department" title="Choose departments" data-actions-box="true" data-dropup-auto="false" name="depart">
-                                    {% for item in departments %}
-                                        <option>{{ item['key'] }}</option>
-                                    {% endfor %}
+                                <select class="selectpicker form-control" multiple data-live-search="true" id="department" title="Please first choose one or more universities" data-actions-box="true" data-dropup-auto="false" name="depart">
                                 </select>
                             </div>
                         </div>
@@ -94,3 +91,40 @@
 </footer>
 {% endblock footer %}
 
+{% block scripts %}
+<script>
+$('input[name=univ]').change(function(){
+
+    if($(this).is(':checked')) {
+        switch($(this).val()) {
+            case "smc":
+                {% for item in smc_depart %}
+                    createOption(document.getElementById("department"), "{{ item['key'] }}", $(this).val());
+                {% endfor %}
+                break;
+            case "msmu":
+                {% for item in msmu_depart %}
+                    createOption(document.getElementById("department"), "{{ item['key'] }}", $(this).val());
+                {% endfor %}
+                break;
+            case "scu":
+                {% for item in scu_depart %}
+                    createOption(document.getElementById("department"), "{{ item['key'] }}", $(this).val());
+                {% endfor %}
+                break;
+        }
+    }
+    else {
+        $('#department option[label="'+$(this).val()+'"]').remove();
+    }
+    $('.selectpicker').selectpicker('refresh');
+});
+
+function createOption(ddl, text, label) {
+    var opt = document.createElement("Option");
+    opt.text = text;
+    opt.label = label;
+    ddl.options.add(opt);
+}
+</script>
+{% endblock scripts %}
