@@ -5,7 +5,9 @@ from elasticsearch import Elasticsearch
 es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
 
 def create_programs(input_dir):
-    count = 1
+    scu_count = 1
+    smc_count = 1
+    msmu_count = 1
     for path, subdirs, files in os.walk(input_dir):
         for filename in files:
             if not filename.endswith(".json"):
@@ -15,24 +17,24 @@ def create_programs(input_dir):
             programs = json.loads(data)
 
             for program in programs:
-                
-                #es.index(index='scu-program', doc_type='program', id=count, body=program)
-                #count += 1
+
 
                 #update#--------------------------------
                 if filename[0:3] == "scu":
-                    es.index(index='scu-program', doc_type='program', id=count, body=program)
-                    count += 1
+                    es.index(index='scu-program', doc_type='program', id=scu_count, body=program)
+                    scu_count += 1
                 elif filename[0:3] == "smc":
-                    es.index(index='smc-course', doc_type='program', id=count, body=program)
-                    count += 1
+                    es.index(index='smc-program', doc_type='program', id=smc_count, body=program)
+                    smc_count += 1
                 elif filename[0:3] == "msm":
-                    es.index(index='msmu-course', doc_type='program', id=count, body=program)
-                    count += 1
+                    es.index(index='msmu-program', doc_type='program', id=msmu_count, body=program)
+                    msmu_count += 1
                 #---------------------------------------
 
 def create_courses(input_dir):
-    count = 1
+    scu_count = 1
+    smc_count = 1
+    msmu_count = 1
     for path, subdirs, files in os.walk(input_dir):
         for filename in files:
             #update####
@@ -46,19 +48,16 @@ def create_courses(input_dir):
 
             for course in courses:
 
-                #es.index(index='scu-course', doc_type='course', id=count, body=course)
-                #count += 1
-
                 #update#--------------------------------
                 if filename[0:3] == "scu":
-                    es.index(index='scu-course', doc_type='course', id=count, body=course)
-                    count += 1
+                    es.index(index='scu-course', doc_type='course', id=scu_count, body=course)
+                    scu_count += 1
                 elif filename[0:3] == "smc":
-                    es.index(index='smc-course', doc_type='course', id=count, body=course)
-                    count += 1
+                    es.index(index='smc-course', doc_type='course', id=smc_count, body=course)
+                    smc_count += 1
                 elif filename[0:3] == "msm":
-                    es.index(index='msmu-course', doc_type='course', id=count, body=course)
-                    count += 1
+                    es.index(index='msmu-course', doc_type='course', id=msmu_count, body=course)
+                    msmu_count += 1
                 #---------------------------------------
 
 print("importing programs data.....")
