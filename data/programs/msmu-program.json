@@ -695,7 +695,7 @@
                 {
                     "id": " ",
                     "course_title": "or",
-                    "unit": null
+                    "unit": ""
                 },
                 {
                     "id": "MTH 38",
@@ -705,7 +705,7 @@
                 {
                     "id": " ",
                     "course_title": "or",
-                    "unit": null
+                    "unit": ""
                 },
                 {
                     "id": "PSY 40",
@@ -1354,7 +1354,7 @@
                 {
                     "id": " ",
                     "course_title": "or",
-                    "unit": null
+                    "unit": ""
                 },
                 {
                     "id": "EDU 206",
@@ -1416,7 +1416,7 @@
                 {
                     "id": " ",
                     "course_title": "or",
-                    "unit": null
+                    "unit": ""
                 },
                 {
                     "id": "EDU 266",
@@ -1468,7 +1468,7 @@
                 {
                     "id": " ",
                     "course_title": "or",
-                    "unit": null
+                    "unit": ""
                 },
                 {
                     "id": "EDU 364A",
@@ -1938,7 +1938,7 @@
         "program link": "http://msmu.smartcatalogiq.com/2018-2020/2018-2020-Catalog/Courses-of-Instruction/Philosophy/Philosophy-Minor",
         "admission link": "https://www.msmu.edu/admission/",
         "related courses": [],
-        "requirements": ""
+        "requirements": {}
     },
     {
         "title": "Religious Studies",
@@ -1949,7 +1949,7 @@
         "program link": "http://msmu.smartcatalogiq.com/2018-2020/2018-2020-Catalog/Courses-of-Instruction/Religious-Studies/Religious-Studies-Minor",
         "admission link": "https://www.msmu.edu/admission/",
         "related courses": [],
-        "requirements": ""
+        "requirements": {}
     },
     {
         "title": "Gerontology",
@@ -2017,7 +2017,7 @@
         "program link": "http://msmu.smartcatalogiq.com/2018-2020/2018-2020-Catalog/Courses-of-Instruction/Political-Science/Political-Science-Minor",
         "admission link": "https://www.msmu.edu/admission/",
         "related courses": [],
-        "requirements": ""
+        "requirements": {}
     },
     {
         "title": "Political Science",
@@ -2263,7 +2263,7 @@
         "program link": "http://msmu.smartcatalogiq.com/2018-2020/2018-2020-Catalog/Courses-of-Instruction/American-Studies/American-Studies-Minor",
         "admission link": "https://www.msmu.edu/admission/",
         "related courses": [],
-        "requirements": ""
+        "requirements": {}
     },
     {
         "title": "Psychology",
@@ -4939,7 +4939,7 @@
         "program link": "http://msmu.smartcatalogiq.com/2018-2020/2018-2020-Catalog/Courses-of-Instruction/Psychology/Counseling-Psychology-Master-of-Science",
         "admission link": "https://www.msmu.edu/admission/",
         "related courses": [],
-        "requirements": ""
+        "requirements": {}
     },
     {
         "title": "Education",
@@ -6239,7 +6239,7 @@
                 {
                     "id": " ",
                     "course_title": "or",
-                    "unit": null
+                    "unit": ""
                 },
                 {
                     "id": "PHI 92",
@@ -6295,7 +6295,7 @@
         "program link": "https://www.msmu.edu/graduate-programs/clinical-psychology-psyd/",
         "admission link": "https://www.msmu.edu/admission/",
         "related courses": [],
-        "requirements": ""
+        "requirements": {}
     },
     {
         "title": "Computer Information Science",
@@ -6518,7 +6518,7 @@
                 {
                     "id": " ",
                     "course_title": " ",
-                    "unit": null
+                    "unit": ""
                 },
                 {
                     "id": "BIO 10",
@@ -6528,7 +6528,7 @@
                 {
                     "id": " ",
                     "course_title": "or",
-                    "unit": null
+                    "unit": ""
                 },
                 {
                     "id": "BIO 5",
@@ -6538,7 +6538,7 @@
                 {
                     "id": " ",
                     "course_title": " ",
-                    "unit": null
+                    "unit": ""
                 },
                 {
                     "id": "BUS 4",
@@ -7493,7 +7493,7 @@
                 {
                     "id": " ",
                     "course_title": "or",
-                    "unit": null
+                    "unit": ""
                 },
                 {
                     "id": "EDU 266",
@@ -9357,12 +9357,12 @@
                 {
                     "id": "PSY 2xx",
                     "course_title": "Elective Course",
-                    "unit": null
+                    "unit": ""
                 },
                 {
                     "id": "PSY 2XX",
                     "course_title": "Elective Course",
-                    "unit": null
+                    "unit": ""
                 }
             ],
             "Written Exam": [
@@ -13478,7 +13478,7 @@
         "program link": "http://msmu.smartcatalogiq.com/2018-2020/2018-2020-Catalog/Courses-of-Instruction/Humanities-Master-of-Arts/Graduate-Humanities-Certificate-Programs",
         "admission link": "https://www.msmu.edu/admission/",
         "related courses": [],
-        "requirements": ""
+        "requirements": {}
     },
     {
         "title": "Art",
@@ -14129,7 +14129,7 @@
                 {
                     "id": " ",
                     "course_title": "or",
-                    "unit": null
+                    "unit": ""
                 },
                 {
                     "id": "ENG 146",
@@ -14139,7 +14139,7 @@
                 {
                     "id": " ",
                     "course_title": " ",
-                    "unit": null
+                    "unit": ""
                 },
                 {
                     "id": "ENG 144",
@@ -14149,7 +14149,7 @@
                 {
                     "id": " ",
                     "course_title": "or",
-                    "unit": null
+                    "unit": ""
                 },
                 {
                     "id": "ENG 73",
@@ -14159,7 +14159,7 @@
                 {
                     "id": " ",
                     "course_title": "or",
-                    "unit": null
+                    "unit": ""
                 },
                 {
                     "id": "ENG 173",
@@ -14169,7 +14169,7 @@
                 {
                     "id": " ",
                     "course_title": " ",
-                    "unit": null
+                    "unit": ""
                 },
                 {
                     "id": "ENG 147",
@@ -14179,7 +14179,7 @@
                 {
                     "id": " ",
                     "course_title": "or",
-                    "unit": null
+                    "unit": ""
                 },
                 {
                     "id": "ENG 148",
@@ -14189,7 +14189,7 @@
                 {
                     "id": " ",
                     "course_title": " ",
-                    "unit": null
+                    "unit": ""
                 },
                 {
                     "id": "ENG 105",
@@ -14199,7 +14199,7 @@
                 {
                     "id": " ",
                     "course_title": "or",
-                    "unit": null
+                    "unit": ""
                 },
                 {
                     "id": "ENG 107",
@@ -14596,7 +14596,7 @@
         "program link": "http://msmu.smartcatalogiq.com/2018-2020/2018-2020-Catalog/Courses-of-Instruction/Psychology/Psychology-Minor",
         "admission link": "https://www.msmu.edu/admission/",
         "related courses": [],
-        "requirements": ""
+        "requirements": {}
     },
     {
         "title": "Chemistry",
