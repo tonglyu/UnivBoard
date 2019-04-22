@@ -20,15 +20,14 @@ body = {
         }
     }
 }
-# msmu_depart = es.search(index="msmu-program", body=body)['aggregations']['uniq_depart']['buckets']
+msmu_depart = es.search(index="msmu-program", body=body)['aggregations']['uniq_depart']['buckets']
 smc_depart = es.search(index="smc-program", body=body)['aggregations']['uniq_depart']['buckets']
 scu_depart = es.search(index="scu-program", body=body)['aggregations']['uniq_depart']['buckets']
 
 @app.route('/')
 @app.route('/search')
 def index():
-    # return render_template('index.html', smc_depart=smc_depart, scu_depart=scu_depart, msmu_depart=msmu_depart)
-    return render_template('index.html', smc_depart=smc_depart, scu_depart=scu_depart)
+    return render_template('index.html', smc_depart=smc_depart, scu_depart=scu_depart, msmu_depart=msmu_depart)
 
 @app.route('/search/programs', methods=['Get', 'POST'])
 def search_programs():
@@ -38,8 +37,7 @@ def search_programs():
 
     # Pagination
     results_for_render, pagination = search.paginate(results)
-    # return render_template('search.html', smc_depart=smc_depart, scu_depart=scu_depart, msmu_depart=msmu_depart, results=results_for_render, pagination=pagination, type="program")
-    return render_template('search.html', smc_depart=smc_depart, scu_depart=scu_depart, results=results_for_render, pagination=pagination, type="program")
+    return render_template('search.html', smc_depart=smc_depart, scu_depart=scu_depart, msmu_depart=msmu_depart, results=results_for_render, pagination=pagination, type="program")
 
 @app.route('/search/courses', methods=['Get', 'POST'])
 def search_courses():
@@ -49,8 +47,7 @@ def search_courses():
 
     # Pagination
     results_for_render, pagination = search.paginate(results)
-    # return render_template('search.html', smc_depart=smc_depart, scu_depart=scu_depart, msmu_depart=msmu_depart, results=results_for_render, pagination=pagination, type="program")
-    return render_template('search.html', smc_depart=smc_depart, scu_depart=scu_depart, results=results_for_render, pagination=pagination, type="course")
+    return render_template('search.html', smc_depart=smc_depart, scu_depart=scu_depart, msmu_depart=msmu_depart, results=results_for_render, pagination=pagination, type="course")
 
 @app.route('/details')
 def show_details():

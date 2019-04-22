@@ -27,8 +27,11 @@ def create_programs(input_dir):
                     es.index(index='smc-program', doc_type='program', id=smc_count, body=program)
                     smc_count += 1
                 elif filename[0:3] == "msm":
-                    es.index(index='msmu-program', doc_type='program', id=msmu_count, body=program)
-                    msmu_count += 1
+                    try:
+                        es.index(index='msmu-program', doc_type='program', id=msmu_count, body=program)
+                        msmu_count += 1
+                    except TransportError as e:
+                        print(e.info)
                 #---------------------------------------
 
 def create_courses(input_dir):

@@ -27,6 +27,14 @@
     
     {% if details['requirements']|length > 0 %}
         {% if details['requirements'] is mapping %}
+            {% for key, values in details['requirements'].items() %}
+                <li>{{key}}</li>
+                <ul>
+                {% for value in values %}
+                    <li>{{value}}</li>
+                {% endfor %}
+                </ul>
+            {% endfor %}
             <li></li>
         {% else %}
             <li>Requirements: {{ details['requirements'] }}</li>
@@ -38,11 +46,11 @@
     {% endif %}
     
     {% if details['program link']|length > 0 %}
-    <li>Program Link: {{ details['program link'] }}</li>
+    <li>Program Link: <a href="{{ details['program link'] }}">{{ details['program link'] }}</a></li>
     {% endif %}
     
     {% if details['admission link']|length > 0 %}
-    <li>Admission Link: {{ details['admission link'] }}</li>
+    <li>Admission Link: <a href="{{ details['admission link'] }}">{{ details['admission link'] }}</a></li>
     {% endif %}
     
     {% if details['phone']|length > 0 %}
@@ -66,9 +74,17 @@
       <div class="card-body">
             <ul>
                 <li>Course Title: {{ item['title'] }}</li>
+                {% if item['university']|length > 0 %}
                 <li>University: {{ item['university'] }}</li>
+                {% endif %}
+
+                {% if item['school']|length > 0 %}
                 <li>School: {{ item['school'] }}</li>
+                {% endif %}
+
+                {% if item['department']|length > 0 %}
                 <li>Department: {{ item['department'] }}</li>
+                {% endif %}
                 <li>Description: {{ item['description'] }}</li>
                 <li>Units: {{ item['units'] }}</li>
             </ul>
