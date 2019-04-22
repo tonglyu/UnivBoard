@@ -4,31 +4,39 @@
 <section>
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-3">
-                filter
-            </div>
-            <div class="col-md-9 results-wrapper" id="results" name="results">
+            <div class="col-md-12 results-wrapper" id="results" name="results">
                 <div class="table-responsive pre-scrollable" style="max-height: 700px;">
                     <table class="table table-hover" id="data">
                         <thead>
+                            {% if type == "program" %}
                             <tr>
                                 <th>Title</th>
-                                <th>Type</th>
-                                <th>University</th>
-                                <th>School</th>
-                                <th>Department</th>
                                 <th>Degree</th>
+                                <th>Department</th>
+                                <th>University</th>
                             </tr>
+                            {% endif %}
+                            {% if type == "course" %}
+                            <tr>
+                                <th>Title</th>
+                                <th>Course Id</th>
+                                <th>Department</th>
+                                <th>University</th>
+                            </tr>
+                            {% endif %}
                         </thead>
                         <tbody>
                             {% for item in results %}
                             <tr>
                                 <td><a class="nav-link " href="{{ url_for('show_details', item=item['_source']['title'] ) }}">{{ item['_source']['title'] }}</a></td>
-                                <td>{{ item['_source']['type'] }}</td>
-                                <td>{{ item['_source']['university'] }}</td>
-                                <td>{{ item['_source']['school'] }}</td>
-                                <td>{{ item['_source']['department'] }}</td>
+                                {% if type == "program" %}
                                 <td>{{ item['_source']['degree'] }}</td>
+                                {% endif %}
+                                {% if type == "course" %}
+                                <td>{{ item['_source']['abbr'] }} + " " + {{ item['_source']['id'] }}</td>
+                                {% endif %}
+                                <td>{{ item['_source']['department'] }}</td>
+                                <td>{{ item['_source']['university'] }}</td>
                             </tr>
                           {% endfor %}
                         </tbody>

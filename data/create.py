@@ -12,23 +12,11 @@ def create_programs(input_dir):
                 continue
             file = open(os.path.join(path, filename))
             data = file.read()
-            depart_list = json.loads(data)
+            programs = json.loads(data)
 
-            for depart_oj in depart_list:
-                university = depart_oj["university"]
-                school = depart_oj["school"]
-                department = depart_oj["department"]
-                # description = depart_oj["description"]
-                programs = depart_oj["programs"]
-
-                for program in programs:
-                    program["university"] = university
-                    program["school"] = school
-                    program["department"] = department
-                    if department == "":
-                        program["department"] = "Graduate"
-                    es.index(index='scu-program', doc_type='program', id=count, body=program)
-                    count += 1
+            for program in programs:
+                es.index(index='scu-program', doc_type='program', id=count, body=program)
+                count += 1
 
 def create_courses(input_dir):
     count = 1
@@ -38,24 +26,13 @@ def create_courses(input_dir):
                 continue
             file = open(os.path.join(path, filename))
             data = file.read()
-            depart_list = json.loads(data)
+            courses = json.loads(data)
 
-            for depart_oj in depart_list:
-                university = depart_oj["university"]
-                school = depart_oj["school"]
-                department = depart_oj["department"]
-                # description = depart_oj["description"]
-                courses = depart_oj["courses"]
+            for course in courses:
+                es.index(index='scu-course', doc_type='course', id=count, body=course)
+                count += 1
 
-                for course in courses:
-                    course["university"] = university
-                    course["school"] = school
-                    course["department"] = department
-                    if department == "":
-                        course["department"] = "Graduate"
-                    es.index(index='scu-course', doc_type='course', id=count, body=course)
-                    count += 1
-
-
-create_programs("data/SCU/Programs")
-create_courses("data/SCU/Courses")
+print("importing programs data.....")
+create_programs("data/programs")
+print("importing courses data.....")
+create_courses("data/courses")
