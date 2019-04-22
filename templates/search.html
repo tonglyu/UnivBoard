@@ -28,12 +28,12 @@
                         <tbody>
                             {% for item in results %}
                             <tr>
-                                <td><a class="nav-link " href="{{ url_for('show_details', item=item['_source']['title'] ) }}">{{ item['_source']['title'] }}</a></td>
+                                <td><a class="nav-link " href="{{ url_for('show_details', index=item['_index'], id=item['_id'], item=item['_source']['title'] ) }}">{{ item['_source']['title'] }}</a></td>
                                 {% if type == "program" %}
                                 <td>{{ item['_source']['degree'] }}</td>
                                 {% endif %}
                                 {% if type == "course" %}
-                                <td>{{ item['_source']['abbr'] }} + " " + {{ item['_source']['id'] }}</td>
+                                <td>{{ item['_source']['initial'] }}</td>
                                 {% endif %}
                                 <td>{{ item['_source']['department'] }}</td>
                                 <td>{{ item['_source']['university'] }}</td>
@@ -50,6 +50,7 @@
 {% endblock %}
 
 {% block scripts %}
+{{ super() }}
 <script> window.location.hash="results"; </script>
 {% endblock scripts %}
 

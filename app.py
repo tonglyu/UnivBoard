@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request
 import config
 from elasticsearch import Elasticsearch
-import search
+import search, detail
 
 app = Flask(__name__)
 app.config.from_object(config)
@@ -20,14 +20,17 @@ body = {
         }
     }
 }
-# all_depart = es.search(index="smc-program,msmu-program,scu-program", body=body)
-all_depart = es.search(index="smc-program,scu-program", body=body)['aggregations']['uniq_depart']['buckets']
+# msmu_depart = es.search(index="msmu-program", body=body)['aggregations']['uniq_depart']['buckets']
+smc_depart = es.search(index="smc-program", body=body)['aggregations']['uniq_depart']['buckets']
+scu_depart = es.search(index="scu-program", body=body)['aggregations']['uniq_depart']['buckets']
 
 @app.route('/')
+@app.route('/search')
 def index():
-    return render_template('index.html', departments=all_depart)
+    # return render_template('index.html', smc_depart=smc_depart, scu_depart=scu_depart, msmu_depart=msmu_depart)
+    return render_template('index.html', smc_depart=smc_depart, scu_depart=scu_depart)
 
-@app.route('/search', methods=['Get', 'POST'])
+@app.route('/search/programs', methods=['Get', 'POST'])
 def search_programs():
     global results
     if request.method == "POST":
@@ -35,11 +38,24 @@ def search_programs():
 
     # Pagination
     results_for_render, pagination = search.paginate(results)
-    return render_template('search.html', departments=all_depart, results=results_for_render, pagination=pagination, type="program")
+    # return render_template('search.html', smc_depart=smc_depart, scu_depart=scu_depart, msmu_depart=msmu_depart, results=results_for_render, pagination=pagination, type="program")
+    return render_template('search.html', smc_depart=smc_depart, scu_depart=scu_depart, results=results_for_render, pagination=pagination, type="program")
+
+@app.route('/search/courses', methods=['Get', 'POST'])
+def search_courses():
+    global results
+    if request.method == "POST":
+        results = search.getCourses(es)
+
+    # Pagination
+    results_for_render, pagination = search.paginate(results)
+    # return render_template('search.html', smc_depart=smc_depart, scu_depart=scu_depart, msmu_depart=msmu_depart, results=results_for_render, pagination=pagination, type="program")
+    return render_template('search.html', smc_depart=smc_depart, scu_depart=scu_depart, results=results_for_render, pagination=pagination, type="course")
 
 @app.route('/details')
 def show_details():
-    return render_template('details.html')
+    details = detail.getDetails(es)
+    return render_template('details.html', details=details)
 
 @app.route('/feature')
 def feature():
