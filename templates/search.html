@@ -30,13 +30,13 @@
                             <tr>
                                 <td><a class="nav-link text-info" href="{{ url_for('show_details', index=item['_index'], id=item['_id'], item=item['_source']['title'] ) }}">{{ item['_source']['title'] }}</a></td>
                                 {% if type == "program" %}
-                                <td>{{ item['_source']['degree'] }}</td>
+                                <td class="align-middle">{{ item['_source']['degree'] }}</td>
                                 {% endif %}
                                 {% if type == "course" %}
-                                <td>{{ item['_source']['initial'] }}</td>
+                                <td class="align-middle">{{ item['_source']['initial'] }}</td>
                                 {% endif %}
-                                <td>{{ item['_source']['department'] }}</td>
-                                <td>{{ item['_source']['university'] }}</td>
+                                <td class="align-middle">{{ item['_source']['department'] }}</td>
+                                <td class="align-middle">{{ item['_source']['university'] }}</td>
                             </tr>
                           {% endfor %}
                         </tbody>
