@@ -1,52 +1,52 @@
 {% extends "index.html" %}
 
 {% block content %}
-<div class="container-fluid" style="height: 85vh">
+<div class="container-fluid">
     <div class="row justify-content-center">
-        <h3>Data</h3>
+        <h3 style="margin:15px;">Data</h3>
     </div>
     <div class="row justify-content-center">
         <div class="card-deck col-md-12">
           <div class="card">
             <div class="card-header"><a href="http://www.smc.edu/Pages/Home.aspx" class="card-link">Santa Monica College (SMC)</a></div>
             <div class="card-body">
-              <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">Santa Monica College has about 37 departments. We crawled programs details, admission requirements and courses description.</p>
             </div>
           </div>
           <div class="card">
             <div class="card-header"><a href="https://www.msmu.edu/" class="card-link">Mount Saint Mary’s University (MSMU)</a></div>
             <div class="card-body">
-              <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+              <p class="card-text">MSMU has 65 majors, providing 130 programs. 11 of them are graduate programs. Courses are generated from 57 subjects. We crawled programs details, admission requirements and courses description.</p>
             </div>
           </div>
           <div class="card">
             <div class="card-header"><a href="https://www.scu.edu/" class="card-link">Santa Clara University (SCU)</a></div>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+              <p class="card-text">SCU has six schools. The College of Arts and Sciences, the School of Engineering, and the Leavey School of Business offer undergraduate degrees. All SCU schools have graduate programs. We crawled programs details, admission requirements and courses description.</p>
             </div>
           </div>
         </div>
     </div>
     <div class="row justify-content-center">
-        <h3>Meet our Team</h3>
+        <h3 style="margin:15px;">Meet our Team</h3>
     </div>
-    <div class="row justify-content-center">
+    <div class="row justify-content-center" style="margin-bottom:15px;">
         <div class="card-deck col-md-12">
           <div class="card">
             <div class="card-body">
-                <img class="card-img-top" src="..." alt="Card image cap">
+                <img class="card-img-top" src="{{ url_for('static', filename='images/ziwei.jpeg') }}" alt="Card image cap">
             </div>
             <div class="card-footer">Ziwei Yuan</div>
           </div>
           <div class="card">
             <div class="card-body">
-                <img class="card-img-top" src="..." alt="Card image cap">
+                <img class="card-img-top" src="{{ url_for('static', filename='images/tong.jpeg') }}" alt="Card image cap">
             </div>
             <div class="card-footer">Tong Lyu</div>
           </div>
           <div class="card">
             <div class="card-body">
-                <img class="card-img-top" src="..." alt="Card image cap">
+                <img class="card-img-top" src="{{ url_for('static', filename='images/tianyang.jpeg') }}" alt="Card image cap">
             </div>
             <div class="card-footer">Tianyang Li</div>
           </div>

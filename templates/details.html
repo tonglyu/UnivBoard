@@ -1,98 +1,113 @@
 {% extends "index.html" %}
 
 {% block content %}
-<h4>{{ details['title'] }}</h4>
-<h5>{{ details['degree'] }}</h5>
-<h5>{{ details['initial'] }}</h5>
-<ul>
-    {% if details['university']|length > 0 %}
-    <li>University: {{ details['university'] }}</li>
-    {% endif %}
-    
-    {% if details['school']|length > 0 %}
-    <li>School: {{ details['school'] }}</li>
-    {% endif %}
-    
-    {% if details['department']|length > 0 %}
-    <li>Department: {{ details['department'] }}</li>
-    {% endif %}
-    
-    {% if details['type']|length > 0 %}
-    <li>Type: {{ details['type'] }}</li>
-    {% endif %}
-    
-    {% if details['description']|length > 0 %}
-    {% autoescape false %}
-      <li>Description: {{ details['description'] | replace("\n", "<br/>") }}</li>
-    {% endautoescape %}
-    {% endif %}
-    
-    {% if details['requirements']|length > 0 %}
-    {% autoescape false %}
-      <li>Requirements: {{ details['requirements'] | replace("\n", "<br/>") }}</li>
-    {% endautoescape %}
-    {% endif %}
-    
-    {% if details['units']|length > 0 %}
-    <li>Units: {{ details['units'] }}</li>
-    {% endif %}
-    
-    {% if details['program link']|length > 0 %}
-    <li>Program Link: <a href="{{ details['program link'] }}">{{ details['program link'] }}</a></li>
-    {% endif %}
-    
-    {% if details['admission link']|length > 0 %}
-    <li>Admission Link: <a href="{{ details['admission link'] }}">{{ details['admission link'] }}</a></li>
-    {% endif %}
-    
-    {% if details['phone']|length > 0 %}
-    <li>Phone: {{ details['phone'] }}</li>
-    {% endif %}
-</ul>
-{% if details['related courses']|length > 0 %}
-<h5>Related Courses:</h5>
-<div class="accordion" id="accordionExample">
-{% for item in details['related courses'] %}
-  <div class="card">
-    <div class="card-header">
-      <h2 class="mb-0">
-        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#{{ item['initial'] }}" aria-expanded="false" aria-controls="{{ item['initial'] }}">
-          {{ item['initial'] }}
-        </button>
-      </h2>
-    </div>
-
-    <div id="{{ item['initial'] }}" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-      <div class="card-body">
-            <ul>
-                <li>Course Title: {{ item['title'] }}</li>
-                
-                {% if item['university']|length > 0 %}
-                <li>University: {{ item['university'] }}</li>
+<div class="container-fluid" style="min-height: 80vh; margin-bottom: 10px;">
+    <div class="row" style="margin-top: 20px;">
+        <div class="col-md-6">
+            <h4>{{ details['title'] }}</h4>
+            
+            {% if details['degree']|length > 0 %}
+            <footer class="blockquote-footer" style="font-size: 15px;">{{ details['degree'] }}</footer>
+            {% endif %}
+            
+            {% if details['initial']|length > 0 %}
+            <footer class="blockquote-footer" style="font-size: 15px;">{{ details['initial'] }}</footer>
+            {% endif %}
+            
+            <ul class="list-group" style="margin-top: 15px;">
+                {% if details['university']|length > 0 %}
+                <li class="list-group-item"><strong>University:</strong> {{ details['university'] }}</li>
                 {% endif %}
 
-                {% if item['school']|length > 0 %}
-                <li>School: {{ item['school'] }}</li>
+                {% if details['school']|length > 0 %}
+                <li class="list-group-item"><strong>School:</strong> {{ details['school'] }}</li>
                 {% endif %}
 
-                {% if item['department']|length > 0 %}
-                <li>Department: {{ item['department'] }}</li>
+                {% if details['department']|length > 0 %}
+                <li class="list-group-item"><strong>Department:</strong> {{ details['department'] }}</li>
                 {% endif %}
-                
-                {% if item['description']|length > 0 %}
+
+                {% if details['type']|length > 0 %}
+                <li class="list-group-item"><strong>Type:</strong> {{ details['type'] }}</li>
+                {% endif %}
+
+                {% if details['description']|length > 0 %}
                 {% autoescape false %}
-                  <li>Description: {{ item['description'] | replace("\n", "<br/>") }}</li>
+                  <li class="list-group-item"><strong>Description:</strong> {{ details['description'] | replace("\n", "<br/>") }}</li>
                 {% endautoescape %}
                 {% endif %}
-                
-                {% if item['units']|length > 0 %}
-                <li>Units: {{ item['units'] }}</li>
+
+                {% if details['requirements']|length > 0 %}
+                {% autoescape false %}
+                  <li class="list-group-item"><strong>Requirements:</strong> {{ details['requirements'] | replace("\n", "<br/>") }}</li>
+                {% endautoescape %}
+                {% endif %}
+
+                {% if details['units']|length > 0 %}
+                <li class="list-group-item"><strong>Units:</strong> {{ details['units'] }}</li>
+                {% endif %}
+
+                {% if details['program link']|length > 0 %}
+                <li class="list-group-item"><strong>Program Link:</strong> <a href="{{ details['program link'] }}">{{ details['program link'] }}</a></li>
+                {% endif %}
+
+                {% if details['admission link']|length > 0 %}
+                <li class="list-group-item"><strong>Admission Link:</strong> <a href="{{ details['admission link'] }}">{{ details['admission link'] }}</a></li>
+                {% endif %}
+
+                {% if details['phone']|length > 0 %}
+                <li class="list-group-item"><strong>Phone:</strong> {{ details['phone'] }}</li>
                 {% endif %}
             </ul>
-      </div>
+        </div>
+        <div class="col-md-6">
+            {% if details['related courses']|length > 0 %}
+            <h4 class="col-md-12" style="margin-bottom: 20px;">Related Courses:</h4>
+            <div class="accordion" id="accordionExample">
+            {% for item in details['related courses'] %}
+              <div class="card">
+                <div class="card-header">
+                  <h2 class="mb-0">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#{{ item['initial'] }}" aria-expanded="false" aria-controls="{{ item['initial'] }}">
+                      {{ item['initial'] }}
+                    </button>
+                  </h2>
+                </div>
+
+                <div id="{{ item['initial'] }}" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                  <div class="card-body">
+                        <ul>
+                            <li><strong>Course Title: {{ item['title'] }}</li>
+
+                            {% if item['university']|length > 0 %}
+                            <li><strong>University:</strong> {{ item['university'] }}</li>
+                            {% endif %}
+
+                            {% if item['school']|length > 0 %}
+                            <li><strong>School:</strong> {{ item['school'] }}</li>
+                            {% endif %}
+
+                            {% if item['department']|length > 0 %}
+                            <li><strong>Department:</strong> {{ item['department'] }}</li>
+                            {% endif %}
+
+                            {% if item['description']|length > 0 %}
+                            {% autoescape false %}
+                            <li><strong>Description:</strong> {{ item['description'] | replace("\n", "<br/>") }}</li>
+                            {% endautoescape %}
+                            {% endif %}
+
+                            {% if item['units']|length > 0 %}
+                            <li>Units: {{ item['units'] }}</li>
+                            {% endif %}
+                        </ul>
+                  </div>
+                </div>
+              </div>
+            {% endfor %}
+            </div>
+            {% endif %}
+        </div>
     </div>
-  </div>
-{% endfor %}
 </div>
-{% endif %}
 {% endblock %}
