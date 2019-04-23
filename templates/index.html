@@ -12,7 +12,8 @@
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
             <a class="nav-item nav-link" href="{{ url_for('index') }}">Search</a>
-            <a class="nav-item nav-link" href="{{ url_for('feature') }}">Feature</a>
+            <a class="nav-item nav-link" href="{{ url_for('about') }}">About</a>
+            <a class="nav-item nav-link" href="https://github.com/ZiweiYuan/UnivBoard">Github</a>
         </div>
     </div>
 </nav>
@@ -38,21 +39,23 @@
                         <div class="form-row">
                             <div class="form-group col-md-12">
                                 <label for="search-input">Keyword</label>
-                                <input type="search" class="form-control" id="keywords" name="keywords" placeholder="Computer">
+                                <input type="search" class="form-control" id="keywords" name="keywords" placeholder="Computer" value="{{ request.form['keywords'] }}">
                             </div>
                         </div>
                         <div class="form-row">
-                            <div class="form-check form-check-inline">
-                                <input class="form-check-input" type="checkbox" id="smc" value="smc" name="univ">
-                                <label class="form-check-label" for="smc" style="margin-right: 5px;">Santa Monica Coll.</label>
-                            </div>
-                            <div class="form-check form-check-inline">
-                                <input class="form-check-input" type="checkbox" id="msmu" value="msmu" name="univ">
-                                <label class="form-check-label" for="msmu" style="margin-right: 5px;">Mount Saint Mary’s Univ.</label>
-                            </div>
-                            <div class="form-check form-check-inline">
-                                <input class="form-check-input" type="checkbox" id="scu" value="scu" name="univ">
-                                <label class="form-check-label" for="scu" style="margin-right: 5px;">Santa Clara Univ.</label>
+                            <div class="form-group col-md-12">
+                                <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="checkbox" id="smc" value="smc" name="univ">
+                                    <label class="form-check-label" for="smc" style="margin-right: 5px;">Santa Monica Coll.</label>
+                                </div>
+                                <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="checkbox" id="msmu" value="msmu" name="univ">
+                                    <label class="form-check-label" for="msmu" style="margin-right: 5px;">Mount Saint Mary’s Univ.</label>
+                                </div>
+                                <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="checkbox" id="scu" value="scu" name="univ">
+                                    <label class="form-check-label" for="scu" style="margin-right: 5px;">Santa Clara Univ.</label>
+                                </div>
                             </div>
                         </div>
                         <div class="form-row">
@@ -69,35 +72,40 @@
                         <div class="form-row">
                             <div class="form-group col-md-12">
                                 <label for="search-input">Keyword</label>
-                                <input type="search" class="form-control" id="keywords2" name="keywords2" placeholder="Computer">
+                                <input type="search" class="form-control" id="keywords2" name="keywords2" placeholder="Computer" value="{{ request.form['keywords2'] }}">
                             </div>
                         </div>
                         <div class="form-row">
-                            <div class="form-check form-check-inline">
-                              <input class="form-check-input" type="radio" id="title" name="field" value="title" checked>
-                              <label class="form-check-label" for="title">
-                                course title (e.g. computer)
-                              </label>
-                            </div>
-                            <div class="form-check form-check-inline">
-                              <input class="form-check-input" type="radio" id="initial" name="field" value="initial">
-                              <label class="form-check-label" for="initial">
-                                course initial (e.g. LAW 114)
-                              </label>
+                            <div class="form-group col-md-12">
+                                <label>Search field: </label>
+                                <div class="form-check form-check-inline">
+                                  <input class="form-check-input" type="radio" id="title" name="field" value="title" checked>
+                                  <label class="form-check-label" for="title">
+                                    course title (e.g. computer)
+                                  </label>
+                                </div>
+                                <div class="form-check form-check-inline">
+                                  <input class="form-check-input" type="radio" id="initial" name="field" value="initial">
+                                  <label class="form-check-label" for="initial">
+                                    course initial (e.g. LAW 114)
+                                  </label>
+                                </div>
                             </div>
                         </div>
                         <div class="form-row">
-                            <div class="form-check form-check-inline">
-                                <input class="form-check-input" type="checkbox" id="smc" value="smc" name="univ2">
-                                <label class="form-check-label" for="smc" style="margin-right: 5px;">Santa Monica Coll.</label>
-                            </div>
-                            <div class="form-check form-check-inline">
-                                <input class="form-check-input" type="checkbox" id="msmu" value="msmu" name="univ2">
-                                <label class="form-check-label" for="msmu" style="margin-right: 5px;">Mount Saint Mary’s Univ.</label>
-                            </div>
-                            <div class="form-check form-check-inline">
-                                <input class="form-check-input" type="checkbox" id="scu" value="scu" name="univ2">
-                                <label class="form-check-label" for="scu" style="margin-right: 5px;">Santa Clara Univ.</label>
+                            <div class="form-group col-md-12">
+                                <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="checkbox" id="smc" value="smc" name="univ2">
+                                    <label class="form-check-label" for="smc" style="margin-right: 5px;">Santa Monica Coll.</label>
+                                </div>
+                                <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="checkbox" id="msmu" value="msmu" name="univ2">
+                                    <label class="form-check-label" for="msmu" style="margin-right: 5px;">Mount Saint Mary’s Univ.</label>
+                                </div>
+                                <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="checkbox" id="scu" value="scu" name="univ2">
+                                    <label class="form-check-label" for="scu" style="margin-right: 5px;">Santa Clara Univ.</label>
+                                </div>
                             </div>
                         </div>
                         <div class="form-row">

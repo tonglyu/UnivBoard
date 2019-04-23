@@ -22,23 +22,15 @@
     {% endif %}
     
     {% if details['description']|length > 0 %}
-    <li>Description: {{ details['description'] }}</li>
+    {% autoescape false %}
+      <li>Description: {{ details['description'] | replace("\n", "<br/>") }}</li>
+    {% endautoescape %}
     {% endif %}
     
     {% if details['requirements']|length > 0 %}
-        {% if details['requirements'] is mapping %}
-            {% for key, values in details['requirements'].items() %}
-                <li>{{key}}</li>
-                <ul>
-                {% for value in values %}
-                    <li>{{value}}</li>
-                {% endfor %}
-                </ul>
-            {% endfor %}
-            <li></li>
-        {% else %}
-            <li>Requirements: {{ details['requirements'] }}</li>
-        {% endif %}
+    {% autoescape false %}
+      <li>Requirements: {{ details['requirements'] | replace("\n", "<br/>") }}</li>
+    {% endautoescape %}
     {% endif %}
     
     {% if details['units']|length > 0 %}
@@ -54,7 +46,7 @@
     {% endif %}
     
     {% if details['phone']|length > 0 %}
-    <li>Admission Link: {{ details['phone'] }}</li>
+    <li>Phone: {{ details['phone'] }}</li>
     {% endif %}
 </ul>
 {% if details['related courses']|length > 0 %}
@@ -74,6 +66,7 @@
       <div class="card-body">
             <ul>
                 <li>Course Title: {{ item['title'] }}</li>
+                
                 {% if item['university']|length > 0 %}
                 <li>University: {{ item['university'] }}</li>
                 {% endif %}
@@ -85,8 +78,16 @@
                 {% if item['department']|length > 0 %}
                 <li>Department: {{ item['department'] }}</li>
                 {% endif %}
-                <li>Description: {{ item['description'] }}</li>
+                
+                {% if item['description']|length > 0 %}
+                {% autoescape false %}
+                  <li>Description: {{ item['description'] | replace("\n", "<br/>") }}</li>
+                {% endautoescape %}
+                {% endif %}
+                
+                {% if item['units']|length > 0 %}
                 <li>Units: {{ item['units'] }}</li>
+                {% endif %}
             </ul>
       </div>
     </div>

@@ -54,9 +54,9 @@ def show_details():
     details = detail.getDetails(es)
     return render_template('details.html', details=details)
 
-@app.route('/feature')
-def feature():
-    return render_template('subsection.html')
+@app.route('/about')
+def about():
+    return render_template('about.html')
 
 if __name__ == '__main__':
     app.run()

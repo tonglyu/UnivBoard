@@ -35,7 +35,7 @@ def getPrograms(es):
         }
     }
     if keywords != "":
-        body["query"]["bool"]["must"].append({"match": {'title':keywords}})
+        body["query"]["bool"]["must"].append({"multi_match": {'query': keywords, 'fields': ["title", "degree"]}})
     for department in departments:
         body["query"]["bool"]["should"].append({"term": {'department.keyword':department}})
     if len(body["query"]["bool"]["should"]) > 0:
@@ -45,7 +45,7 @@ def getPrograms(es):
         index += university + suffix + ","
     if len(universities) == 0:
         index = "smc-program,msmu-program,scu-program"
-    results = es.search(index=index.rstrip(","), body=body)
+    results = es.search(index=index.rstrip(","), body=body, search_type="dfs_query_then_fetch")
     return results
 
 def getCourses(es):
@@ -82,5 +82,5 @@ def getCourses(es):
         index += university + suffix + ","
     if len(universities) == 0:
         index = "smc-course,msmu-course,scu-course"
-    results = es.search(index=index.rstrip(","), body=body)
+    results = es.search(index=index.rstrip(","), body=body, search_type="dfs_query_then_fetch")
     return results
