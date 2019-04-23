@@ -16,7 +16,7 @@
     background-color:ghostwhite;
 }
 
-@media only screen and (max-width: 575px) {
+@media only screen and (max-width: 900px) {
     .search-card {
         margin-top: 70px;
         width: 80%;

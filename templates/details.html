@@ -76,29 +76,29 @@
 
                 <div id="{{ item['initial'] }}" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
                   <div class="card-body">
-                        <ul>
-                            <li><strong>Course Title: {{ item['title'] }}</li>
+                        <ul class="list-group">
+                            <li class="list-group-item"><strong>Course Title:</strong> {{ item['title'] }}</li>
 
                             {% if item['university']|length > 0 %}
-                            <li><strong>University:</strong> {{ item['university'] }}</li>
+                            <li class="list-group-item"><strong>University:</strong> {{ item['university'] }}</li>
                             {% endif %}
 
                             {% if item['school']|length > 0 %}
-                            <li><strong>School:</strong> {{ item['school'] }}</li>
+                            <li class="list-group-item"><strong>School:</strong> {{ item['school'] }}</li>
                             {% endif %}
 
                             {% if item['department']|length > 0 %}
-                            <li><strong>Department:</strong> {{ item['department'] }}</li>
+                            <li class="list-group-item"><strong>Department:</strong> {{ item['department'] }}</li>
                             {% endif %}
 
                             {% if item['description']|length > 0 %}
                             {% autoescape false %}
-                            <li><strong>Description:</strong> {{ item['description'] | replace("\n", "<br/>") }}</li>
+                            <li class="list-group-item"><strong>Description:</strong> {{ item['description'] | replace("\n", "<br/>") }}</li>
                             {% endautoescape %}
                             {% endif %}
 
                             {% if item['units']|length > 0 %}
-                            <li>Units: {{ item['units'] }}</li>
+                            <li class="list-group-item"><strong>Units:</strong> {{ item['units'] }}</li>
                             {% endif %}
                         </ul>
                   </div>
