@@ -21,7 +21,6 @@ def getPrograms(es):
     keywords = request.form['keywords']
     universities = request.values.getlist('univ')
     departments = request.values.getlist('depart')
-    print(departments)
     # return 50 results
     body = {
         "from" : 0,

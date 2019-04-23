@@ -169,7 +169,8 @@ $('input[name=univ]').change(function(){
     }
     
     $("#department option").val(function(idx, val) {
-      $(this).siblings('[value="'+ val +'"]').remove();
+      $(this).siblings('[text="'+ val +'"]').remove();
+        return val;
     });
     $('#department').selectpicker('refresh');
 });
@@ -200,7 +201,8 @@ $('input[name=univ2]').change(function(){
     }
     
     $("#department2 option").val(function(idx, val) {
-      $(this).siblings('[value="'+ val +'"]').remove();
+      $(this).siblings('[text="'+ val +'"]').remove();
+        return val;
     });
     $('#department2').selectpicker('refresh');
 });
