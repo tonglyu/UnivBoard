@@ -60,7 +60,7 @@
                         </div>
                         <div class="form-row">
                             <div class="form-group col-md-12">
-                                <select class="selectpicker form-control" multiple data-live-search="true" id="department" title="Please first choose one or more universities" data-actions-box="true" data-dropup-auto="false" name="depart">
+                                <select class="selectpicker form-control" multiple data-live-search="true" id="department" title="Please first choose one or more universities" data-actions-box="true" data-dropup-auto="false" name="depart" data-size="5">
                                 </select>
                             </div>
                         </div>
@@ -110,7 +110,7 @@
                         </div>
                         <div class="form-row">
                             <div class="form-group col-md-12">
-                                <select class="selectpicker form-control" multiple data-live-search="true" id="department2" title="Please first choose one or more universities" data-actions-box="true" data-dropup-auto="false" name="depart2">
+                                <select class="selectpicker form-control" multiple data-live-search="true" id="department2" title="Please first choose one or more universities" data-actions-box="true" data-dropup-auto="false" name="depart2" data-size="5">
                                 </select>
                             </div>
                         </div>
@@ -167,6 +167,10 @@ $('input[name=univ]').change(function(){
     else {
         $('#department option[label="'+$(this).val()+'"]').remove();
     }
+    
+    $("#department option").val(function(idx, val) {
+      $(this).siblings('[value="'+ val +'"]').remove();
+    });
     $('#department').selectpicker('refresh');
 });
                  
@@ -194,9 +198,13 @@ $('input[name=univ2]').change(function(){
     else {
         $('#department2 option[label="'+$(this).val()+'"]').remove();
     }
+    
+    $("#department2 option").val(function(idx, val) {
+      $(this).siblings('[value="'+ val +'"]').remove();
+    });
     $('#department2').selectpicker('refresh');
 });
-
+                 
 function createOption(ddl, text, label) {
     var opt = document.createElement("Option");
     opt.text = text;
