@@ -29107,8 +29107,7 @@
             "EDUC 285",
             "EDUC 285 M",
             "EDUC 286",
-            "EDUC 286 M",
-            "SDAIE)"
+            "EDUC 286 M"
         ]
     },
     {
@@ -29116,7 +29115,7 @@
         "type": "Graduate",
         "id": "285B",
         "title": "Secondary English Methods II",
-        "description": "EDUC 285A and EDUC\u00a0285B are designed to enable single subject credential candidates to develop the pedagogical content knowledge necessary to teach their specific academic subject, Secondary English/World Lang. Methods, effectively to all students. Special attention is paid to developing candidates\u2019 ability to use Specially Designed Academic Instruction in English (SDAIE) skills to give all students equitable access to curriculum content. All single subject credential candidates are required to take the EDUC 285A Methods I and EDUC 285B Methods II blocks in the content area aligned with the credential they are seeking.",
+        "description": "EDUC 285A and EDUC 285B are designed to enable single subject credential candidates to develop the pedagogical content knowledge necessary to teach their specific academic subject, Secondary English/World Lang. Methods, effectively to all students. Special attention is paid to developing candidates\u2019 ability to use Specially Designed Academic Instruction in English (SDAIE) skills to give all students equitable access to curriculum content. All single subject credential candidates are required to take the EDUC 285A Methods I and EDUC 285B Methods II blocks in the content area aligned with the credential they are seeking.",
         "units": "",
         "university": "Santa Clara University",
         "school": "School of Education and Counseling Psychology",
@@ -29124,10 +29123,7 @@
         "initial": "EDUC 285B",
         "related courses": [
             "EDUC 285A",
-            "EDUC 285A M",
-            "EDUC 285B M",
-            "EDUC\u00a0285B",
-            "SDAIE)"
+            "EDUC 285B"
         ]
     },
     {
@@ -29142,8 +29138,7 @@
         "department": "Graduate",
         "initial": "EDUC 286A",
         "related courses": [
-            "EDUC 231C",
-            "SDAIE)"
+            "EDUC 231C"
         ]
     },
     {
@@ -29232,9 +29227,7 @@
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
         "initial": "EDUC 289A",
-        "related courses": [
-            "SDAIE)"
-        ]
+        "related courses": []
     },
     {
         "abbr": "EDUC",
@@ -29247,9 +29240,7 @@
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
         "initial": "EDUC 289B",
-        "related courses": [
-            "SDAIE)"
-        ]
+        "related courses": []
     },
     {
         "abbr": "EDUC",
@@ -29689,8 +29680,7 @@
         "department": "Graduate",
         "initial": "CPSY 214",
         "related courses": [
-            "CPSY 224",
-            "NOTE: S"
+            "CPSY 224"
         ]
     },
     {
@@ -29782,10 +29772,7 @@
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
         "initial": "CPSY 221",
-        "related courses": [
-            "LPCC",
-            "LPCC/MFT"
-        ]
+        "related courses": []
     },
     {
         "abbr": "CPSY",
@@ -29798,11 +29785,7 @@
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
         "initial": "CPSY 222",
-        "related courses": [
-            "LPCC",
-            "MFT/LPCC",
-            "NOTE: T"
-        ]
+        "related courses": []
     },
     {
         "abbr": "CPSY",
@@ -29854,9 +29837,7 @@
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
         "initial": "CPSY 231",
-        "related courses": [
-            "SES"
-        ]
+        "related courses": []
     },
     {
         "abbr": "CPSY",
@@ -29895,12 +29876,7 @@
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
         "initial": "CPSY 245",
-        "related courses": [
-            " IFSP",
-            " ILP",
-            " ITP",
-            "IEP"
-        ]
+        "related courses": []
     },
     {
         "abbr": "CPSY",
@@ -29939,10 +29915,7 @@
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
         "initial": "CPSY 265",
-        "related courses": [
-            "CBT",
-            "CBT)"
-        ]
+        "related courses": []
     },
     {
         "abbr": "CPSY",
@@ -30074,10 +30047,7 @@
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
         "initial": "CPSY 302",
-        "related courses": [
-            "LPCC",
-            "LPCC/MFT T"
-        ]
+        "related courses": []
     },
     {
         "abbr": "CPSY",
@@ -30174,13 +30144,7 @@
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
         "initial": "CPSY 313",
-        "related courses": [
-            "CEU'",
-            "CPD. T",
-            "LPCC",
-            "MFT/LPCC C",
-            "NOTE: 78"
-        ]
+        "related courses": []
     },
     {
         "abbr": "CPSY",
@@ -30286,9 +30250,7 @@
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
         "initial": "CPSY 324",
-        "related courses": [
-            "NOTE: T"
-        ]
+        "related courses": []
     },
     {
         "abbr": "CPSY",
@@ -30301,12 +30263,7 @@
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
         "initial": "CPSY 328",
-        "related courses": [
-            "DSM",
-            "LPCC",
-            "MFT/LPCC C",
-            "NOTE: T"
-        ]
+        "related courses": []
     },
     {
         "abbr": "CPSY",
@@ -30332,9 +30289,7 @@
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
         "initial": "CPSY 331C",
-        "related courses": [
-            "NOTE: T"
-        ]
+        "related courses": []
     },
     {
         "abbr": "CPSY",
@@ -30386,10 +30341,7 @@
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
         "initial": "CPSY 333",
-        "related courses": [
-            "LPCC",
-            "MFT"
-        ]
+        "related courses": []
     },
     {
         "abbr": "CPSY",
@@ -30446,11 +30398,7 @@
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
         "initial": "CPSY 361",
-        "related courses": [
-            "LPCC",
-            "MFT/LPCC",
-            "NOTE: 78 U"
-        ]
+        "related courses": []
     },
     {
         "abbr": "CPSY",
@@ -31119,8 +31067,7 @@
             "EDUC 285",
             "EDUC 285 M",
             "EDUC 286",
-            "EDUC 286 M",
-            "SDAIE)"
+            "EDUC 286 M"
         ]
     },
     {
@@ -31128,7 +31075,7 @@
         "type": "Graduate",
         "id": "285B",
         "title": "Secondary English Methods II",
-        "description": "EDUC 285A and EDUC\u00a0285B are designed to enable single subject credential candidates to develop the pedagogical content knowledge necessary to teach their specific academic subject, Secondary English/World Lang. Methods, effectively to all students. Special attention is paid to developing candidates\u2019 ability to use Specially Designed Academic Instruction in English (SDAIE) skills to give all students equitable access to curriculum content. All single subject credential candidates are required to take the EDUC 285A Methods I and EDUC 285B Methods II blocks in the content area aligned with the credential they are seeking.",
+        "description": "EDUC 285A and EDUC 285B are designed to enable single subject credential candidates to develop the pedagogical content knowledge necessary to teach their specific academic subject, Secondary English/World Lang. Methods, effectively to all students. Special attention is paid to developing candidates\u2019 ability to use Specially Designed Academic Instruction in English (SDAIE) skills to give all students equitable access to curriculum content. All single subject credential candidates are required to take the EDUC 285A Methods I and EDUC 285B Methods II blocks in the content area aligned with the credential they are seeking.",
         "units": "",
         "university": "Santa Clara University",
         "school": "School of Education and Counseling Psychology",
@@ -31136,10 +31083,7 @@
         "initial": "EDUC 285B",
         "related courses": [
             "EDUC 285A",
-            "EDUC 285A M",
-            "EDUC 285B M",
-            "EDUC\u00a0285B",
-            "SDAIE)"
+            "EDUC 285B"
         ]
     },
     {
@@ -31154,8 +31098,7 @@
         "department": "Graduate",
         "initial": "EDUC 286A",
         "related courses": [
-            "EDUC 231C",
-            "SDAIE)"
+            "EDUC 231C"
         ]
     },
     {
@@ -31244,9 +31187,7 @@
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
         "initial": "EDUC 289A",
-        "related courses": [
-            "SDAIE)"
-        ]
+        "related courses": []
     },
     {
         "abbr": "EDUC",
@@ -31259,9 +31200,7 @@
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
         "initial": "EDUC 289B",
-        "related courses": [
-            "SDAIE)"
-        ]
+        "related courses": []
     },
     {
         "abbr": "EDUC",
@@ -31794,10 +31733,7 @@
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
         "initial": "CPSY 221",
-        "related courses": [
-            "LPCC",
-            "LPCC/MFT"
-        ]
+        "related courses": []
     },
     {
         "abbr": "CPSY",
@@ -31810,11 +31746,7 @@
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
         "initial": "CPSY 222",
-        "related courses": [
-            "LPCC",
-            "MFT/LPCC",
-            "NOTE: T"
-        ]
+        "related courses": []
     },
     {
         "abbr": "CPSY",
@@ -31866,9 +31798,7 @@
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
         "initial": "CPSY 231",
-        "related courses": [
-            "SES"
-        ]
+        "related courses": []
     },
     {
         "abbr": "CPSY",
@@ -31951,10 +31881,7 @@
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
         "initial": "CPSY 265",
-        "related courses": [
-            "CBT",
-            "CBT)"
-        ]
+        "related courses": []
     },
     {
         "abbr": "CPSY",
@@ -32086,10 +32013,7 @@
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
         "initial": "CPSY 302",
-        "related courses": [
-            "LPCC",
-            "LPCC/MFT T"
-        ]
+        "related courses": []
     },
     {
         "abbr": "CPSY",
@@ -32186,13 +32110,7 @@
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
         "initial": "CPSY 313",
-        "related courses": [
-            "CEU'",
-            "CPD. T",
-            "LPCC",
-            "MFT/LPCC C",
-            "NOTE: 78"
-        ]
+        "related courses": []
     },
     {
         "abbr": "CPSY",
@@ -32313,12 +32231,7 @@
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
         "initial": "CPSY 328",
-        "related courses": [
-            "DSM",
-            "LPCC",
-            "MFT/LPCC C",
-            "NOTE: T"
-        ]
+        "related courses": []
     },
     {
         "abbr": "CPSY",
@@ -32398,10 +32311,7 @@
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
         "initial": "CPSY 333",
-        "related courses": [
-            "LPCC",
-            "MFT"
-        ]
+        "related courses": []
     },
     {
         "abbr": "CPSY",
@@ -32458,11 +32368,7 @@
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
         "initial": "CPSY 361",
-        "related courses": [
-            "LPCC",
-            "MFT/LPCC",
-            "NOTE: 78 U"
-        ]
+        "related courses": []
     },
     {
         "abbr": "CPSY",
@@ -34621,8 +34527,6 @@
         "department": "Economics",
         "initial": "ECON 2401",
         "related courses": [
-            "MSE",
-            "MSF",
             "OMIS 2353"
         ]
     },
@@ -35104,8 +35008,6 @@
         "department": "Marketing",
         "initial": "MKTG 3596",
         "related courses": [
-            "IMC",
-            "IMC)",
             "MKTG 3000",
             "MKTG 3552",
             "MKTG 553"
@@ -35261,8 +35163,6 @@
         "department": "Marketing",
         "initial": "MKTG 3803",
         "related courses": [
-            "ABM",
-            "ABM)",
             "MKTG 3000"
         ]
     },
@@ -35330,8 +35230,7 @@
         "department": "Finance",
         "initial": "FNCE 118",
         "related courses": [
-            "ACTG 11",
-            "GPA. P"
+            "ACTG 11"
         ]
     },
     {
@@ -36161,8 +36060,7 @@
         "school": "Leavey School of Business",
         "department": "Operations Management and Information Systems",
         "related courses": [
-            "OMIS 15",
-            "SQL"
+            "OMIS 15"
         ]
     },
     {
@@ -36196,9 +36094,7 @@
             "COEN 11",
             "CSCI 10",
             "MATH 10",
-            "NET",
-            "OMIS 30",
-            "PHP. S"
+            "OMIS 30"
         ]
     },
     {
@@ -37075,8 +36971,7 @@
         "department": "Information Systems",
         "initial": "MSIS 2627",
         "related courses": [
-            "MSIS 2601",
-            "SQL"
+            "MSIS 2601"
         ]
     },
     {
@@ -37091,7 +36986,6 @@
         "department": "Information Systems",
         "initial": "MSIS 2628",
         "related courses": [
-            "IMS. P",
             "MSIS 2601"
         ]
     },
@@ -37122,11 +37016,7 @@
         "department": "Information Systems",
         "initial": "MSIS 2630",
         "related courses": [
-            " CSS",
-            " J",
-            "HTML",
-            "MSIS 2601",
-            "PHP"
+            "MSIS 2601"
         ]
     },
     {
@@ -37141,7 +37031,6 @@
         "department": "Information Systems",
         "initial": "MSIS 2640",
         "related courses": [
-            "MSIS",
             "MSIS 2642"
         ]
     },
@@ -37609,10 +37498,7 @@
         "school": "School of Engineering",
         "department": "General Engineering",
         "initial": "ENGR 91",
-        "related courses": [
-            "BIM",
-            "LEED"
-        ]
+        "related courses": []
     },
     {
         "abbr": "ENGR",
@@ -38482,9 +38368,7 @@
         "school": "School of Engineering",
         "department": "Applied Mathematics",
         "initial": "AMTH 358",
-        "related courses": [
-            "MATLAB"
-        ]
+        "related courses": []
     },
     {
         "abbr": "AMTH",
@@ -40371,13 +40255,11 @@
         "department": "Bioengineering",
         "initial": "BIOE 167",
         "related courses": [
-            " CT",
             "BIOE 162",
             "BIOE 267",
             "ELEN 110",
             "ELEN 167",
-            "MECH 142",
-            "MRI"
+            "MECH 142"
         ]
     },
     {
@@ -40766,11 +40648,9 @@
         "department": "Bioengineering",
         "initial": "BIOE 203",
         "related courses": [
-            " P",
             "BIOE 168",
             "ELEN 201",
-            "ELEN 203",
-            "SAR"
+            "ELEN 203"
         ]
     },
     {
@@ -41856,8 +41736,7 @@
         "initial": "COEN 45",
         "related courses": [
             "COEN 45L",
-            "MATH 13",
-            "MATLAB"
+            "MATH 13"
         ]
     },
     {
@@ -42033,8 +41912,6 @@
             "COEN 122L",
             "COEN 20",
             "COEN 21",
-            "CPU",
-            "CPU. P",
             "ELEN 21",
             "ELEN 33"
         ]
@@ -42102,14 +41979,10 @@
         "department": "Computer Engineering",
         "initial": "COEN 127",
         "related courses": [
-            " PLDS",
             "COEN 127L",
             "COEN 21",
             "ELEN 115",
-            "ELEN 127",
-            "FPGA",
-            "HDL",
-            "MSI"
+            "ELEN 127"
         ]
     },
     {
@@ -42124,7 +41997,6 @@
         "department": "Computer Engineering",
         "initial": "COEN 127L",
         "related courses": [
-            "CAD",
             "COEN 127",
             "ELEN 127L"
         ]
@@ -42206,9 +42078,7 @@
             "COEN 146L",
             "CSCI 61",
             "FTP. T",
-            "MATH 122",
-            "TCP",
-            "UDP"
+            "MATH 122"
         ]
     },
     {
@@ -42488,8 +42358,7 @@
             "COEN 168L",
             "COEN 20",
             "COEN 268",
-            "COEN 79",
-            "GPS"
+            "COEN 79"
         ]
     },
     {
@@ -42719,9 +42588,7 @@
         "related courses": [
             "COEN 12",
             "COEN 178L",
-            "CSCI 61",
-            "DDL. T",
-            "SQL"
+            "CSCI 61"
         ]
     },
     {
@@ -42810,9 +42677,7 @@
         "school": "School of Engineering",
         "department": "Computer Engineering",
         "initial": "COEN 193",
-        "related courses": [
-            "GPA"
-        ]
+        "related courses": []
     },
     {
         "abbr": "COEN",
@@ -42913,11 +42778,7 @@
         "department": "Computer Engineering",
         "initial": "COEN 203",
         "related courses": [
-            "CAD",
-            "CMOS",
-            "ELEN 387",
-            "SPICE)",
-            "VLSI"
+            "ELEN 387"
         ]
     },
     {
@@ -42967,10 +42828,7 @@
         "initial": "COEN 233",
         "related courses": [
             "AMTH 108",
-            "COEN 20",
-            "FTP. T",
-            "TCP",
-            "UDP"
+            "COEN 20"
         ]
     },
     {
@@ -43110,8 +42968,7 @@
         "department": "Computer Engineering",
         "initial": "COEN 268",
         "related courses": [
-            "CSCI 61",
-            "GPS"
+            "CSCI 61"
         ]
     },
     {
@@ -43126,8 +42983,7 @@
         "department": "Computer Engineering",
         "initial": "COEN 275",
         "related courses": [
-            "COEN 70",
-            "UML"
+            "COEN 70"
         ]
     },
     {
@@ -43217,10 +43073,7 @@
         "school": "School of Engineering",
         "department": "Computer Engineering",
         "initial": "COEN 285",
-        "related courses": [
-            "CASE. T",
-            "OOA/OOD"
-        ]
+        "related courses": []
     },
     {
         "abbr": "COEN",
@@ -43317,8 +43170,7 @@
         "department": "Computer Engineering",
         "initial": "COEN 303",
         "related courses": [
-            "ELEN 603",
-            "HDL. S"
+            "ELEN 603"
         ]
     },
     {
@@ -43333,11 +43185,7 @@
         "department": "Computer Engineering",
         "initial": "COEN 313",
         "related courses": [
-            " NUMA",
-            "COEN 210",
-            "SIMD",
-            "UMA",
-            "VLIW"
+            "COEN 210"
         ]
     },
     {
@@ -43351,9 +43199,7 @@
         "school": "School of Engineering",
         "department": "Computer Engineering",
         "initial": "COEN 315",
-        "related courses": [
-            "HTTP"
-        ]
+        "related courses": []
     },
     {
         "abbr": "COEN",
@@ -43383,16 +43229,7 @@
         "department": "Computer Engineering",
         "initial": "COEN 329",
         "related courses": [
-            " MAN",
-            " P",
-            " WAN",
-            "COEN 233",
-            "GMPLS",
-            "LAN",
-            "LAN S",
-            "PON",
-            "VPLS",
-            "VPN"
+            "COEN 233"
         ]
     },
     {
@@ -43407,13 +43244,7 @@
         "department": "Computer Engineering",
         "initial": "COEN 331",
         "related courses": [
-            " TDMA",
-            "CDMA;",
-            "COEN 233",
-            "DSSS. S",
-            "FDMA",
-            "FHSS",
-            "LANS;"
+            "COEN 233"
         ]
     },
     {
@@ -43428,9 +43259,7 @@
         "department": "Computer Engineering",
         "initial": "COEN 332",
         "related courses": [
-            "COEN 331",
-            "IMS",
-            "UMTS"
+            "COEN 331"
         ]
     },
     {
@@ -43445,15 +43274,7 @@
         "department": "Computer Engineering",
         "initial": "COEN 335",
         "related courses": [
-            " L",
-            " MAN",
-            " P",
-            " WAN",
-            "COEN 233",
-            "CWDM. T",
-            "DWDM",
-            "LAN",
-            "SONET/SDH"
+            "COEN 233"
         ]
     },
     {
@@ -43500,16 +43321,8 @@
         "department": "Computer Engineering",
         "initial": "COEN 347",
         "related courses": [
-            " 3D",
-            " MV",
             "COEN 338",
-            "ELEN 641",
-            "HDR. L",
-            "HEVC",
-            "JPEG 2000",
-            "JPEG JVET",
-            "SCC. S",
-            "SHVC"
+            "ELEN 641"
         ]
     },
     {
@@ -43524,9 +43337,7 @@
         "department": "Computer Engineering",
         "initial": "COEN 350",
         "related courses": [
-            " PGP",
-            "COEN 250",
-            "SSH"
+            "COEN 250"
         ]
     },
     {
@@ -43677,8 +43488,7 @@
         "department": "Computer Engineering",
         "initial": "COEN 400",
         "related courses": [
-            "COEN 400",
-            "SCU. P"
+            "COEN 400"
         ]
     },
     {
@@ -43694,8 +43504,7 @@
         "initial": "COEN 485",
         "related courses": [
             "COEN 286",
-            "COEN 386",
-            "MSSE"
+            "COEN 386"
         ]
     },
     {
@@ -44293,7 +44102,6 @@
         "related courses": [
             "COEN 44",
             "COEN 45",
-            "MATLAB",
             "MECH 15"
         ]
     },
@@ -44420,7 +44228,6 @@
         "initial": "MECH 163",
         "related courses": [
             "CENG 43",
-            "CES E",
             "MECH 11"
         ]
     },
@@ -44994,10 +44801,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 21",
         "related courses": [
-            "CAD",
             "COEN 21",
-            "ELEN 21L",
-            "HDL"
+            "ELEN 21L"
         ]
     },
     {
@@ -45215,8 +45020,7 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 110L",
         "related courses": [
-            "ELEN 110",
-            "MATLAB"
+            "ELEN 110"
         ]
     },
     {
@@ -45324,10 +45128,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 117",
         "related courses": [
-            "BJT",
             "ELEN 116",
-            "ELEN 117L",
-            "MOSFET"
+            "ELEN 117L"
         ]
     },
     {
@@ -45357,13 +45159,9 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 118",
         "related courses": [
-            "CMOS",
             "ELEN 100",
             "ELEN 118L",
-            "ELEN 21",
-            "MATLAB",
-            "SPICE)",
-            "SPICE. P"
+            "ELEN 21"
         ]
     },
     {
@@ -45444,9 +45242,7 @@
         "related courses": [
             "COEN 127",
             "ELEN 127L",
-            "ELEN 21",
-            "FPGA",
-            "HDL"
+            "ELEN 21"
         ]
     },
     {
@@ -45461,7 +45257,6 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 127L",
         "related courses": [
-            "CAD",
             "COEN 127L",
             "ELEN 127"
         ]
@@ -45510,8 +45305,7 @@
         "initial": "ELEN 131",
         "related courses": [
             "ELEN 110",
-            "ELEN 131L",
-            "PID"
+            "ELEN 131L"
         ]
     },
     {
@@ -45544,8 +45338,7 @@
             "COEN 19",
             "ELEN 110",
             "ELEN 133L",
-            "ELEN 50",
-            "FFT. A"
+            "ELEN 50"
         ]
     },
     {
@@ -45683,8 +45476,7 @@
         "initial": "ELEN 151",
         "related courses": [
             "ELEN 104",
-            "ELEN 151L",
-            "MOS"
+            "ELEN 151L"
         ]
     },
     {
@@ -45713,9 +45505,7 @@
         "school": "School of Engineering",
         "department": "Electrical Engineering",
         "initial": "ELEN 152",
-        "related courses": [
-            "MOS"
-        ]
+        "related courses": []
     },
     {
         "abbr": "ELEN",
@@ -45744,11 +45534,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 153",
         "related courses": [
-            "CAD",
-            "CMOS",
             "ELEN 153L",
-            "ELEN 50",
-            "VLSI"
+            "ELEN 50"
         ]
     },
     {
@@ -45815,8 +45602,7 @@
         "related courses": [
             "AMTH 106",
             "ELEN 160L",
-            "ELEN 217",
-            "MATLAB. C"
+            "ELEN 217"
         ]
     },
     {
@@ -45847,8 +45633,7 @@
         "initial": "ELEN 161",
         "related courses": [
             "AMTH 106",
-            "ELEN 161L",
-            "MATLAB. C"
+            "ELEN 161L"
         ]
     },
     {
@@ -45909,12 +45694,10 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 167",
         "related courses": [
-            " CT",
             "BIOE 162",
             "BIOE 167",
             "ELEN 110",
-            "MECH 142",
-            "MRI"
+            "MECH 142"
         ]
     },
     {
@@ -46147,11 +45930,9 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 203",
         "related courses": [
-            " P",
             "BIOE 168",
             "BIOE 203",
-            "ELEN 201",
-            "SAR"
+            "ELEN 201"
         ]
     },
     {
@@ -46213,8 +45994,7 @@
         "initial": "ELEN 217",
         "related courses": [
             "AMTH 106",
-            "ELEN 160",
-            "MATLAB."
+            "ELEN 160"
         ]
     },
     {
@@ -46229,12 +46009,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 219",
         "related courses": [
-            "CMOS",
             "ELEN 115",
-            "ELEN 21",
-            "MATLAB",
-            "SPICE)",
-            "SPICE. C"
+            "ELEN 21"
         ]
     },
     {
@@ -46249,7 +46025,6 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 223",
         "related courses": [
-            "DSP",
             "ELEN 233E",
             "ELEN 234"
         ]
@@ -46266,14 +46041,9 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 226",
         "related courses": [
-            "CNN",
             "ELEN 127",
             "ELEN 133",
-            "ELEN 234",
-            "FPGA",
-            "FPGA;",
-            "HLS",
-            "HLS) FPGA"
+            "ELEN 234"
         ]
     },
     {
@@ -46385,9 +46155,7 @@
         "initial": "ELEN 234",
         "related courses": [
             "COEN 202",
-            "ELEN 233",
-            "FIR",
-            "IIR"
+            "ELEN 233"
         ]
     },
     {
@@ -46404,10 +46172,7 @@
         "related courses": [
             "AMTH 211",
             "AMTH 212",
-            "AMTH 247",
-            "MATLAB.",
-            "MLE)",
-            "MVUE)"
+            "AMTH 247"
         ]
     },
     {
@@ -46455,8 +46220,7 @@
         "related courses": [
             "ELEN 237",
             "MECH 324",
-            "MECH 420",
-            "MPC"
+            "MECH 420"
         ]
     },
     {
@@ -46500,10 +46264,7 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 243",
         "related courses": [
-            " FSK",
-            " PSK",
-            "ELEN 241",
-            "QAM"
+            "ELEN 241"
         ]
     },
     {
@@ -46534,8 +46295,7 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 247",
         "related courses": [
-            "ELEN 233",
-            "MATLAB\u00ae"
+            "ELEN 233"
         ]
     },
     {
@@ -46550,9 +46310,7 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 248",
         "related courses": [
-            "ELEN 247",
-            "MATLAB",
-            "OFDM"
+            "ELEN 247"
         ]
     },
     {
@@ -46580,7 +46338,6 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 250",
         "related courses": [
-            "BJT)",
             "ELEN 50"
         ]
     },
@@ -46612,8 +46369,6 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 252",
         "related courses": [
-            "BJT",
-            "CMOS",
             "ELEN 115"
         ]
     },
@@ -46644,10 +46399,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 254",
         "related courses": [
-            "BJT",
             "ELEN 116",
-            "ELEN 117L",
-            "MOSFET"
+            "ELEN 117L"
         ]
     },
     {
@@ -46704,9 +46457,7 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 265",
         "related courses": [
-            "CMOS",
-            "ELEN 264",
-            "MOSFET"
+            "ELEN 264"
         ]
     },
     {
@@ -46737,10 +46488,7 @@
         "school": "School of Engineering",
         "department": "Electrical Engineering",
         "initial": "ELEN 267",
-        "related courses": [
-            "BJT",
-            "CMOS"
-        ]
+        "related courses": []
     },
     {
         "abbr": "ELEN",
@@ -46795,8 +46543,7 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 275",
         "related courses": [
-            "ELEN 270",
-            "MOS"
+            "ELEN 270"
         ]
     },
     {
@@ -46813,8 +46560,7 @@
         "related courses": [
             "ELEN 151",
             "ELEN 152",
-            "ELEN 270",
-            "MOS"
+            "ELEN 270"
         ]
     },
     {
@@ -46860,8 +46606,7 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 278A",
         "related courses": [
-            "ELEN 201",
-            "SPICE"
+            "ELEN 201"
         ]
     },
     {
@@ -46977,9 +46722,7 @@
         "school": "School of Engineering",
         "department": "Electrical Engineering",
         "initial": "ELEN 284",
-        "related courses": [
-            "LCOE"
-        ]
+        "related courses": []
     },
     {
         "abbr": "ELEN",
@@ -47051,8 +46794,7 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 288",
         "related courses": [
-            "COEN 282",
-            "EMS)"
+            "COEN 282"
         ]
     },
     {
@@ -47079,9 +46821,7 @@
         "school": "School of Engineering",
         "department": "Electrical Engineering",
         "initial": "ELEN 297",
-        "related courses": [
-            "MSEE. B"
-        ]
+        "related courses": []
     },
     {
         "abbr": "ELEN",
@@ -47184,10 +46924,7 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 335",
         "related courses": [
-            " M",
-            "ELEN 235",
-            "MAP)",
-            "MMSE)"
+            "ELEN 235"
         ]
     },
     {
@@ -47235,8 +46972,7 @@
         "initial": "ELEN 338",
         "related courses": [
             "ELEN 236",
-            "MECH 338",
-            "PID"
+            "MECH 338"
         ]
     },
     {
@@ -47297,9 +47033,7 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 348",
         "related courses": [
-            "DSP",
-            "ELEN 226",
-            "SDR)"
+            "ELEN 226"
         ]
     },
     {
@@ -47314,8 +47048,7 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 351",
         "related courses": [
-            "ELEN 252",
-            "RFIC"
+            "ELEN 252"
         ]
     },
     {
@@ -47345,11 +47078,8 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 353",
         "related courses": [
-            "CCM",
-            "DCM)",
             "ELEN 236",
-            "ELEN 252",
-            "MOSFET"
+            "ELEN 252"
         ]
     },
     {
@@ -47364,8 +47094,7 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 354",
         "related courses": [
-            "ELEN 351",
-            "RFIC"
+            "ELEN 351"
         ]
     },
     {
@@ -47412,8 +47141,7 @@
         "initial": "ELEN 361",
         "related courses": [
             "ELEN 265",
-            "ELEN 267",
-            "ITRS R"
+            "ELEN 267"
         ]
     },
     {
@@ -47457,11 +47185,7 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 387",
         "related courses": [
-            "CAD",
-            "CMOS",
-            "COEN 203",
-            "SPICE)",
-            "VLSI"
+            "COEN 203"
         ]
     },
     {
@@ -47479,8 +47203,7 @@
             "COEN 203",
             "COEN 204",
             "ELEN 153",
-            "ELEN 387",
-            "VLSI"
+            "ELEN 387"
         ]
     },
     {
@@ -47525,10 +47248,7 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 391",
         "related courses": [
-            " 2D",
-            "CMOS",
-            "ELEN 274",
-            "TCAD"
+            "ELEN 274"
         ]
     },
     {
@@ -47544,9 +47264,7 @@
         "initial": "ELEN 421",
         "related courses": [
             "COEN 348",
-            "ELEN 334",
-            "LPC M",
-            "LPC P"
+            "ELEN 334"
         ]
     },
     {
@@ -47562,7 +47280,6 @@
         "initial": "ELEN 422",
         "related courses": [
             "COEN 349",
-            "DSP",
             "ELEN 421"
         ]
     },
@@ -47578,13 +47295,7 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 423",
         "related courses": [
-            " H",
-            " SIP",
-            "DTMF/MF",
-            "ELEN 233",
-            "MGCP/MEGACO",
-            "PSTN",
-            "RTP/RTCP"
+            "ELEN 233"
         ]
     },
     {
@@ -47601,11 +47312,7 @@
         "related courses": [
             "AMTH 362",
             "ELEN 233",
-            "ELEN 334",
-            "IIR",
-            "LMS",
-            "LMS)",
-            "RLS)"
+            "ELEN 334"
         ]
     },
     {
@@ -47859,8 +47566,7 @@
         "initial": "ELEN 603",
         "related courses": [
             "COEN 303",
-            "ELEN 127",
-            "HDL. S"
+            "ELEN 127"
         ]
     },
     {
@@ -47891,7 +47597,6 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 605",
         "related courses": [
-            "CAD",
             "COEN 301",
             "ELEN 500",
             "ELEN 603"
@@ -47909,8 +47614,6 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 608",
         "related courses": [
-            "BIST)",
-            "CAD)",
             "COEN 308",
             "ELEN 500"
         ]
@@ -47927,15 +47630,11 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 609",
         "related courses": [
-            "BIST",
             "COEN 200",
             "COEN 203",
-            "DFT",
-            "EDA",
             "ELEN 387",
             "ELEN 500",
-            "IEEE 1149",
-            "PLL"
+            "IEEE 1149"
         ]
     },
     {
@@ -47970,10 +47669,8 @@
         "related courses": [
             "COEN 200",
             "COEN 208",
-            "EDA",
             "ELEN 500",
-            "ELEN 603",
-            "TTM"
+            "ELEN 603"
         ]
     },
     {
@@ -48001,7 +47698,6 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 620",
         "related courses": [
-            "DFT",
             "ELEN 388",
             "ELEN 500",
             "ELEN 603"
@@ -48019,10 +47715,7 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 624",
         "related courses": [
-            "CAD. P",
-            "ELEN 201",
-            "PCB",
-            "VLSI"
+            "ELEN 201"
         ]
     },
     {
@@ -48071,14 +47764,7 @@
         "initial": "ELEN 641",
         "related courses": [
             "AMTH 108",
-            "COEN 338",
-            "HEVC. A",
-            "HEVC/H 265",
-            "JPEG. V",
-            "JVET",
-            "MPEG",
-            "MPEG-4 AVC",
-            "MPEG-H P"
+            "COEN 338"
         ]
     },
     {
@@ -48171,12 +47857,7 @@
         "school": "School of Engineering",
         "department": "Electrical Engineering",
         "initial": "ELEN 701",
-        "related courses": [
-            " RF",
-            "DBS)",
-            "GPS)",
-            "RFID)"
-        ]
+        "related courses": []
     },
     {
         "abbr": "ELEN",
@@ -48190,9 +47871,7 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 706",
         "related courses": [
-            "CAD. P",
-            "ELEN 201",
-            "TEM"
+            "ELEN 201"
         ]
     },
     {
@@ -48207,8 +47886,7 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 711",
         "related courses": [
-            "ELEN 706",
-            "MOSFET"
+            "ELEN 706"
         ]
     },
     {
@@ -48216,15 +47894,14 @@
         "type": "Graduate",
         "id": "712",
         "title": "Active Microwave Devices II",
-        "description": "Continuation of ELEN 711. Nonlinear active circuits and computer-aided design techniques. Nonlinear models of diodes, bipolar transistors and FET\u2019s applied to the design of frequency converters, amplifiers, and oscillators. Techniques. Prerequisite: ELEN 711. (2 units)",
+        "description": "Continuation of ELEN 711. Nonlinear active circuits and computer-aided design techniques. Nonlinear models of diodes, bipolar transistors and FET's applied to the design of frequency converters, amplifiers, and oscillators. Techniques. Prerequisite: ELEN 711. (2 units)",
         "units": "2 units",
         "university": "Santa Clara University",
         "school": "School of Engineering",
         "department": "Electrical Engineering",
         "initial": "ELEN 712",
         "related courses": [
-            "ELEN 711",
-            "FET\u2019"
+            "ELEN 711"
         ]
     },
     {
@@ -48239,7 +47916,6 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 715",
         "related courses": [
-            "CAD. P",
             "ELEN 201"
         ]
     },
@@ -48286,7 +47962,6 @@
         "initial": "ELEN 725",
         "related courses": [
             "ELEN 201",
-            "LED",
             "PHYS 113"
         ]
     },
@@ -48330,8 +48005,7 @@
         "department": "Electrical Engineering",
         "initial": "ELEN 921C",
         "related courses": [
-            "COEN 921C",
-            "HDL. T"
+            "COEN 921C"
         ]
     },
     {
@@ -48480,7 +48154,7 @@
         "department": "Engineering Management & Leadership",
         "initial": "EMGT 345",
         "related courses": [
-            "EMGT 330 P"
+            "EMGT 330"
         ]
     },
     {

@@ -409,15 +409,12 @@
         "degree": "Bachelor",
         "description": "Studio art majors develop comprehensive skills that help prepare them for graduate study or careers in either the fine or commercial arts. Faculty members emphasize the development of conceptual and technical competence, as well as critical analysis of the student&aposs own work and that of others. By graduation, every studio art major develops a body of original artwork to be exhibited in a senior show for display in the department gallery space. Students are required to articulate an artist&aposs statement reflecting their own engagement with the creative process, in conjunction with their senior show. Studio art majors enjoy opportunities to present their artwork in regional conferences as well as in student-organized exhibitions on and off campus. At the end of each academic year, students are encouraged to submit their work to the Annual Student Art Exhibit, which is judged by an outside professional in the field of art. The department also oversees merit-based scholarships, which are awarded to outstanding studio art majors with junior status.",
         "related courses": [
-            "ARTH",
             "ARTH 100",
             "ARTH 11A",
             "ARTH 12A",
             "ARTH 196",
             "ARTH 21",
-            "ARTH 98",
-            "ARTS",
-            "ARTS)"
+            "ARTH 98"
         ]
     },
     {
@@ -430,15 +427,11 @@
         "degree": "Bachelor",
         "description": "Studio art majors develop comprehensive skills that help prepare them for graduate study or careers in either the fine or commercial arts. Faculty members emphasize the development of conceptual and technical competence, as well as critical analysis of the student&aposs own work and that of others. By graduation, every studio art major develops a body of original artwork to be exhibited in a senior show for display in the department gallery space. Students are required to articulate an artist&aposs statement reflecting their own engagement with the creative process, in conjunction with their senior show. Studio art majors enjoy opportunities to present their artwork in regional conferences as well as in student-organized exhibitions on and off campus. At the end of each academic year, students are encouraged to submit their work to the Annual Student Art Exhibit, which is judged by an outside professional in the field of art. The department also oversees merit-based scholarships, which are awarded to outstanding studio art majors with junior status.",
         "related courses": [
-            "ARTH",
             "ARTH 106",
             "ARTH 11A",
             "ARTH 12A",
             "ARTH 185",
             "ARTH 21",
-            "ARTH G",
-            "ARTH)",
-            "ARTS",
             "ARTS 100",
             "ARTS 190",
             "ARTS 194",
@@ -460,13 +453,10 @@
         "department": "Art and Art History",
         "description": "Studio art majors develop comprehensive skills that help prepare them for graduate study or careers in either the fine or commercial arts. Faculty members emphasize the development of conceptual and technical competence, as well as critical analysis of the student&aposs own work and that of others. By graduation, every studio art major develops a body of original artwork to be exhibited in a senior show for display in the department gallery space. Students are required to articulate an artist&aposs statement reflecting their own engagement with the creative process, in conjunction with their senior show. Studio art majors enjoy opportunities to present their artwork in regional conferences as well as in student-organized exhibitions on and off campus. At the end of each academic year, students are encouraged to submit their work to the Annual Student Art Exhibit, which is judged by an outside professional in the field of art. The department also oversees merit-based scholarships, which are awarded to outstanding studio art majors with junior status.",
         "related courses": [
-            "ARTH",
             "ARTH 11A",
             "ARTH 12A",
             "ARTH 21",
-            "ARTH 98",
-            "ARTS",
-            "ARTS)"
+            "ARTH 98"
         ]
     },
     {
@@ -478,10 +468,7 @@
         "department": "Art and Art History",
         "description": "Studio art majors develop comprehensive skills that help prepare them for graduate study or careers in either the fine or commercial arts. Faculty members emphasize the development of conceptual and technical competence, as well as critical analysis of the student&aposs own work and that of others. By graduation, every studio art major develops a body of original artwork to be exhibited in a senior show for display in the department gallery space. Students are required to articulate an artist&aposs statement reflecting their own engagement with the creative process, in conjunction with their senior show. Studio art majors enjoy opportunities to present their artwork in regional conferences as well as in student-organized exhibitions on and off campus. At the end of each academic year, students are encouraged to submit their work to the Annual Student Art Exhibit, which is judged by an outside professional in the field of art. The department also oversees merit-based scholarships, which are awarded to outstanding studio art majors with junior status.",
         "related courses": [
-            "ARTH",
             "ARTH 11A",
-            "ARTH)",
-            "ARTS",
             "ARTS 194",
             "ARTS 30",
             "ARTS 33",
@@ -517,7 +504,6 @@
             "ARTH 106",
             "ARTH 110",
             "ARTH 152",
-            "CLAS",
             "CLAS 60",
             "CLAS 61",
             "PHIL 14",
@@ -620,13 +606,17 @@
         "description": "The Department of Mathematics and Computer Science maintains a program for the discovery, encouragement, and development of talent in mathematics or computer science among undergraduates. This program includes special sections, seminars, individual conferences, and directed study guided by selected faculty members. Students are also encouraged to participate actively in research projects directed by faculty.",
         "related courses": [
             "ANTH 1",
-            "COEN",
             "COEN 177",
+            "COEN 177L",
             "COEN 20",
+            "COEN 20L",
+            "COEN 21",
+            "COEN 21L",
             "CSCI 10",
             "CSCI 60",
             "CSCI 61",
-            "ELEN) 21",
+            "COEN 21",
+            "ELEN 21",
             "ENVS 21",
             "MATH 11",
             "MATH 12",
@@ -665,9 +655,7 @@
         "department": "Mathematics and Computer Science",
         "description": "The Department of Mathematics and Computer Science maintains a program for the discovery, encouragement, and development of talent in mathematics or computer science among undergraduates. This program includes special sections, seminars, individual conferences, and directed study guided by selected faculty members. Students are also encouraged to participate actively in research projects directed by faculty.",
         "related courses": [
-            "COEN",
             "COEN 20",
-            "CSCI",
             "CSCI 10",
             "CSCI 192",
             "CSCI 60",
@@ -683,10 +671,7 @@
         "department": "Individual Studies",
         "degree": "Bachelor",
         "description": "The Individual Studies Program (ISP) major has been established to meet the needs of students who wish to design a course of studies with a multidisciplinary perspective. Students who want to pursue an ISP major should begin by scheduling a meeting with the program director to obtain a list of instructions regarding administrative details.",
-        "related courses": [
-            "ISP",
-            "ISP)"
-        ]
+        "related courses": []
     },
     {
         "title": "Environmental Science Major",
@@ -865,7 +850,6 @@
             "ETHN 157",
             "HIST 84",
             "SOCI 153",
-            "WGST",
             "WGST 101",
             "WGST 102",
             "WGST 105",
@@ -896,7 +880,6 @@
             "ETHN 157",
             "HIST 84",
             "SOCI 153",
-            "WGST",
             "WGST 101",
             "WGST 102",
             "WGST 112",
@@ -952,7 +935,6 @@
         "degree": "Bachelor",
         "description": "Undergraduate research is a critical component of our degrees and most of our majors conduct research in collaboration with faculty mentors. Research in the department has been funded by the National Institutes of Health, the National Science Foundation, the Howard Hughes Medical Institute, the American Chemical Society Petroleum Research Fund, the Dreyfus Foundation, and the Research Corporation. Majors in chemistry, biochemistry, biology, and public health science participate in faculty research projects through CHEM 182, 183, and 184. In addition, advanced students have opportunities for part-time employment assisting faculty in laboratory and related teaching activities. The chemistry and biochemistry curricula are designed to be flexible in the sequence of upper-division coursework so as to allow students to participate in study abroad programs. Students interested in study abroad should meet with a faculty advisor to plan the junior and senior year courses as early as possible in their academic careers.",
         "related courses": [
-            "ACS C",
             "BIOL 110",
             "BIOL 113",
             "BIOL 172",
@@ -1036,8 +1018,6 @@
             "DANC 48",
             "DANC 49",
             "DANC 67",
-            "III)",
-            "SCU",
             "THTR 10",
             "THTR 112",
             "THTR 113",
@@ -1069,7 +1049,6 @@
         "department": "Theatre and Dance",
         "description": "The performance season, sponsored by the department, includes four faculty-directed plays and two dance concerts, in addition to student-directed plays and dance recitals. Participation in these productions is open to all members of the University community---students, faculty, and staff. Guest artists regularly direct, design, choreograph, and/or perform in productions with SCU students.",
         "related courses": [
-            "SCU",
             "THTR 10",
             "THTR 39",
             "THTR 41A",
@@ -1095,8 +1074,6 @@
             "DANC 47",
             "DANC 48",
             "DANC 49",
-            "III)",
-            "SCU",
             "THTR 10",
             "THTR 39"
         ]
@@ -1110,7 +1087,6 @@
         "department": "Theatre and Dance",
         "description": "The performance season, sponsored by the department, includes four faculty-directed plays and two dance concerts, in addition to student-directed plays and dance recitals. Participation in these productions is open to all members of the University community---students, faculty, and staff. Guest artists regularly direct, design, choreograph, and/or perform in productions with SCU students.",
         "related courses": [
-            "SCU",
             "THTR 10",
             "THTR 130",
             "THTR 131",
@@ -1242,8 +1218,6 @@
         "degree": "Bachelor",
         "description": "The Child Studies Program offers a degree program leading to the bachelor of science in child studies. The child studies major is designed for undergraduates interested in a career working with children in a school or community-based setting. The curriculum is designed for students interested in careers in elementary-school teaching, social work, counseling, family law, directing child care programs, speech and language pathology, occupational therapy, or nonprofit agencies that provide community services to children and families. Students with a B.S. in child studies are prepared to go on to postgraduate studies related to their career goals such as teacher credential programs/graduate programs in education as well as postgraduate programs such as master&aposs degree programs in psychology, social work, or other fields. Advisors in child studies can provide information about teaching credential programs and many other vocations requiring further graduate or professional school education.",
         "related courses": [
-            " 181",
-            " 182",
             "CHST 100",
             "CHST 101",
             "CHST 102",
@@ -1264,7 +1238,6 @@
             "CHST 6",
             "CHST 66",
             "CHST 75",
-            "ELSJ)",
             "PSYC 134",
             "PSYC 172",
             "PSYC 185",
@@ -1381,12 +1354,7 @@
         "university": "Santa Clara University",
         "school": "College of Arts and Sciences",
         "department": "Arabic, Islamic, and Middle Eastern Studies",
-        "related courses": [
-            "AIMES",
-            "AIMES F",
-            "AIMES. D",
-            "SCU-"
-        ]
+        "related courses": []
     },
     {
         "title": "Biotechnology Minor",
@@ -1412,8 +1380,7 @@
             "CHEM 141",
             "CHEM 143",
             "CHEM 31",
-            "CHEM 32",
-            "SCU"
+            "CHEM 32"
         ]
     },
     {
@@ -1471,7 +1438,6 @@
             "GERM 160",
             "GERM 182",
             "GERM 183",
-            "GTE) C",
             "HIST 104",
             "HIST 107",
             "HIST 141",
@@ -1541,7 +1507,6 @@
             "ANTH 186",
             "HIST 166",
             "HIST 95",
-            "LAS",
             "POLI 137",
             "SPAN 100",
             "SPAN 130",
@@ -1598,8 +1563,7 @@
         "degree": "Bachelor",
         "description": "Students interested in taking a course in a language they have never previously studied should begin at the Elementary 1 level course. Those who wish to continue studying a language they studied prior to coming to SCU (or grew up speaking at home) must take a Placement Test to determine the most appropriate course for their level. This test is free and can be taken from any location. See the Department of Modern Languages and Literatures&apos [website]{.underline} [ ]{.underline} for more information on placement and proficiency testing. Study abroad is a valuable enhancement of the undergraduate experience and is particularly recommended for students pursuing a major or minor in a foreign language. Both the Office of International Programs and the student&aposs modern languages&apos advisor should be consulted to ensure appropriate integration of the work done abroad into the student&aposs program of study.",
         "related courses": [
-            "FREN 100",
-            "SCU"
+            "FREN 100"
         ]
     },
     {
@@ -1612,8 +1576,7 @@
         "degree": "Bachelor",
         "description": "Students interested in taking a course in a language they have never previously studied should begin at the Elementary 1 level course. Those who wish to continue studying a language they studied prior to coming to SCU (or grew up speaking at home) must take a Placement Test to determine the most appropriate course for their level. This test is free and can be taken from any location. See the Department of Modern Languages and Literatures&apos [website]{.underline} [ ]{.underline} for more information on placement and proficiency testing. Study abroad is a valuable enhancement of the undergraduate experience and is particularly recommended for students pursuing a major or minor in a foreign language. Both the Office of International Programs and the student&aposs modern languages&apos advisor should be consulted to ensure appropriate integration of the work done abroad into the student&aposs program of study.",
         "related courses": [
-            "ITAL 100",
-            "SCU"
+            "ITAL 100"
         ]
     },
     {
@@ -1626,7 +1589,6 @@
         "degree": "Bachelor",
         "description": "Students interested in taking a course in a language they have never previously studied should begin at the Elementary 1 level course. Those who wish to continue studying a language they studied prior to coming to SCU (or grew up speaking at home) must take a Placement Test to determine the most appropriate course for their level. This test is free and can be taken from any location. See the Department of Modern Languages and Literatures&apos [website]{.underline} [ ]{.underline} for more information on placement and proficiency testing. Study abroad is a valuable enhancement of the undergraduate experience and is particularly recommended for students pursuing a major or minor in a foreign language. Both the Office of International Programs and the student&aposs modern languages&apos advisor should be consulted to ensure appropriate integration of the work done abroad into the student&aposs program of study.",
         "related courses": [
-            "SCU",
             "SPAN 100",
             "SPAN 120",
             "SPAN 121",
@@ -1644,8 +1606,7 @@
         "department": "Modern Languages and Literatures",
         "description": "Students interested in taking a course in a language they have never previously studied should begin at the Elementary 1 level course. Those who wish to continue studying a language they studied prior to coming to SCU (or grew up speaking at home) must take a Placement Test to determine the most appropriate course for their level. This test is free and can be taken from any location. See the Department of Modern Languages and Literatures&apos [website]{.underline} [ ]{.underline} for more information on placement and proficiency testing. Study abroad is a valuable enhancement of the undergraduate experience and is particularly recommended for students pursuing a major or minor in a foreign language. Both the Office of International Programs and the student&aposs modern languages&apos advisor should be consulted to ensure appropriate integration of the work done abroad into the student&aposs program of study.",
         "related courses": [
-            "FREN 100",
-            "SCU"
+            "FREN 100"
         ]
     },
     {
@@ -1657,8 +1618,7 @@
         "department": "Modern Languages and Literatures",
         "description": "Students interested in taking a course in a language they have never previously studied should begin at the Elementary 1 level course. Those who wish to continue studying a language they studied prior to coming to SCU (or grew up speaking at home) must take a Placement Test to determine the most appropriate course for their level. This test is free and can be taken from any location. See the Department of Modern Languages and Literatures&apos [website]{.underline} [ ]{.underline} for more information on placement and proficiency testing. Study abroad is a valuable enhancement of the undergraduate experience and is particularly recommended for students pursuing a major or minor in a foreign language. Both the Office of International Programs and the student&aposs modern languages&apos advisor should be consulted to ensure appropriate integration of the work done abroad into the student&aposs program of study.",
         "related courses": [
-            "ITAL 100",
-            "SCU"
+            "ITAL 100"
         ]
     },
     {
@@ -1671,8 +1631,7 @@
         "description": "Students interested in taking a course in a language they have never previously studied should begin at the Elementary 1 level course. Those who wish to continue studying a language they studied prior to coming to SCU (or grew up speaking at home) must take a Placement Test to determine the most appropriate course for their level. This test is free and can be taken from any location. See the Department of Modern Languages and Literatures&apos [website]{.underline} [ ]{.underline} for more information on placement and proficiency testing. Study abroad is a valuable enhancement of the undergraduate experience and is particularly recommended for students pursuing a major or minor in a foreign language. Both the Office of International Programs and the student&aposs modern languages&apos advisor should be consulted to ensure appropriate integration of the work done abroad into the student&aposs program of study.",
         "related courses": [
             "JAPN 100",
-            "JAPN 101",
-            "SCU"
+            "JAPN 101"
         ]
     },
     {
@@ -1684,7 +1643,6 @@
         "department": "Modern Languages and Literatures",
         "description": "Students interested in taking a course in a language they have never previously studied should begin at the Elementary 1 level course. Those who wish to continue studying a language they studied prior to coming to SCU (or grew up speaking at home) must take a Placement Test to determine the most appropriate course for their level. This test is free and can be taken from any location. See the Department of Modern Languages and Literatures&apos [website]{.underline} [ ]{.underline} for more information on placement and proficiency testing. Study abroad is a valuable enhancement of the undergraduate experience and is particularly recommended for students pursuing a major or minor in a foreign language. Both the Office of International Programs and the student&aposs modern languages&apos advisor should be consulted to ensure appropriate integration of the work done abroad into the student&aposs program of study.",
         "related courses": [
-            "SCU",
             "SPAN 100"
         ]
     },
@@ -1700,10 +1658,7 @@
         "related courses": [
             "RELS 197A",
             "RELS 197B",
-            "RELS 90",
-            "RSOC)",
-            "SCTR)",
-            "TESP)"
+            "RELS 90"
         ]
     },
     {
@@ -1714,11 +1669,7 @@
         "school": "College of Arts and Sciences",
         "department": "Religious Studies",
         "description": "The Department of Religious Studies offers a degree program leading to the bachelor of arts in religious studies. The department also offers a minor program for those who wish to concentrate in theological and religious studies. In keeping with the University&aposs commitment to the Catholic faith tradition, the department offers a variety of courses in Scripture, History, and Catholic theology. Faithful to the Jesuit tradition of liberal education and engagement with other religions, the department offers a wide breadth of courses in various religious traditions and methodologies for the study of religion. The department also offers courses as part of the Undergraduate Core Curriculum, at both lower-division and upper-division levels. Courses are clustered in three areas: Theology, Ethics, and Spirituality (TESP); Scripture and Tradition (SCTR); and Religion and Society (RSOC).",
-        "related courses": [
-            "RSOC)",
-            "SCTR)",
-            "TESP)"
-        ]
+        "related courses": []
     },
     {
         "title": "Physics Major",
@@ -1732,7 +1683,6 @@
         "related courses": [
             "AMTH 106",
             "CHEM 11",
-            "GPA",
             "MATH 11",
             "MATH 12",
             "MATH 13",
@@ -1768,7 +1718,6 @@
             "CSCI 10",
             "CSCI 60",
             "ELEN 123",
-            "GPA",
             "MATH 11",
             "MATH 12",
             "MATH 13",
@@ -1800,7 +1749,6 @@
         "department": "Physics",
         "description": "A student whose GPA is below a 2.5 must obtain approval from the department chair to declare a physics or engineering physics major.",
         "related courses": [
-            "GPA",
             "PHYS 192",
             "PHYS 31",
             "PHYS 32",
@@ -1894,8 +1842,6 @@
             "MATH 35",
             "MATH 36",
             "MATH 8",
-            "PHS",
-            "PHSC",
             "PHSC 1",
             "PHSC 100",
             "PHSC 110",
@@ -1925,8 +1871,6 @@
             "CHEM 11",
             "CHEM 33",
             "MATH 8",
-            "PHSC",
-            "PHSC 1",
             "PHSC 124",
             "PHSC 150",
             "PHSC 2",
@@ -2006,9 +1950,7 @@
         "university": "Santa Clara University",
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
-        "related courses": [
-            "LGBT C"
-        ]
+        "related courses": []
     },
     {
         "title": "Counseling Psychology",
@@ -2022,15 +1964,7 @@
         "university": "Santa Clara University",
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
-        "related courses": [
-            " LPCC",
-            " MFT",
-            "LGBT C",
-            "LPCC",
-            "LPCC)",
-            "MFT",
-            "MFT)"
-        ]
+        "related courses": []
     },
     {
         "title": "Counseling",
@@ -2044,9 +1978,7 @@
         "university": "Santa Clara University",
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
-        "related courses": [
-            "PASC"
-        ]
+        "related courses": []
     },
     {
         "title": "Teacher Education (Single Subject Credential)",
@@ -2074,9 +2006,7 @@
         "university": "Santa Clara University",
         "school": "School of Education and Counseling Psychology",
         "department": "Graduate",
-        "related courses": [
-            "CSET M"
-        ]
+        "related courses": []
     },
     {
         "title": "Theology",
@@ -2090,9 +2020,7 @@
         "university": "Santa Clara University",
         "school": "Jesuit School of Theology",
         "department": "Graduate",
-        "related courses": [
-            "GTU"
-        ]
+        "related courses": []
     },
     {
         "title": "Divinity",
@@ -2120,9 +2048,7 @@
         "university": "Santa Clara University",
         "school": "Jesuit School of Theology",
         "department": "Graduate",
-        "related courses": [
-            "JST/GTU C"
-        ]
+        "related courses": []
     },
     {
         "title": "Arts",
@@ -2136,10 +2062,7 @@
         "university": "Santa Clara University",
         "school": "Jesuit School of Theology",
         "department": "Graduate",
-        "related courses": [
-            "GTU C",
-            "GTU)"
-        ]
+        "related courses": []
     },
     {
         "title": "Theological Studies (On Campus)",
@@ -2195,14 +2118,7 @@
         "university": "Santa Clara University",
         "school": "Jesuit School of Theology",
         "department": "Graduate",
-        "related courses": [
-            "GTU) L",
-            "SSL",
-            "SSL. S",
-            "STD",
-            "STD. T",
-            "STL"
-        ]
+        "related courses": []
     },
     {
         "title": "Sacred Theology (S.T.L.)",
@@ -2216,13 +2132,7 @@
         "university": "Santa Clara University",
         "school": "Jesuit School of Theology",
         "department": "Graduate",
-        "related courses": [
-            "GTU)",
-            "JST-SCU",
-            "STB",
-            "STB)",
-            "STL"
-        ]
+        "related courses": []
     },
     {
         "title": "Accounting Major",
@@ -2404,7 +2314,6 @@
             "MKTG 175",
             "MKTG 177",
             "MKTG 181",
-            "OMIS",
             "OMIS 111",
             "OMIS 113",
             "OMIS 15",
@@ -2481,8 +2390,7 @@
         "related courses": [
             "FNCE 118",
             "FNCE 124",
-            "FNCE 129",
-            "NOT"
+            "FNCE 129"
         ]
     },
     {
@@ -2502,9 +2410,7 @@
             "FNCE 127",
             "FNCE 128",
             "FNCE 129",
-            "FNCE 143",
-            "GPA.",
-            "NOT"
+            "FNCE 143"
         ]
     },
     {
@@ -2574,7 +2480,6 @@
         "related courses": [
             "BUSN 70",
             "MATH 11",
-            "MIS",
             "OMIS 105",
             "OMIS 106",
             "OMIS 107",
@@ -2606,10 +2511,7 @@
         "university": "Santa Clara University",
         "school": "Leavey School of Business",
         "department": "Graduate",
-        "related courses": [
-            "MBA",
-            "MBA. W"
-        ]
+        "related courses": []
     },
     {
         "title": "Executive MBA",
@@ -2623,10 +2525,7 @@
         "university": "Santa Clara University",
         "school": "Leavey School of Business",
         "department": "Graduate",
-        "related courses": [
-            "MBA",
-            "SCU\u2019"
-        ]
+        "related courses": []
     },
     {
         "title": "Business Analytics",
@@ -2668,10 +2567,7 @@
         "university": "Santa Clara University",
         "school": "Leavey School of Business",
         "department": "Graduate",
-        "related courses": [
-            "MSIS",
-            "STEM-"
-        ]
+        "related courses": []
     },
     {
         "title": "Marketing (Online)",
@@ -2764,7 +2660,6 @@
             "CENG 118",
             "CENG 143",
             "CENG 41",
-            "COEN",
             "COEN 10",
             "COEN 11",
             "COEN 21",
@@ -2828,8 +2723,7 @@
             "ENGR 199",
             "ENGR 2",
             "MECH 144",
-            "MGMT 164",
-            "STEM"
+            "MGMT 164"
         ]
     },
     {
@@ -2944,7 +2838,6 @@
             "AMTH 106",
             "AMTH 108",
             "AMTH 118",
-            "BIOE",
             "BIOE 10",
             "BIOE 100",
             "BIOE 153",
@@ -3069,9 +2962,7 @@
         "university": "Santa Clara University",
         "school": "School of Engineering",
         "department": "Bioengineering",
-        "related courses": [
-            "SCU"
-        ]
+        "related courses": []
     },
     {
         "title": "Computer Science and Engineering Major",
@@ -3127,9 +3018,7 @@
         "university": "Santa Clara University",
         "school": "School of Engineering",
         "department": "Computer Engineering",
-        "related courses": [
-            "MSCSE"
-        ]
+        "related courses": []
     },
     {
         "title": "Software Engineering",
@@ -3143,9 +3032,7 @@
         "university": "Santa Clara University",
         "school": "School of Engineering",
         "department": "Computer Engineering",
-        "related courses": [
-            "MSSE"
-        ]
+        "related courses": []
     },
     {
         "title": "Computer Science and Engineering",
@@ -3180,7 +3067,6 @@
             "ELEN 50",
             "ENGL 181",
             "ENGR 1",
-            "GPA",
             "MATH 11",
             "MATH 12",
             "MATH 13",
@@ -3233,18 +3119,17 @@
         "description": "Mechanical engineering includes all aspects of design, development, control, and manufacture of mechanical systems and energy conversion systems. Mechanical engineering is essential to the proper design and manufacture of nearly every physical product in our modern world. As such, mechanical engineers are a fundamental resource for most industries, and they work in interdisciplinary environments. Mechanical engineers must have the ability to see both broad perspectives across disciplines and industries, and solve very local and specialized problems. The undergraduate curriculum addresses the education and training of mechanical engineering students and concentrates on two technical areas: (1) design and analysis of thermofluid systems for effective use of energy; and (2) design, analysis, and control of mechanical systems including the use of materials. The Mechanical Engineering educational program develops future engineers with a solid understanding of fundamentals and competence in analyzing engineering systems.",
         "related courses": [
             "CENG 43 M",
-            "III: S",
-            "MECH 121 T",
-            "MECH 122 F",
-            "MECH 132 A",
-            "MECH 140 D",
+            "MECH 121",
+            "MECH 122",
+            "MECH 132",
+            "MECH 140",
             "MECH 145",
-            "MECH 153 A",
-            "MECH 155 A",
-            "MECH 158 A",
+            "MECH 153",
+            "MECH 155",
+            "MECH 158",
             "MECH 205",
             "MECH 220",
-            "MECH 313 A",
+            "MECH 313",
             "MECH 371",
             "MECH 431"
         ]
@@ -3279,10 +3164,7 @@
         "university": "Santa Clara University",
         "school": "School of Engineering",
         "department": "Mechanical Engineering",
-        "related courses": [
-            "GPA",
-            "MSAE)"
-        ]
+        "related courses": []
     },
     {
         "title": "Mechanical Engineering",
@@ -3394,7 +3276,6 @@
         "department": "Electrical Engineering",
         "description": "Laboratories are an important part of most undergraduate courses in the electrical engineering program. Use of appropriate laboratory equipment, design tools, and components demonstrates fundamental concepts of the courses and acquaints students with methods and tools they may use after graduation. The department has five teaching laboratories that support courses in electric circuits, electronics, systems, logic design, RF and communication. In addition, the program has a laboratory dedicated to senior design projects. All laboratories are supported by the facilities of the Engineering Computing Center.",
         "related courses": [
-            "ELEN",
             "ELEN 100",
             "ELEN 104",
             "ELEN 115",
@@ -3422,9 +3303,7 @@
         "university": "Santa Clara University",
         "school": "School of Engineering",
         "department": "Electrical Engineering",
-        "related courses": [
-            "GPA"
-        ]
+        "related courses": []
     },
     {
         "title": "Electrical Engineering",
@@ -3466,9 +3345,7 @@
         "university": "Santa Clara University",
         "school": "School of Engineering",
         "department": "Electrical Engineering",
-        "related courses": [
-            "GPA"
-        ]
+        "related courses": []
     },
     {
         "title": "Engineering Management and Leadership B.S./M.S. Five-Year Program",
@@ -3496,10 +3373,7 @@
         "university": "Santa Clara University",
         "school": "School of Engineering",
         "department": "Engineering Management and Leadership",
-        "related courses": [
-            "MBA",
-            "SCU G"
-        ]
+        "related courses": []
     },
     {
         "title": "Power Systems and Sustainable Energy",
