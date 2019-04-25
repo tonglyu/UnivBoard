@@ -2,30 +2,14 @@ from flask import Flask, render_template, request
 import config, os, re
 from elasticsearch import Elasticsearch
 import search, detail
-import certifi
 
 app = Flask(__name__)
 app.config.from_object(config)
 results = {}
 
 #connect to our cluster
-# es = Elasticsearch([{'host': 'https://9yg7zvgsw9:j67pfvx22a@pine-523218699.us-east-1.bonsaisearch.net'}])
+es = Elasticsearch([{'host': 'localhost', 'port':9200}])
 
-# Parse the auth and host from env:
-bonsai = os.environ['BONSAI_URL']
-auth = re.search('https\:\/\/(.*)\@', bonsai).group(1).split(':')
-host = bonsai.replace('https://%s:%s@' % (auth[0], auth[1]), '')
-
-# Connect to cluster over SSL using auth for best security:
-es_header = [{
- 'host': host,
- 'port': 443,
- 'use_ssl': True,
- 'http_auth': (auth[0],auth[1])
-}]
-
-# Instantiate the new Elasticsearch connection:
-es = Elasticsearch(es_header)
 body = {
     "size":"0",
     "aggs": {
