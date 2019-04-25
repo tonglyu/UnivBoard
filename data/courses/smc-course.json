@@ -450,16 +450,6 @@
         "id": "57"
     },
     {
-        "initial": "COUNS 58",
-        "units": "1 unit",
-        "description": "This course teaches students strategies to improve how they learn and perform in mathematics.",
-        "university": "Santa Monica College",
-        "department": "Accounting",
-        "title": "Math Strategies",
-        "abbr": "COUNS",
-        "id": "58"
-    },
-    {
         "initial": "COUNS 59",
         "units": "1 unit",
         "description": "Students learn to apply technology-based study strategies to enhance comprehension and retention of instructional materials. Students will apply the strategies with consideration for their learning styles and the types of materials they are reading. Comprehension strategies such as patterns of organization and skimming techniques are also covered. This course is designed for students with learning disabilities.",
@@ -5770,14 +5760,284 @@
         "id": "57"
     },
     {
-        "initial": "COUNS 58",
+        "initial": "COUNS 59",
         "units": "1 unit",
-        "description": "This course teaches students strategies to improve how they learn and perform in mathematics.",
+        "description": "Students learn to apply technology-based study strategies to enhance comprehension and retention of instructional materials. Students will apply the strategies with consideration for their learning styles and the types of materials they are reading. Comprehension strategies such as patterns of organization and skimming techniques are also covered. This course is designed for students with learning disabilities.",
         "university": "Santa Monica College",
         "department": "Counseling",
-        "title": "Math Strategies",
+        "title": "Textbook Strategies Using Technology",
         "abbr": "COUNS",
-        "id": "58"
+        "id": "59"
+    },
+    {
+        "initial": "COUNS 910",
+        "units": "0 units",
+        "description": "This course is taught in both the classroom and community settings for adults with acquired brain injuries. The course instructs students in retraining and increasing cognitive skills. Caregivers are encouraged to participate and will be included in any desired instruction.",
+        "university": "Santa Monica College",
+        "department": "Counseling",
+        "title": "ABI Connections",
+        "abbr": "COUNS",
+        "id": "910"
+    },
+    {
+        "initial": "COUNS 906",
+        "units": "0 units",
+        "description": "This introductory course is designed for the student with little or no previous knowledge of American Sign Language (ASL). ASL is taught using an interactive approach, which includes classroom conversation, games and exercises. Students learn basic everyday communication skills, using signed words and finger spelling. Course content includes information about deaf culture and the deaf community.",
+        "university": "Santa Monica College",
+        "department": "Counseling",
+        "title": "American Sign Language Level 1 (Beginner)",
+        "abbr": "COUNS",
+        "id": "906"
+    },
+    {
+        "initial": "LING 1",
+        "units": "3 units",
+        "description": "This course is an introduction to the study of language. It provides an overview of the field of linguistics, its three dimensions of language structure: the sound system (phonetics and phonology), vocabulary (morphology), and grammar (syntax), and the way linguistic structure and context give rise to meaning (semantics and pragmatics). In addition the course considers how social practices are shaped by and shape language use, as well as how language is acquired and learned. The course provides a grounding in linguistics as a field of study, basic analytic skills for viewing and discussing language from a variety of perspectives, and greater awareness of the relevance of language across and within cultures.",
+        "university": "Santa Monica College",
+        "department": "Counseling",
+        "title": "Introduction to Linguistics",
+        "abbr": "LING",
+        "id": "1"
+    },
+    {
+        "initial": "COUNS 1",
+        "units": "1 unit",
+        "description": "This course is designed to help students at all academic levels to improve their study skills in time management, goal-setting, lecture and textbook note-taking, textbook reading, exam preparation, and test-taking to increase their academic success. This course is offered on a pass/no pass basis only.",
+        "university": "Santa Monica College",
+        "department": "Counseling",
+        "title": "Developing Learning Skills",
+        "abbr": "COUNS",
+        "id": "1"
+    },
+    {
+        "initial": "COUNS 11",
+        "units": "1 unit",
+        "description": "This course introduces higher education and the Master Plan for Higher Education in California. Emphasis is on curricula available at community colleges, state and independent colleges and universities, and the University of California. Included will be discussion of non-curricular areas in higher education and general educational policies, student government and its role in education, and environmental differences in the various institutions of higher learning, especially in California. This course should prove especially useful to international students or others unfamiliar with the structure and philosophy of higher education, both public and private. Offered on a credit/no credit basis only.",
+        "university": "Santa Monica College",
+        "department": "Counseling",
+        "title": "Orientation to Higher Education",
+        "abbr": "COUNS",
+        "id": "11"
+    },
+    {
+        "initial": "COUNS 12",
+        "units": "1 unit",
+        "description": "This course is designed to inform and assist students in making appropriate and satisfying career choices. Using self-evaluation instruments, students identify interests, abilities, values, and goals. Skills necessary for future career investigation and decision-making are included.",
+        "university": "Santa Monica College",
+        "department": "Counseling",
+        "title": "Career Planning",
+        "abbr": "COUNS",
+        "id": "12"
+    },
+    {
+        "initial": "COUNS 15",
+        "units": "1 unit",
+        "description": "The objective of this course is to teach skills necessary for successful job hunting by students. Skills identification, interviewing techniques, researching the job market, and resume writing are explored.",
+        "university": "Santa Monica College",
+        "department": "Counseling",
+        "title": "Job Search Techniques",
+        "abbr": "COUNS",
+        "id": "15"
+    },
+    {
+        "initial": "COUNS 20",
+        "units": "3 units",
+        "description": "This course provides an exploration of intellectual, psychological, social and physical factors that impact lifelong learning, well-being and success. Topics include motivation and self-efficacy; critical thinking, academic integrity and active study strategies; health issues and lifestyle choices; relating to others as a global citizen; written and oral communication; time management; career exploration; and educational planning.",
+        "university": "Santa Monica College",
+        "department": "Counseling",
+        "title": "Student Success Seminar",
+        "abbr": "COUNS",
+        "id": "20"
+    },
+    {
+        "initial": "COUNS 47",
+        "units": "1 unit",
+        "description": "This course provides students with the fundamental tools to make informed decisions that impact their short and intermediate-term finances. Topics covered include money management and the decision processes and behaviors underlying spending, saving, and borrowing.",
+        "university": "Santa Monica College",
+        "department": "Counseling",
+        "title": "Understanding Money For Lifelong Success",
+        "abbr": "COUNS",
+        "id": "47"
+    },
+    {
+        "initial": "COUNS 90A",
+        "units": "1 unit",
+        "description": "Please see \"Internships\" section.",
+        "university": "Santa Monica College",
+        "department": "Counseling",
+        "title": "General Internship",
+        "abbr": "COUNS",
+        "id": "90A"
+    },
+    {
+        "initial": "COUNS 90B",
+        "units": "2 units",
+        "description": "Please see \"Internships\" section.",
+        "university": "Santa Monica College",
+        "department": "Counseling",
+        "title": "General Internship",
+        "abbr": "COUNS",
+        "id": "90B"
+    },
+    {
+        "initial": "COUNS 90C",
+        "units": "3 units",
+        "description": "Please see \"Internships\" section.",
+        "university": "Santa Monica College",
+        "department": "Counseling",
+        "title": "General Internship",
+        "abbr": "COUNS",
+        "id": "90C"
+    },
+    {
+        "initial": "COUNS 90D",
+        "units": "4 units",
+        "description": "Please see \"Internships\" section.",
+        "university": "Santa Monica College",
+        "department": "Counseling",
+        "title": "General Internship",
+        "abbr": "COUNS",
+        "id": "90D"
+    },
+    {
+        "initial": "COUNS 12H",
+        "units": "1 unit",
+        "description": "This course is designed to inform and assist students in making appropriate and satisfying career choices. Using self-evaluation instruments, students identify interests, abilities, values, and goals. Skills necessary for future career investigation and decision-making are included.",
+        "university": "Santa Monica College",
+        "department": "Counseling",
+        "title": "Career Planning",
+        "abbr": "COUNS",
+        "id": "12H"
+    },
+    {
+        "initial": "COUNS 13H",
+        "units": "1 unit",
+        "description": "This course is designed for students who wish to gain greater self-awareness, become more sensitive to others, and improve their communication skills through group interaction.",
+        "university": "Santa Monica College",
+        "department": "Counseling",
+        "title": "Personal and Social Awareness",
+        "abbr": "COUNS",
+        "id": "13H"
+    },
+    {
+        "initial": "COUNS 15H",
+        "units": "1 unit",
+        "description": "The objective of this course is to teach skills necessary for successful job hunting. Skills identification, interviewing techniques, researching the job market, and resume writing are explored. Emphasis is placed on understanding legal rights of a person with a disability under federal and state laws.",
+        "university": "Santa Monica College",
+        "department": "Counseling",
+        "title": "Job Search Techniques",
+        "abbr": "COUNS",
+        "id": "15H"
+    },
+    {
+        "initial": "COUNS 21H",
+        "units": "1 unit",
+        "description": "In the context of word processing, students receive instruction in the assistive technology needed to provide computer access for completion of written academic assignments. This course is designed for the Disabled Students Program and students must enroll through the Disabled Students High Tech Center. Students must be concurrently enrolled in an academic class at Santa Monica College.",
+        "university": "Santa Monica College",
+        "department": "Counseling",
+        "title": "Adapted Computer Technology",
+        "abbr": "COUNS",
+        "id": "21H"
+    },
+    {
+        "initial": "COUNS 22H",
+        "units": "1 unit",
+        "description": "In the context of the appropriate assistive technology and ergonomics, students learn Internet skills and resources helpful for academic coursework. This class is designed for students eligible for the Disabled Students Program, and students must enroll through the Disabled Students/High Tech Center. Students must be concurrently enrolled in academic classes at SMC. Experience with basic word processing skills is strongly suggested.",
+        "university": "Santa Monica College",
+        "department": "Counseling",
+        "title": "Adapted Computer Technology",
+        "abbr": "COUNS",
+        "id": "22H"
+    },
+    {
+        "initial": "COUNS 25H",
+        "units": "0.5 unit",
+        "description": "In the context of the appropriate assistive technology and ergonomics, students learn software programs relevant to their academic success. Programs address academic strategies and reference tools, (e.g., brainstorming, organizing information, planning, spelling and homonym checking, dictionaries and thesauri), text to speech technology, and the fundamentals of industry-standard applications used in mainstream courses (e.g., Excel, Access, Photo Shop). This class is designed for students eligible for the Disabled Students Program, and students must enroll through the Disabled Students/High Tech Center. Students must be concurrently enrolled in academic classes at SMC. Experience with basic word processing skills is strongly suggested.",
+        "university": "Santa Monica College",
+        "department": "Counseling",
+        "title": "Adapted Computer Technology",
+        "abbr": "COUNS",
+        "id": "25H"
+    },
+    {
+        "initial": "COUNS 26",
+        "units": "1 unit",
+        "description": "In the context of the appropriate assistive technology and ergonomics, students learn features of industry-standard applications (e.g., formatting a research paper in Word, creating a multimedia PowerPoint presentation) professors expect students to use for their course assignments. Students will use these technologies to create a short research paper and a PowerPoint presentation relevant to their academic coursework and/or learning strategies. This open-entry, self-paced course is designed for students eligible for the Disabled Students program, and students must enroll through the Disabled Students/High Tech Training Center. Students must be concurrently enrolled in academic classes at SMC.",
+        "university": "Santa Monica College",
+        "department": "Counseling",
+        "title": "Technology Literacy for Academic Success",
+        "abbr": "COUNS",
+        "id": "26"
+    },
+    {
+        "initial": "COUNS 41H",
+        "units": "2 units",
+        "description": "This course is designed for those physically disabled students who wish to function more independently in their activities of daily living (ADL). Emphasis will be placed on skill acquisition in both home and community activities through an application of problem-solving methods and a learning hierarchy. Assessments of functional performance will be administered in order to provide behavioral feedback information and encourage skill improvement. Skills necessary for successful community and college adaptation will be included in instruction. Principles of consumer advocacy and a historical framework of the disabled in the U.S. and California will be included.",
+        "university": "Santa Monica College",
+        "department": "Counseling",
+        "title": "Independent Living Skills",
+        "abbr": "COUNS",
+        "id": "41H"
+    },
+    {
+        "initial": "COUNS 51",
+        "units": "1 unit",
+        "description": "This course is designed to teach specific learning strategies in the areas of test taking and memory. Students will learn to be more successful in taking various types of academic tests by applying specific strategies for test-taking, retaining and recalling information, answering test questions, and learning from mistakes.",
+        "university": "Santa Monica College",
+        "department": "Counseling",
+        "title": "Test Taking/Memory Strategies",
+        "abbr": "COUNS",
+        "id": "51"
+    },
+    {
+        "initial": "COUNS 52",
+        "units": "1 unit",
+        "description": "This course is designed to teach specific learning strategies in the areas of textbook reading and memory. Students will learn to improve comprehension of textbooks by reading actively,creating a variety of study tools from textbooks, and applying techniques for remembering what has been read.",
+        "university": "Santa Monica College",
+        "department": "Counseling",
+        "title": "Textbook/Memory Strategies",
+        "abbr": "COUNS",
+        "id": "52"
+    },
+    {
+        "initial": "COUNS 53",
+        "units": "1 unit",
+        "description": "This course helps students develop strategies to improve phonetic and rule-based spelling. This course also helps students develop vocabulary through understanding of word morphology. This course is designed for students with learning disabilities.",
+        "university": "Santa Monica College",
+        "department": "Counseling",
+        "title": "Phonics",
+        "abbr": "COUNS",
+        "id": "53"
+    },
+    {
+        "initial": "COUNS 54",
+        "units": "1 unit",
+        "description": "The primary emphasis of this class is on time management and task analysis. Students are taught how to break academic assignments down into individual steps and how to schedule these and other tasks on daily, weekly, and monthly calendars. Goal setting, career choice, prioritizing, procrastination, and evaluation of study time and environment are part of this planning process. Also covered are organization of materials and information as well as memory. This class is designed for more mature, motivated students with learning disabilities, particularly attention deficit disorders.",
+        "university": "Santa Monica College",
+        "department": "Counseling",
+        "title": "Organizing for College Sucess",
+        "abbr": "COUNS",
+        "id": "54"
+    },
+    {
+        "initial": "COUNS 56",
+        "units": "1 unit",
+        "description": "This course incorporates the use of computers and software to implement and support the step-by-step stages of writing strategies. This course is designed for students with learning disabilities.",
+        "university": "Santa Monica College",
+        "department": "Counseling",
+        "title": "Written Language Strategies",
+        "abbr": "COUNS",
+        "id": "56"
+    },
+    {
+        "initial": "COUNS 57",
+        "units": "1 unit",
+        "description": "This course is designed to improve a student's ability to actively listen, take lecture notes, and to employ memory strategies. The class is specifically for students with learning disabilities. Assistive technology for note taking is also explored.",
+        "university": "Santa Monica College",
+        "department": "Counseling",
+        "title": "Listening",
+        "abbr": "COUNS",
+        "id": "57"
     },
     {
         "initial": "COUNS 59",
@@ -6348,306 +6608,6 @@
         "title": "Listening",
         "abbr": "COUNS",
         "id": "57"
-    },
-    {
-        "initial": "COUNS 58",
-        "units": "1 unit",
-        "description": "This course teaches students strategies to improve how they learn and perform in mathematics.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "Math Strategies",
-        "abbr": "COUNS",
-        "id": "58"
-    },
-    {
-        "initial": "COUNS 59",
-        "units": "1 unit",
-        "description": "Students learn to apply technology-based study strategies to enhance comprehension and retention of instructional materials. Students will apply the strategies with consideration for their learning styles and the types of materials they are reading. Comprehension strategies such as patterns of organization and skimming techniques are also covered. This course is designed for students with learning disabilities.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "Textbook Strategies Using Technology",
-        "abbr": "COUNS",
-        "id": "59"
-    },
-    {
-        "initial": "COUNS 910",
-        "units": "0 units",
-        "description": "This course is taught in both the classroom and community settings for adults with acquired brain injuries. The course instructs students in retraining and increasing cognitive skills. Caregivers are encouraged to participate and will be included in any desired instruction.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "ABI Connections",
-        "abbr": "COUNS",
-        "id": "910"
-    },
-    {
-        "initial": "COUNS 906",
-        "units": "0 units",
-        "description": "This introductory course is designed for the student with little or no previous knowledge of American Sign Language (ASL). ASL is taught using an interactive approach, which includes classroom conversation, games and exercises. Students learn basic everyday communication skills, using signed words and finger spelling. Course content includes information about deaf culture and the deaf community.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "American Sign Language Level 1 (Beginner)",
-        "abbr": "COUNS",
-        "id": "906"
-    },
-    {
-        "initial": "LING 1",
-        "units": "3 units",
-        "description": "This course is an introduction to the study of language. It provides an overview of the field of linguistics, its three dimensions of language structure: the sound system (phonetics and phonology), vocabulary (morphology), and grammar (syntax), and the way linguistic structure and context give rise to meaning (semantics and pragmatics). In addition the course considers how social practices are shaped by and shape language use, as well as how language is acquired and learned. The course provides a grounding in linguistics as a field of study, basic analytic skills for viewing and discussing language from a variety of perspectives, and greater awareness of the relevance of language across and within cultures.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "Introduction to Linguistics",
-        "abbr": "LING",
-        "id": "1"
-    },
-    {
-        "initial": "COUNS 1",
-        "units": "1 unit",
-        "description": "This course is designed to help students at all academic levels to improve their study skills in time management, goal-setting, lecture and textbook note-taking, textbook reading, exam preparation, and test-taking to increase their academic success. This course is offered on a pass/no pass basis only.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "Developing Learning Skills",
-        "abbr": "COUNS",
-        "id": "1"
-    },
-    {
-        "initial": "COUNS 11",
-        "units": "1 unit",
-        "description": "This course introduces higher education and the Master Plan for Higher Education in California. Emphasis is on curricula available at community colleges, state and independent colleges and universities, and the University of California. Included will be discussion of non-curricular areas in higher education and general educational policies, student government and its role in education, and environmental differences in the various institutions of higher learning, especially in California. This course should prove especially useful to international students or others unfamiliar with the structure and philosophy of higher education, both public and private. Offered on a credit/no credit basis only.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "Orientation to Higher Education",
-        "abbr": "COUNS",
-        "id": "11"
-    },
-    {
-        "initial": "COUNS 12",
-        "units": "1 unit",
-        "description": "This course is designed to inform and assist students in making appropriate and satisfying career choices. Using self-evaluation instruments, students identify interests, abilities, values, and goals. Skills necessary for future career investigation and decision-making are included.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "Career Planning",
-        "abbr": "COUNS",
-        "id": "12"
-    },
-    {
-        "initial": "COUNS 15",
-        "units": "1 unit",
-        "description": "The objective of this course is to teach skills necessary for successful job hunting by students. Skills identification, interviewing techniques, researching the job market, and resume writing are explored.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "Job Search Techniques",
-        "abbr": "COUNS",
-        "id": "15"
-    },
-    {
-        "initial": "COUNS 20",
-        "units": "3 units",
-        "description": "This course provides an exploration of intellectual, psychological, social and physical factors that impact lifelong learning, well-being and success. Topics include motivation and self-efficacy; critical thinking, academic integrity and active study strategies; health issues and lifestyle choices; relating to others as a global citizen; written and oral communication; time management; career exploration; and educational planning.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "Student Success Seminar",
-        "abbr": "COUNS",
-        "id": "20"
-    },
-    {
-        "initial": "COUNS 47",
-        "units": "1 unit",
-        "description": "This course provides students with the fundamental tools to make informed decisions that impact their short and intermediate-term finances. Topics covered include money management and the decision processes and behaviors underlying spending, saving, and borrowing.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "Understanding Money For Lifelong Success",
-        "abbr": "COUNS",
-        "id": "47"
-    },
-    {
-        "initial": "COUNS 90A",
-        "units": "1 unit",
-        "description": "Please see \"Internships\" section.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "General Internship",
-        "abbr": "COUNS",
-        "id": "90A"
-    },
-    {
-        "initial": "COUNS 90B",
-        "units": "2 units",
-        "description": "Please see \"Internships\" section.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "General Internship",
-        "abbr": "COUNS",
-        "id": "90B"
-    },
-    {
-        "initial": "COUNS 90C",
-        "units": "3 units",
-        "description": "Please see \"Internships\" section.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "General Internship",
-        "abbr": "COUNS",
-        "id": "90C"
-    },
-    {
-        "initial": "COUNS 90D",
-        "units": "4 units",
-        "description": "Please see \"Internships\" section.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "General Internship",
-        "abbr": "COUNS",
-        "id": "90D"
-    },
-    {
-        "initial": "COUNS 12H",
-        "units": "1 unit",
-        "description": "This course is designed to inform and assist students in making appropriate and satisfying career choices. Using self-evaluation instruments, students identify interests, abilities, values, and goals. Skills necessary for future career investigation and decision-making are included.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "Career Planning",
-        "abbr": "COUNS",
-        "id": "12H"
-    },
-    {
-        "initial": "COUNS 13H",
-        "units": "1 unit",
-        "description": "This course is designed for students who wish to gain greater self-awareness, become more sensitive to others, and improve their communication skills through group interaction.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "Personal and Social Awareness",
-        "abbr": "COUNS",
-        "id": "13H"
-    },
-    {
-        "initial": "COUNS 15H",
-        "units": "1 unit",
-        "description": "The objective of this course is to teach skills necessary for successful job hunting. Skills identification, interviewing techniques, researching the job market, and resume writing are explored. Emphasis is placed on understanding legal rights of a person with a disability under federal and state laws.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "Job Search Techniques",
-        "abbr": "COUNS",
-        "id": "15H"
-    },
-    {
-        "initial": "COUNS 21H",
-        "units": "1 unit",
-        "description": "In the context of word processing, students receive instruction in the assistive technology needed to provide computer access for completion of written academic assignments. This course is designed for the Disabled Students Program and students must enroll through the Disabled Students High Tech Center. Students must be concurrently enrolled in an academic class at Santa Monica College.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "Adapted Computer Technology",
-        "abbr": "COUNS",
-        "id": "21H"
-    },
-    {
-        "initial": "COUNS 22H",
-        "units": "1 unit",
-        "description": "In the context of the appropriate assistive technology and ergonomics, students learn Internet skills and resources helpful for academic coursework. This class is designed for students eligible for the Disabled Students Program, and students must enroll through the Disabled Students/High Tech Center. Students must be concurrently enrolled in academic classes at SMC. Experience with basic word processing skills is strongly suggested.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "Adapted Computer Technology",
-        "abbr": "COUNS",
-        "id": "22H"
-    },
-    {
-        "initial": "COUNS 25H",
-        "units": "0.5 unit",
-        "description": "In the context of the appropriate assistive technology and ergonomics, students learn software programs relevant to their academic success. Programs address academic strategies and reference tools, (e.g., brainstorming, organizing information, planning, spelling and homonym checking, dictionaries and thesauri), text to speech technology, and the fundamentals of industry-standard applications used in mainstream courses (e.g., Excel, Access, Photo Shop). This class is designed for students eligible for the Disabled Students Program, and students must enroll through the Disabled Students/High Tech Center. Students must be concurrently enrolled in academic classes at SMC. Experience with basic word processing skills is strongly suggested.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "Adapted Computer Technology",
-        "abbr": "COUNS",
-        "id": "25H"
-    },
-    {
-        "initial": "COUNS 26",
-        "units": "1 unit",
-        "description": "In the context of the appropriate assistive technology and ergonomics, students learn features of industry-standard applications (e.g., formatting a research paper in Word, creating a multimedia PowerPoint presentation) professors expect students to use for their course assignments. Students will use these technologies to create a short research paper and a PowerPoint presentation relevant to their academic coursework and/or learning strategies. This open-entry, self-paced course is designed for students eligible for the Disabled Students program, and students must enroll through the Disabled Students/High Tech Training Center. Students must be concurrently enrolled in academic classes at SMC.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "Technology Literacy for Academic Success",
-        "abbr": "COUNS",
-        "id": "26"
-    },
-    {
-        "initial": "COUNS 41H",
-        "units": "2 units",
-        "description": "This course is designed for those physically disabled students who wish to function more independently in their activities of daily living (ADL). Emphasis will be placed on skill acquisition in both home and community activities through an application of problem-solving methods and a learning hierarchy. Assessments of functional performance will be administered in order to provide behavioral feedback information and encourage skill improvement. Skills necessary for successful community and college adaptation will be included in instruction. Principles of consumer advocacy and a historical framework of the disabled in the U.S. and California will be included.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "Independent Living Skills",
-        "abbr": "COUNS",
-        "id": "41H"
-    },
-    {
-        "initial": "COUNS 51",
-        "units": "1 unit",
-        "description": "This course is designed to teach specific learning strategies in the areas of test taking and memory. Students will learn to be more successful in taking various types of academic tests by applying specific strategies for test-taking, retaining and recalling information, answering test questions, and learning from mistakes.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "Test Taking/Memory Strategies",
-        "abbr": "COUNS",
-        "id": "51"
-    },
-    {
-        "initial": "COUNS 52",
-        "units": "1 unit",
-        "description": "This course is designed to teach specific learning strategies in the areas of textbook reading and memory. Students will learn to improve comprehension of textbooks by reading actively,creating a variety of study tools from textbooks, and applying techniques for remembering what has been read.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "Textbook/Memory Strategies",
-        "abbr": "COUNS",
-        "id": "52"
-    },
-    {
-        "initial": "COUNS 53",
-        "units": "1 unit",
-        "description": "This course helps students develop strategies to improve phonetic and rule-based spelling. This course also helps students develop vocabulary through understanding of word morphology. This course is designed for students with learning disabilities.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "Phonics",
-        "abbr": "COUNS",
-        "id": "53"
-    },
-    {
-        "initial": "COUNS 54",
-        "units": "1 unit",
-        "description": "The primary emphasis of this class is on time management and task analysis. Students are taught how to break academic assignments down into individual steps and how to schedule these and other tasks on daily, weekly, and monthly calendars. Goal setting, career choice, prioritizing, procrastination, and evaluation of study time and environment are part of this planning process. Also covered are organization of materials and information as well as memory. This class is designed for more mature, motivated students with learning disabilities, particularly attention deficit disorders.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "Organizing for College Sucess",
-        "abbr": "COUNS",
-        "id": "54"
-    },
-    {
-        "initial": "COUNS 56",
-        "units": "1 unit",
-        "description": "This course incorporates the use of computers and software to implement and support the step-by-step stages of writing strategies. This course is designed for students with learning disabilities.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "Written Language Strategies",
-        "abbr": "COUNS",
-        "id": "56"
-    },
-    {
-        "initial": "COUNS 57",
-        "units": "1 unit",
-        "description": "This course is designed to improve a student's ability to actively listen, take lecture notes, and to employ memory strategies. The class is specifically for students with learning disabilities. Assistive technology for note taking is also explored.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "Listening",
-        "abbr": "COUNS",
-        "id": "57"
-    },
-    {
-        "initial": "COUNS 58",
-        "units": "1 unit",
-        "description": "This course teaches students strategies to improve how they learn and perform in mathematics.",
-        "university": "Santa Monica College",
-        "department": "Counseling",
-        "title": "Math Strategies",
-        "abbr": "COUNS",
-        "id": "58"
     },
     {
         "initial": "COUNS 59",
@@ -29698,16 +29658,6 @@
         "title": "Listening",
         "abbr": "COUNS",
         "id": "57"
-    },
-    {
-        "initial": "COUNS 58",
-        "units": "1 unit",
-        "description": "This course teaches students strategies to improve how they learn and perform in mathematics.",
-        "university": "Santa Monica College",
-        "department": "Professional Courses In Kinesiology/Pe",
-        "title": "Math Strategies",
-        "abbr": "COUNS",
-        "id": "58"
     },
     {
         "initial": "COUNS 59",

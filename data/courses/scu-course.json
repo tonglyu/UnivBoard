@@ -31065,9 +31065,7 @@
         "initial": "EDUC 285A",
         "related courses": [
             "EDUC 285",
-            "EDUC 285 M",
-            "EDUC 286",
-            "EDUC 286 M"
+            "EDUC 286"
         ]
     },
     {
@@ -31114,36 +31112,6 @@
         "initial": "EDUC 286B",
         "related courses": [
             "EDUC 231B"
-        ]
-    },
-    {
-        "abbr": "EDUC",
-        "type": "Graduate",
-        "id": "287A",
-        "title": "Math Methods",
-        "description": "EDUC 287 (Secondary Math Methods I) course is Part 1 of a two-course sequence in secondary mathematics teaching methods. This sequence is designed to provide teacher candidates with a coherent set of experiences for mathematics teaching and learning in secondary schools. Through assigned readings, classroom discussions, content rich mathematics activities, and assignments that require data collection in your field placement, you will be supported as you make sense of how to approach the profession of teaching. Through thinking about ourselves as teachers, examining classroom culture and structures, facilitating mathematical discussions, and assessing student work, we will set the stage for our development as secondary mathematics teachers.",
-        "units": "",
-        "university": "Santa Clara University",
-        "school": "School of Education and Counseling Psychology",
-        "department": "Graduate",
-        "initial": "EDUC 287A",
-        "related courses": [
-            "EDUC 287"
-        ]
-    },
-    {
-        "abbr": "EDUC",
-        "type": "Graduate",
-        "id": "287B",
-        "title": "Math Methods",
-        "description": "EDUC 288 (Secondary Math Methods II) course is Part 2 of a two-course sequence in secondary mathematics teaching methods. This sequence is designed to provide teacher candidates with a coherent set of experiences for mathematics teaching and learning in secondary schools. Through assigned readings, classroom discussions, content rich mathematics activities, and assignments that require data collection in your field placement, you will be supported as you make sense of how to approach the profession of teaching. Through thinking about ourselves as teachers, examining classroom culture and structures, facilitating mathematical discussions, and assessing student work, we will set the stage for our development as secondary mathematics teachers.",
-        "units": "",
-        "university": "Santa Clara University",
-        "school": "School of Education and Counseling Psychology",
-        "department": "Graduate",
-        "initial": "EDUC 287B",
-        "related courses": [
-            "EDUC 288"
         ]
     },
     {
