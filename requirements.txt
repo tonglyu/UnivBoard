@@ -1,11 +1,11 @@
+certifi==2019.3.9
 Click==7.0
-gunicorn==19.9.0
 elasticsearch==7.0.0
 Flask==1.0.2
 flask-paginate==0.5.2
+gunicorn==19.9.0
 itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
-urllib3>=1.24.2
+urllib3==1.24.2
 Werkzeug==0.15.2
-certifi

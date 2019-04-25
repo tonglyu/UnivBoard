@@ -1,14 +1,15 @@
 # UnivBoard
 
-## Virtual Environments and Run
+## Run Instructions
 
-http://flask.pocoo.org/docs/1.0/installation/#virtual-environments
-- Before you work on your project, activate the corresponding environment:
+### Virtual Environments
+
+- Activate the corresponding environment:
 ```
 . venv/bin/activate
 (Windows: venv\Scripts\activate)
 ```
-- In order to leave your virtual environment, just run deactivate
+- In order to leave your virtual environment, just run `deactivate`
 - Generate `requirements.txt`
 ```
 pip freeze > requirements.txt
@@ -17,11 +18,14 @@ pip freeze > requirements.txt
 ```
 pip install -r requirements.txt
 ```
-- Download elasticsearch and run under its directory
+
+### Elasticsearch
+
+- Download elasticsearch and run under its directory to start the server
 ```
 bin/elasticsearch
 ```
-- Import data (SCU)
+- Import our data
 ```
 python data/create.py
 ```
@@ -29,4 +33,3 @@ python data/create.py
 ```
 python app.py
 ```
-- `requirements.txt`, `runtime.txt`, `Procfile` files are for deployment to heroku
