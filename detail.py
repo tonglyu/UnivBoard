@@ -19,7 +19,7 @@ def getDetails(es):
             }
         }
         result = es.search(index=index.replace("program", "course"), body=body)
-        if result["hits"] != 0:
+        if result["hits"]["total"]["value"] != 0:
             related.append(result["hits"]["hits"][0]["_source"])
     results['_source']['related courses'] = related
     return results['_source']
