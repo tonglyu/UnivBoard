@@ -10,9 +10,6 @@ results = {}
 #connect to our cluster
 # es = Elasticsearch([{'host': 'https://9yg7zvgsw9:j67pfvx22a@pine-523218699.us-east-1.bonsaisearch.net'}])
 
-# Log transport details (optional):
-logging.basicConfig(level=logging.INFO)
-
 # Parse the auth and host from env:
 bonsai = os.environ['BONSAI_URL']
 auth = re.search('https\:\/\/(.*)\@', bonsai).group(1).split(':')
